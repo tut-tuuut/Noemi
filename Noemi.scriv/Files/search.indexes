@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="7">
+            <Title>Noemi</Title>
+            <Text>Issue du cartel Vilasis, grande famille très influente, maîtrise la firme multistellaire Tartempion.
+Noemi est un peu la brebis galeuse de la famille, la seule à avoir choisi une carrière militaire et non commerciale.</Text>
+        </Document>
+        <Document ID="3">
+            <Title>Untitled</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Tartempion, le médecin</Title>
+            <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.
+Aurait besoin d’un nom dans pas trop longtemps, si possible.</Text>
+        </Document>
+        <Document ID="0">
+            <Title>Noemi</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Chronologie</Title>
+            <Text>À compléter</Text>
+        </Document>
+        <Document ID="1">
+            <Title>Recherches</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Personnages</Title>
+        </Document>
+        <Document ID="2">
+            <Title>Poubelle</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
