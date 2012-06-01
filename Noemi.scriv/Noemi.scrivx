@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.2-15858">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.1-14118">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-01 00:30:27 +0200">
             <Title>Noemi</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-01 00:30:13 +0200">
-                    <Title>Untitled</Title>
+                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-02 01:47:57 +0200">
+                    <Title>Soirée en amoureuses</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <NotesTextSelection>27,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>10363,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="4" Type="Text" Created="2012-06-01 00:31:03 +0200" Modified="2012-06-01 00:31:03 +0200">
@@ -77,6 +77,26 @@
                         <TextSelection>237,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2012-06-01 23:12:38 +0200" Modified="2012-06-01 23:20:49 +0200">
+                    <Title>Lora Jori</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>42,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Type="Text" Created="2012-06-01 23:20:30 +0200" Modified="2012-06-01 23:20:30 +0200">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Type="TrashFolder" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-01 00:30:37 +0200">
@@ -117,8 +137,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">1667</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2012-06-01 01:14:08 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
+        <PreviousSession Words="1737" Characters="10446" Date="2012-06-02 01:49:37 +0200"></PreviousSession>
     </ProjectTargets>
-    <PrintSettings PaperSize="595.200012,841.799988" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

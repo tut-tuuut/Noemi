@@ -4,12 +4,12 @@
 <dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>5</integer>
+		<integer>1</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {191, 550}}</string>
-		<string>{{192, 0}, {708, 550}}</string>
+		<string>{{0, 0}, {191, 701}}</string>
+		<string>{{192, 0}, {1041, 701}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -35,23 +35,23 @@
 	<false/>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {480, 524}}</string>
-		<string>{{481, 0}, {227, 524}}</string>
+		<string>{{0, 0}, {813, 675}}</string>
+		<string>{{814, 0}, {227, 675}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>6</integer>
+		<integer>3</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>mainDocumentEditor.editorGroupsViewMode</key>
 	<integer>2</integer>
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>15</integer>
+		<integer>28</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -182,23 +182,129 @@
 				<key>ViewMode</key>
 				<integer>2</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>9</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>5</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>6</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>7</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>9</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>9</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>10</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>9</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>2</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 304}}</string>
-	<key>mainDocumentEditor.selectedItemIDs</key>
-	<array/>
+	<string>{{0, 2362}, {532, 419.333}}</string>
+	<key>mainDocumentEditor.selectedRanges</key>
+	<string>{10363, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
 		<false/>
 		<key>textScale</key>
-		<integer>100</integer>
+		<integer>150</integer>
 		<key>usesFacingPages</key>
 		<false/>
+		<key>usesTypewriterScrolling</key>
+		<true/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 846 900 572 0 0 2560 1418 </string>
+	<string>47 55 1233 723 0 0 1280 778 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {606, 304}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
