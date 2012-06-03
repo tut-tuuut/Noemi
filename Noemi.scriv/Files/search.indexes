@@ -59,7 +59,7 @@ Lora pleurait franchement, et moi aussi. C’était cruel de devoir choisir entr
             <Notes> contre l’empire d’Akhamar.</Notes>
         </Document>
         <Document ID="8">
-            <Title>Tartempion, le médecin</Title>
+            <Title>Joachim Cassiraud, le médecin</Title>
             <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.
 Aurait besoin d’un nom dans pas trop longtemps, si possible.</Text>
         </Document>
@@ -91,9 +91,25 @@ Je me dirigeai vers les quartiers du commandant, constatai que tout était en or
 Dans mon terminal, de nombreux rapports attendaient d’être lus : la plupart concernaient les opérations de maintenance qui avaient eu lieu pendant ces dernières semaines. Les pièces à renouveler avaient été renouvelées ; bien. On avait remplacé les anciens modèles porte-mines par des vaisseaux plus performants, capables de passer en mode furtif. Cela me surprit un peu. Si on m’équipait avec des vaisseaux derniers cri, il y avait fort à parier que nous serions envoyés au front sur des missions sensibles. L’amiral {Tartempion} avait plutôt eu l’air de dire qu’on s’arrachait ces petits vaisseaux porte-mines, et qu’il faudrait que je patiente encore un peu avant de les inclure dans mes tactiques.
 Je navigai un peu plus loin dans les messages, et j’y découvris ce que j’attendais : un message de la part de l’amirauté qui prenait note de ma demande de congé longue durée à moyen terme pour raisons familiales, et des ordres pour la prochaine mission. J’attendis quelques secondes que le système déchiffre le message, que je lus ensuite avec une grande attention mêlée d’une pointe d’impatience.
 Le contenu des ordres me déçut quelque peu. Le Garibaldi aurait pour tâche de jouer les taxis pour une équipe de recherche scientifique obscure dont je n’avais jamais entendu parler, entre cinq ou six systèmes quasi inhabités. Merveilleux. Autant pour mes qualités reconnues de stratège en situation désespérée. On n’aurait aucun ennemi à croiser ou à berner. Ce serait ennuyeux à mourir pour tout le monde. J’accusai réception du message en appuyant mon pouce contre le bioscan avec une certaine brusquerie. Je me lançai ensuite dans un tour du propriétaire pour me changer les idées.
-</Text>
+❃ ✽ ✾
+« Institut {tartempionesque} de recherche à l’arrivée » lança l’officier du pont. Le petit orchestre entonna l’air traditionnel que l’on jouait lorsque des invités importants arrivaient à bord d’un vaisseau républicain. Bien. Tout se passait sans accroc. J’ajustai ma position de garde-à-vous et je reportai mon regard vers le boyau d’arrivée.
+Deux hommes relativement jeunes en combinaison souple émergèrent du boyau zéro-G pour se rétablir avec difficulté sur le pont à gravité standard (ils n’avaient donc pas l’habitude des voyages spatiaux). Un troisième plus âgé émergea à son tour et se rétablit parfaitement. J’en déduisis qu’il s’agissait du Dr. Jonas Cassireau — rien à voir avec mon docteur Joachim Cassiraud —, le responsable de l’expédition scientifique. Le dossier que j’avais reçu le désignait comme un professeur renommé, spécialiste en xéno-archéologie, qui avait l’habitude de parcourir la galaxie à la recherche de ruines de civilisations extra-terrestres disparues. Je n’avais jamais entendu parler du type, mais j’imaginais que c’était parce que je n’avais pas pour habitude de lire de la littérature scientifique pendant mon temps libre.
+Le Dr. Cassireau s’approcha de moi et me serra la main mollement. Il avait un ventre proéminent, des petits yeux noirs qui louchaient légèrement et une moustache gris-bleu mal taillée. Il n’esquissa pas un début de sourire quand il m’adressa la parole :
+« Madame, je suis enchanté de faire votre connaissance et d’être accueilli sur ce vaisseau. J’espère que nous ferons du bon travail ensemble. »
+Son haleine avait une odeur fort désagréable — je ne reconnaissais pas exactement cette odeur, mais elle me rappelait de mauvais souvenirs — et il m’avait appelé « Madame ». S’il avait l’habitude de voyager sur des vaisseaux de la république, il savait forcément qu’il fallait s’adresser aux commandants de vaisseaux par le terme « commandant ». Donc soit il était en train de se moquer ouvertement de moi, soit c’était un imposteur qui avait usurpé l’identité de quelqu’un d’autre. Je misai sur la première solution, et décidai de contre-attaquer presque subtilement en n’utilisant pas son titre de docteur ou de professeur, tout en écorchant son nom.
+« Monsieur Chassireau, c’est un honneur pour moi d’accueillir une équipe comme la vôtre sur mon vaisseau. Je suis sûre que nous pouvons travailler correctement ensemble, pour peu que chacun y mette du sien. » Je remarquai avec satisfaction le tic nerveux qui agita ses petits yeux idiots quand il me reprit.
+« Cassireau, madame. Docteur Jonas Cassireau, pas Chassireau.
+— Commandant, monsieur. Pas “madame”. Désolée. J’ai dû lire mon dossier trop vite. Très bien, docteur. Je vous laisse prendre possession de vos quartiers. Je vous attends, vous et votre équipe, à la salle à manger à dix-huit zéro zéro. Rompez. »
+Alors que la haie d’honneur filait au petit galop pour rejoindre les quartiers d’équipage, le docteur Cassireau me fixa avec dans les yeux une fureur brûlante qui me fit chaud au cœur. Je sentis que cette mission n’allait pas se passer dans la joie et la bonne humeur, mais j’avais toujours détesté les passagers arrogants qui considéraient les militaires comme des brutes épaisses. Je prenais toujours un certain plaisir à les remettre à leur place quand ils étaient sur un vaisseau que je commandais.
+❃ ✽ ✾
+Le repas avait eu lieu dans un silence glacial, comme je m’y attendais. Les officiers de commandement avaient déjeuné avec nous.</Text>
             <Notes>Ensuite : Noemi pose son préavis de départ.
 Quelques temps après : on embarque un mec des services secrets qui veut faire des trucs sur Mikuro, un système près de la frontière mais pas franchement stratégique.</Notes>
+        </Document>
+        <Document ID="11">
+            <Title>Jonas Cassireau, le chercheur</Title>
+            <Synopsis>Chercheur en xéno-archéologie</Synopsis>
+            <Text>Thème : the whirling infinite</Text>
         </Document>
         <Document ID="9">
             <Title>Lora Jori</Title>
