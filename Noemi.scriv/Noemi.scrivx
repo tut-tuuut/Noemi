@@ -17,14 +17,14 @@
                         <TextSelection>10446,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" Type="Text" Created="2012-06-01 00:31:03 +0200" Modified="2012-06-03 19:25:02 +0200">
+                <BinderItem ID="4" Type="Text" Created="2012-06-01 00:31:03 +0200" Modified="2012-06-03 20:11:07 +0200">
                     <Title>Départ</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>209,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12334,0</TextSelection>
+                        <TextSelection>12984,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -148,7 +148,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="664" Characters="4213" Date="2012-06-03 19:25:14 +0200"></PreviousSession>
+        <PreviousSession Words="770" Characters="4863" Date="2012-06-03 23:57:48 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

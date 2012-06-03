@@ -32,7 +32,7 @@
 	<key>editorSplitType</key>
 	<integer>0</integer>
 	<key>inspectorIsCollapsed</key>
-	<false/>
+	<true/>
 	<key>inspectorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {813, 675}}</string>
@@ -425,15 +425,15 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2644.67}, {532, 419.333}}</string>
+	<string>{{0, 2530.29}, {586.286, 359.429}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{12334, 0}</string>
+	<string>{12984, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
 		<false/>
 		<key>textScale</key>
-		<integer>150</integer>
+		<integer>175</integer>
 		<key>usesFacingPages</key>
 		<false/>
 		<key>usesTypewriterScrolling</key>
