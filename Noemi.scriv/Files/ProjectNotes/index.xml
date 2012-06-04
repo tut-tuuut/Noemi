@@ -2,5 +2,10 @@
 <ProjectNotes Version="1.0">
     <Note ID="10">
         <Title>General</Title>
+        <SelectedTextRange>4512,0</SelectedTextRange>
+    </Note>
+    <Note ID="11">
+        <Title>Compléments NaNo 2011</Title>
+        <SelectedTextRange>825,0</SelectedTextRange>
     </Note>
 </ProjectNotes>
