@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="7">
-            <Title>Noemi</Title>
-            <Text>Issue du cartel Vilasis, grande famille très influente, maîtrise la firme multistellaire Tartempion.
-Noemi est un peu la brebis galeuse de la famille, la seule à avoir choisi une carrière militaire et non commerciale.</Text>
+        <Document ID="10">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="3">
             <Title>Soirée en amoureuses</Title>
@@ -58,10 +56,10 @@ Lora pleurait franchement, et moi aussi. C’était cruel de devoir choisir entr
 — Une petite fille. Lora, je veux un enfant de toi. S’il te plaît. »</Text>
             <Notes> contre l’empire d’Akhamar.</Notes>
         </Document>
-        <Document ID="8">
-            <Title>Joachim Cassiraud, le médecin</Title>
-            <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.
-Aurait besoin d’un nom dans pas trop longtemps, si possible.</Text>
+        <Document ID="11">
+            <Title>Jonas Cassireau, le chercheur</Title>
+            <Synopsis>Chercheur en xéno-archéologie</Synopsis>
+            <Text>Thème : the whirling infinite</Text>
         </Document>
         <Document ID="4">
             <Title>Départ</Title>
@@ -122,15 +120,6 @@ Je soupirai. Cette mission allait durer très, très longtemps.</Text>
             <Notes>Ensuite : Noemi pose son préavis de départ.
 Quelques temps après : on embarque un mec des services secrets qui veut faire des trucs sur Mikuro, un système près de la frontière mais pas franchement stratégique.</Notes>
         </Document>
-        <Document ID="11">
-            <Title>Jonas Cassireau, le chercheur</Title>
-            <Synopsis>Chercheur en xéno-archéologie</Synopsis>
-            <Text>Thème : the whirling infinite</Text>
-        </Document>
-        <Document ID="9">
-            <Title>Lora Jori</Title>
-            <Text>La fiancée de Noemi dans son ancienne vie.</Text>
-        </Document>
         <Document ID="5">
             <Title>Chronologie</Title>
             <Text>À compléter</Text>
@@ -157,16 +146,114 @@ Ils étaient mignons.
 ❃ ✽ ✾
 De retour dans ma cabine, je rappelai à l’ensemble de l’équipage que nous allions sortir d’hyper sous peu. L’ensemble de l’équipage devait être en combinaison d’ici la transition. Comme convenu, je n’adressai pas la parole à notre illustre et détestable passager. Je lui envoyai simplement un petit mot électronique :
 Professeur Cassireau,
-Le Garibaldi sortira d’hyper dans deux heures et une minute. En raison des risques posés par le conflit avec l’empire d’Arkhenar, conformément aux dispositions R-5246 du règlement spatial en temps de guerre, l’ensemble des passagers et de l’équipage devra être en combinaison ou armure légère au moment de la transition hyper-normal. Si vous ne respectez pas cette consigne, la flotte déclinera toute responsabilité en cas de dommage, létal ou non, consécutif à une dépressurisation brusque d’une partie du bateau.
+Le Garibaldi sortira d’hyper dans deux heures et une minute. En raison des risques posés par le conflit avec l’empire d’Arkhenar, conformément aux dispositions R-5246 du règlement spatial en temps de guerre, l’ensemble des passagers et de l’équipage devra être en combinaison ou armure légère au moment de la transition hyper-normal. Si vous ne respectez pas cette consigne, la flotte déclinera toute responsabilité en cas de dommage, létal ou non, consécutif à une dépressurisation brusque d’une partie du vaisseau.
 Par ailleurs, pour votre confort et celui de votre équipe, il est conseillé de garder un sac à déchets à portée de main pendant toute la durée de la transition. Nous quitterons les bandes δ dans moins de 30 minutes. Les nausées et les vomissements sont plus fréquents en toute fin de transition, vers l’espace normal, mais il est fréquent que les personnes peu habituées soient sujettes aux malaises dès les transitions concernant les bandes élevées.
 N.V.
-</Text>
+Je ne m’attendais pas à ce que Cassireau tienne compte de mes conseils, mais j’espérais que ses deux coéquipiers auraient droit à leur petit sac. Les premières fois étaient indéniablement désagréables, et les suivantes n’étaient jamais agréables non plus. Je parcourus à nouveau mes messages. Rien de neuf n’était arrivé pendant le quart de {Tartempion le second}. J’avais encore le temps de me doucher avant d’enfiler ma combi et d’aller surveiller les transitions de sortie d’hyper depuis le pont de commandement. Il faudrait être très au point pour la sortie hyper : on ne savait rien de ce qui nous attendait dans le système d’Ashkyl.
+❃ ✽ ✾
+« Propulseurs hyper stabilisés. Noyaux normaux prêts. Transition alpha-normal dans trente… »
+La tension était palpable sur le pont. Nous nous apprêtions à sortir d’hyper dans un système de la république où pouvaient se trouver des dizaines de croiseurs ennemis en planque. Et le pire dans tout ça, c’est qu’on ne savait même pas ce qu’on allait chercher sur ce système.
+« vingt secondes… »
+Cassireau n’avait rien voulu lâcher quant à notre destination. Nous ne savions rien de l’objectif, seulement qu’il s’agissait de la planète recouverte d’une grosse jungle qui nous attendait là. Je savais juste que Cassireau voulait une équipe de fusiliers au sol pour les protéger. Je voulais bien le comprendre sur ce coup-là. Ce qu’on avait entendu de la faune et de la flore d’Ashkyl, ce n’était pas le genre d’histoire qu’on raconte aux enfants pour qu’ils fassent de beaux rêves. En outre, elle était assez isolée par rapport aux routes commerciales et éloignée de la plupart des mondes civilisés de la république — même pour une civilisation qui maîtrisait le voyage hyper. Nul n’avait donc jugé utile de tenter de la coloniser. On ne manquait pas de mondes habitables par ailleurs…
+« Dix, neuf, huit… »
+Tout l’équipage de navigation était concentré sur ses écrans. J’aimais bien regarder un navigateur au travail. Tout semblait se passer pour le mieux.
+« …sept, six, cinq… »
+{Tartempion}, le pilote qui reprendrait les commandes sitôt le passage en espace normal effectué, était tendu sur son siège. Aucun signe de nervosité, juste de l’intense concentration. Je comprenais tout à fait ce qui se passait dans sa tête.
+« …quatre, trois, deux, un, transition. »
+Hop. Dans le visuel des pilotes, un flash vert envahit le hublot avant de laisser réapparaître les étoiles.
+Nous nous attardâmes sur le visuel tactique qui était mis à jour au fur et à mesure que les sondes du vaisseau récupéraient les informations après la sortie de l’hyper.
+« Rien pour l’instant », murmura {Tartempion}, l’officier tactique.
+« Mh », approuvai-je en analysant rapidement la situation. « Mais elles n’ont pas vu bien loin pour l’instant. Lancez les drones. Un vers {bidule} et un autre vers {truc}. » Je constatai avec plaisir que mes ordres étaient exécutés immédiatement. Ils avaient été bien entraînés pendant le voyage hyper. « {Tartempion l’officier de navigation}, je ne veux pas prendre de risque. Cap direction {machin}. C’est celle qui nous permet d’optimiser au mieux ce que voient les sondes et qui maximise nos chances de repli en cas de problème. Nous avons le temps, je préfère aller un peu moins vite et un peu plus cher plutôt qu’un peu plus risqué. C’est trop dangereux.
+— À vos ordres, commandant. »
+Les minutes passèrent, devinrent des heures, et les résultats des sondes et des drones se firent définitifs : personne dans le système, aucune anomalie détectée même en capteurs actifs. Bien. Nous serions tranquilles pour cette première exploration.
+❃ ✽ ✾
+Je regardai s’éloigner du Garibaldi le petit point vert représentant la navette, qui contenait l’équipe de Cassireau, un pilote et une vingtaine de fusiliers. J’espérais de toutes mes forces que tout se passerait bien de leur côté. J’espérais un peu moins fort, mais j’espérais quand même, que Cassireau serait satisfait de ce qu’il trouverait sur place. Je n’avais toujours aucune idée de ce qu’il cherchait, mais s’il mettait la main sur quelque chose, cela pourrait peut-être améliorer son humeur… voire son opinion de nous. On pouvait toujours rêver.
+Je décidai de rester surveiller les communications entre la navette et le Garibaldi jusqu’à une à deux heures après l’atterrissage. Ensuite, si tout se passait bien, le laisserais la main à mon second pour prendre quelques heures de sommeil. La dernière fois que j’avais fermé l’œil, c’était dans l’hyperespace, et nous avions parcouru un sacré chemin depuis…
+Je surveillai l’état de la navette et le visuel tactique — toujours vide, heureusement — pendant tout le temps de la descente.
+« Entrée dans l’atmosphère. Tout se passe bien. {Navette tartempion}, terminé.
+— Bien reçu. Garibaldi, terminé. »
+Il se passa encore de longues minutes avant qu’une autre communication n’arrive pour signaler que l’atterrissage s’était bien déroulé. Les fusiliers étaient sortis pour sécuriser la zone, ils avaient descendu quelques bestioles mais rien d’insurmontable. Fort bien.
+{à compléter ?}</Text>
         </Document>
         <Document ID="6">
             <Title>Personnages</Title>
         </Document>
-        <Document ID="10">
-            <Title>Untitled</Title>
+        <Document ID="13">
+            <Title>Prisonnière</Title>
+            <Text>« Et Cassireau ? Que fait-il maintenant que nous l’avons emmené là où il voulait ?
+— Il sonde la terre avec des instruments étranges, il creuse, et il continue à sonder. Il dit souvent “ça ne va pas du tout du tout” à ses collègues, mais il nous laisse plutôt tranquilles.
+— D’accord. Et la planète ?
+— Pas franchement amicale, je dois dire. Des lianes qui poussent à plusieurs centimètres par minute. Il ne faut pas s’endormir à l’extérieur, et on débrousaille continuellement la navette. On a peur qu’elle reste accrochée si on ne coupe pas toute cette verdure au fur et à mesure.
+— Je vois. Rien de plus dangereux ?
+— On suppose qu’il y a des gros prédateurs carnivores, mais on n’en a pas vu pour l’instant. Les bestioles qu’on a descendues à l’arrivée, après examen, ne semblent pas dangereuses finalement. On a laissé leurs copines tranquilles. Non, commandant, ce qui m’étonne le plus, c’est la flore. Ces plantes bougent trop vite. »
+❃ ✽ ✾
+« Emprunte hyper ! Commandant ! Emprunte hyper à {machin bidule truc} !
+— Pas de panique, Tartempion. Analyse le signal. Attends de voir s’il n’y en a qu’une. » Tartempion était tout jeune, il n’était sur le vaisseau que depuis {x semaines - depuis que Noemi est revenue de Ludealis la dernière fois en fait}. Il était vif. Peut-être un peu trop. Il ne fallait pas paniquer au moindre imprévu.
+Quelques secondes, puis quelques minutes s’écoulèrent sans que d’autres empruntes hyper n’apparaissent sur le visuel. Je me méfiais un peu tout de même. La technique était courante : envoyer un vaisseau en éclaireur pour sonder les environs, et si aucun problème n’est détecté, toute la flotte sort d’hyper quelques minutes plus tard.
+« Tartempion. » dis-je à mon jeune officier.
+Le pauvre sursauta comme si quelque chose venait de lui exploser dans les mains. Un peu trop vif, décidément.
+« Tartempion. Pas de panique. Est-ce que l’analyse donne quelque chose ?
+— Euh. Pas grand-chose, non. En tout cas, rien de connu dans la base de données embarquée. J’ai demandé à l’ordinateur d’interpoler les caractéristiques physiques à partir du signal détecté. Encore quelques secondes…
+— Bien. » Peut-être pas trop vif, finalement.
+« On dirait un vaisseau vraiment tout petit, reprit {Tartempion}. Du genre taille minimum pour un vaisseau hypercapable. Probablement moins de trente membres d’équipage, et pas armé a priori. Propulseur de technologie impériale, probablement.
+— Étonnant. On dirait un petit vaisseau d’exploration. Un tout petit vaisseau comme ça ici ? De l’exploration de systèmes hostiles, en territoire ennemi en temps de guerre ? Ce n’est sûrement pas un militaire qui a envoyé ce vaisseau ici.
+— Ou alors c’est un piège.
+— Possible. Faisons-nous discrets. Nous tenterons de l’intercepter seulement s’il s’approche trop pour pouvoir repartir en hyper prévenir des copains.
+— Entendu. J’active le mode furtif.
+— Envoie un message à la navette à terre — ultra-directionnel, attention — pour leur demander de rester sur place, d’éviter de décoller jusqu’à nouvel ordre sauf danger grave.
+— À vos ordres. »
+❃ ✽ ✾
+Le vaisseau intrus était vraiment un vaisseau d’exploration. Ils ne firent pas de résistance lorsque nous leur ordonnâmes d’arrêter les propulseurs et de se préparer à l’abordage. Un fusilier suffit pour arraisonner leur équipage. Quatre personnes ! Quatre personnes au milieu du territoire ennemi. Quelque chose était vraiment étrange ici.
+Les prisonniers arrivèrent sur le pont, amenés par le fusilier. Une femme assez âgée — « fatiguée » était peut-être un mot plus juste — semblait être leur chef. Elle m’adressa un sourire et prit la parole.
+« Commandant, enchantée de vous rencontrer. Je suis Hadelhaide Van Fitzgerald. »
+Elle parlait un anglais standard impeccable, teinté d’un léger accent germanique. Une impériale, pas de doute. Et pas de rang négligeable…
+« Noemi Vilasis, capitaine de vaisseau, commandant du Garibaldi. Je suis au regret de vous informer que vous êtes mes prisonniers.
+— Je n’ai pas l’intention de résister.
+— Pourrions-nous avoir une conversation en privé ?
+— S’il vous plaît. »
+❃ ✽ ✾
+{Tartempion, le maître d’hôtel} versa un verre de vin rouge à Hadelhaide, et me servit une tasse de café serré. Tandis qu’elle goûtait le vin, j’engageai la conversation en allant droit au but.
+« Hadelhaide, vous n’êtes pas une roturière. Que fait une dame de noble naissance dans ce système perdu, en plein milieu de la guerre ? »
+Elle leva les yeux de son verre et plongea son regard dans le mien. Sa bouche dessina un sourire espiègle, puis elle me répondit.
+« Vous êtes franche et directe, commandant. C’est une qualité qui manque un peu dans mon milieu. Je vais donc vous répondre franchement et directement à mon tour. Pourquoi suis-je ici maintenant ? C’est un peu compliqué. Je suis noble, en effet, mais je ne suis pas politicienne. En réalité, je suis scientifique. Mon mari également. Je suis venue ici pour essayer de répondre à certaines questions sur mes recherches, mais… je vais devoir attendre un peu pour avoir mes réponses, je le crains.
+— Que cherchiez-vous ici ? Ce système est vide et inhabité. »
+Elle décroisa les jambes et se redressa sur sa chaise.
+« Inhabité, oui, acquiesca-t-elle. Mais vide, non. N’avez-vous pas vu cette planète si verte, autour de laquelle nous sommes en orbite en ce moment même ?
+— Si, bien sûr. Mais les mondes avec de la vie ne sont pas si rares. Ce n’est qu’un monde parmi d’autres.
+— En effet, les mondes abritant de la vie sont légion. Ne trouvez-vous pas cela étrange ? N’importe quel physicien vous expliquera que l’origine de la vie reste un grand mystère, une coïncidence improbable et étonnante au regard de la complexité du processus. Cette coïncidence se serait-elle produite par hasard sur tous ces mondes séparés par des milliards de kilomètres ?
+— Eh bien, visiblement, oui.
+— Avant de découvrir quelques faits troublants ces dernières années, je pensais comme vous. Mais, alors que je tentais d’étudier certaines propriétés physiques de minéraux rares, j’ai mis le doigt sur des coïncidences troublantes qui m’ont mise sur des travaux de xéno-archéologie. Je cherche des traces de civilisations anciennes extraterrestres, et j’ai de bonnes raisons de croire qu’il en existe sur cette planète.
+— Fascinant, répondis-je, sincèrement fascinée. Mais pourquoi me racontez-vous tout cela ? Je suis un officier ennemi. Tout ce que vous dites pourrait être utilisé par {nom de la république}, a priori contre {nom de l’empire}.
+— Je ne suis pas militaire non plus. Je m’intéresse à la science, pas aux querelles de politiciens ou de militaires. J’estime que mes recherches font avancer l’humanité, et qu’elles intéressent tous les êtres humains. Je me fiche de savoir pour qui ils travaillent. »
+Hadelhaide, bien qu’ayant une opinion assez basse des militaires également, me semblait infiniment plus sympathique que Cassireau. Sa philosophie me plaisait bien plus que celle de Cassireau. J’envisageai un instant de procéder à un échange standard entre mes prisonniers de guerre et mes « invités de marque ». Cependant, il valait peut-être mieux éviter le tribunal de guerre, toute démissionnaire que je sois.
+« J’aimerais que tous les scientifiques pensent comme vous. Malheureusement, je suis militaire et je travaille dans l’autre camp, l’échange entre nous se fera donc à sens unique. J’espère que vous ne m’en voulez pas trop.
+— Aucunement. Je pense que tout ce qui m’intéresserait et que vous ne voudrez pas me dire, c’est la raison qui vous amène ici. Secret d’état, j’imagine.
+— En effet. Mais cela ne m’empêche pas de vous traiter avec le respect dû à votre rang. Voulez-vous déguster quelque chose de plus consistant ?
+— Avec plaisir. Au fait, pas la peine de vous fatiguer : je sais bien que vous êtes ici pour protéger Jonas Cassireau dans ses recherches. »
+Mon cœur rata un battement. Je fixai Hadelhaide dans les yeux, nettement plus méfiante. Elle souriait toujours franchement.
+« C’est lui-même qui me l’a dit. Il se trouve qu’il échangeait quelques informations avec mon mari, occasionnellement. Ses recherches l’ont mené aux mêmes conclusions que nous, visiblement… Et la dernière fois que j’avais reçu des nouvelles de lui, c’était dans un message où il se plaignait que Noemi Vilasis, le capitaine qui devait le protéger, était en permission pour une durée scandaleusement excessive. J’ai rapidement fait le lien quand vous m’avez décliné votre identité.
+— Je vois… Je pense donc que vous en savez plus que moi sur ce que fabrique Cassireau sur Askhyl. Y a-t-il d’autres choses que vous savez déjà et que je n’ai donc pas besoin de me fatiguer à cacher ?
+— Oui. Vous. Je sais que vous êtes de « noble naissance » dans la société {nom de la république}. Le cartel Vilasis, une des multistellaires les plus puissantes et riches de la république. Noemi Vilasis, la brebis galeuse qui dédaigne la puissance financière de sa famille pour se tourner vers une carrière militaire contre l’avis unanime de sa famille. Noemi Vilasis, qui épouse une femme quand elle est issue d’une des dernières familles conservatrices de la galaxie. J’ai l’impression que vous n’aimez pas trop suivre les routes toutes tracées, me trompé-je ?
+— Je crois que je suis un peu comme vous. Je ne m’intéresse pas à la politique. Je veux juste le bien. Je pensais faire mieux le bien en suivant une carrière de spatiale qu’en brassant des millions. Je trace les routes qui m’intéressent. Je ne pense pas fuir expressément les routes déjà tracées. »
+Hadelhaide sourit, creusant des petites rides autour de ses yeux. J’aimais bien cette femme.
+« Nous sommes pareilles, assurément. À la vôtre, Noemi Vilasis. Aux routes qui nous intéressent. »</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Noemi</Title>
+            <Text>Issue du cartel Vilasis, grande famille très influente, maîtrise la firme multistellaire Tartempion.
+Noemi est un peu la brebis galeuse de la famille, la seule à avoir choisi une carrière militaire et non commerciale.</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Joachim Cassiraud, le médecin</Title>
+            <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.
+Aurait besoin d’un nom dans pas trop longtemps, si possible.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Suite</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Lora Jori</Title>
+            <Text>La fiancée de Noemi dans son ancienne vie.</Text>
         </Document>
     </Documents>
 </SearchIndexes>
