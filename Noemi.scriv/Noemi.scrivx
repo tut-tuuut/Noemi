@@ -47,7 +47,7 @@
                         <TextSelection>3663,10</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" Type="Text" Created="2012-06-06 23:33:37 +0200" Modified="2012-06-10 22:40:41 +0200">
+                <BinderItem ID="14" Type="Text" Created="2012-06-06 23:33:37 +0200" Modified="2012-06-11 23:33:18 +0200">
                     <Title>Suite</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -57,24 +57,34 @@
                         <TextSelection>4578,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" Type="Text" Created="2012-06-10 22:44:56 +0200" Modified="2012-06-10 23:44:05 +0200">
+                <BinderItem ID="16" Type="Text" Created="2012-06-10 22:44:56 +0200" Modified="2012-06-11 11:39:04 +0200">
                     <Title>Encore un chapitre</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <NotesTextSelection>140,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>4841,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-10 19:32:18 +0200">
+                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-11 16:22:16 +0200">
                     <Title>Autour de Mikuro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>432,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5384,0</TextSelection>
+                        <TextSelection>7674,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2012-06-11 16:22:22 +0200" Modified="2012-06-11 23:54:42 +0200">
+                    <Title>Tempête</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>273,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8073,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -199,7 +209,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="2027" Characters="12447" Date="2012-06-10 23:44:05 +0200"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2012-06-12 00:03:26 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
