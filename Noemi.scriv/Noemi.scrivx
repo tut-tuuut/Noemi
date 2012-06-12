@@ -77,14 +77,14 @@
                         <TextSelection>7674,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="17" Type="Text" Created="2012-06-11 16:22:22 +0200" Modified="2012-06-11 23:54:42 +0200">
+                <BinderItem ID="17" Type="Text" Created="2012-06-11 16:22:22 +0200" Modified="2012-06-12 22:15:38 +0200">
                     <Title>Tempête</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>273,0</NotesTextSelection>
+                        <NotesTextSelection>889,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8073,0</TextSelection>
+                        <TextSelection>16946,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -168,6 +168,38 @@
                         <TextSelection>29,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="18" Type="Folder" Created="2012-06-12 21:25:55 +0200" Modified="2012-06-12 21:26:18 +0200">
+                    <Title>Garibaldi</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="19" Type="Text" Created="2012-06-12 21:26:23 +0200" Modified="2012-06-12 21:28:00 +0200">
+                            <Title>Beumers, Paula</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>81,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" Type="Text" Created="2012-06-12 21:26:46 +0200" Modified="2012-06-12 21:38:49 +0200">
+                            <Title>Beumers, Mathilde</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>77,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Type="TrashFolder" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-01 00:30:37 +0200">
@@ -208,8 +240,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">1667</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2012-06-12 00:03:26 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2500</SessionTarget>
+        <PreviousSession Words="1766" Characters="10945" Date="2012-06-12 22:20:25 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
