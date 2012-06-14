@@ -87,14 +87,14 @@
                         <TextSelection>28579,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="21" Type="Text" Created="2012-06-13 18:11:03 +0200" Modified="2012-06-13 23:41:39 +0200">
+                <BinderItem ID="21" Type="Text" Created="2012-06-13 18:11:03 +0200" Modified="2012-06-14 19:13:56 +0200">
                     <Title>Ça pourrait être pire</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>1203,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9930,0</TextSelection>
+                        <TextSelection>18343,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -251,7 +251,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2500</SessionTarget>
-        <PreviousSession Words="2500" Characters="14976" Date="2012-06-13 23:44:41 +0200"></PreviousSession>
+        <PreviousSession Words="1423" Characters="8413" Date="2012-06-14 19:39:31 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
