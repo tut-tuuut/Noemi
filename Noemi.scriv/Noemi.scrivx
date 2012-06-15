@@ -97,7 +97,7 @@
                         <TextSelection>21831,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-15 22:42:13 +0200">
+                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-16 00:52:59 +0200">
                     <Title>Difficile à tuer</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -261,7 +261,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2500</SessionTarget>
-        <PreviousSession Words="586" Characters="3488" Date="2012-06-15 22:42:13 +0200"></PreviousSession>
+        <PreviousSession Words="621" Characters="3790" Date="2012-06-16 00:52:59 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
