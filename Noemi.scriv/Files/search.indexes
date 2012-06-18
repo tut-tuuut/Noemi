@@ -1,14 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="25">
+            <Title>Mikuro</Title>
+            <Synopsis>La planète sur laquelle se crashe la navette du Garibaldi.</Synopsis>
+        </Document>
+        <Document ID="18">
+            <Title>Garibaldi</Title>
+            <Synopsis>Le vaisseau de Noemi.</Synopsis>
+            <Notes>Survivants :
+	1.	Joachim Cassiraud
+	2.	Noemi Vilasis
+	3.	Jing Stark, jeune matelot, pas blessé, qui va au fond du trou avec Joachim
+	4.	Thomas Lane, le pilote du Garibaldi, blessé
+	5.	Dylan Xi,  officier de comm, aide Alice à tenir debout.
+	6.	Alice Brion, officier de comm, jambe cassée
+	7.	Adriel Ming, un pas blessé qui saute prestement de la navette (ingénieur)
+	8.	Hiram Perry, un tartempion qui boitille (ingénieur)
+	9.	Saël Reeves, un des deux infirmiers tartempion de Joachim
+	10.	Mathilde Beumers, artilleur
+	11.	Paula Beumers, artilleur, jumelle de Mathilde. Toutes deux pro et efficaces.
+	12.	Elias No Awormin grand gaillard musclé visage carré - fusilier
+	13.	Alma Froidhiver longs cheveux blonds bouclés
+	14.	Kadec Radcliff - menu, cheveux noirs
+	15.	Victoria De Vinn
+⇒ 15 survivants sur 60 : 25% de survie aux nanites. Donc c’est pas aussi rare que ça, mais ça fait quand même de sacrés risques de ne pas s’en sortir…
+
+Reparler de la fièvre.
+
+Dans le tunnel avec Noemi : les jumelles et Elias.
+</Notes>
+        </Document>
         <Document ID="10">
             <Title>Untitled</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Renan et Luce Allington</Title>
+            <Synopsis>Les parents de Frédéric, mais on ne connaît pas encore Frédéric.</Synopsis>
         </Document>
         <Document ID="19">
             <Title>Beumers, Paula</Title>
             <Text>Infectée par les nanites comme sa jumelle Mathilde.
 Son pouvoir : entendre bien.
 </Text>
+        </Document>
+        <Document ID="11">
+            <Title>Jonas Cassireau, le chercheur</Title>
+            <Synopsis>Chercheur en xéno-archéologie</Synopsis>
+            <Text>Thème : the whirling infinite</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Voyage</Title>
+            <Text>« 93 points. Pas mal.
+— Joli ! Je n’en suis qu’à 65.
+— Mais comment vous faites ? J’ai donné tout ce que j’ai pu et j’en suis à 37 !
+— L’habitude, {Tartempion}. Mais attends de voir ce que va dire le pacha. Elle nous aplatit à chaque partie depuis 3 semaines que nous sommes partis. »
+Je souris en coin sous le regard interrogateur de Joachim. J’avais appris ce jeu à l’académie de pilotage, et je commençais à le maîtriser. Il s’agissait d’un jeu de stratégie constitué d’environ 250 cartes dans lequel les joueurs tentaient de maîtriser une galaxie qui ressemblait à peu près à la nôtre (mais avec des aliens et une guerre entre « rebelles » et un « imperium »). À présent, je m’amusais plus à l’enseigner à des joueurs peu expérimentés qu’à gagner les parties (mais évidemment, je gagnais toujours. Je connaissais par cœur les interactions entre cartes et les différentes stratégies pour gagner). J’annonçai mon score.
+« 110. Mais j’ai triché. J’y joue depuis 20 ans. »
+Peut-être, je l’avoue, que les regards ébahis des débutants faisaient partie du plaisir.
+Je jetai un œil à la pendule : il était temps d’arrêter de s’amuser.
+« Bon. Le Garibaldi va sortir d’hyper dans deux grosses heures. Il va falloir que je vous laisse. Et vous allez devoir arrêter de jouer bientôt aussi.
+— À vos ordres, pacha.
+— À tout à l’heure, pacha.
+— Et pas de mots déplacés sur Chassireau, hein ? » me sentis-je obligée d’ajouter. L’équipage, comme je l’avais prévu, détestait cordialement Cassireau. Nous l’appelions Chassireau pour éviter les confusions avec notre gentil Docteur Cassiraud. Comme il ne sortait jamais le nez du bloc laboratoire embarqué dans la soute, il était assez facile d’éviter les accidents diplomatiques. De toute façon je me fichais pas mal des accidents diplomatiques.
+« Nous ?
+— Oh.
+— Allons.
+— Jamais. »
+Ils étaient mignons.
+❃ ✽ ✾
+De retour dans ma cabine, je rappelai à l’ensemble de l’équipage que nous allions sortir d’hyper sous peu. L’ensemble de l’équipage devait être en combinaison d’ici la transition. Comme convenu, je n’adressai pas la parole à notre illustre et détestable passager. Je lui envoyai simplement un petit mot électronique :
+Professeur Cassireau,
+Le Garibaldi sortira d’hyper dans deux heures et une minute. En raison des risques posés par le conflit avec l’empire d’Arkhenar, conformément aux dispositions R-5246 du règlement spatial en temps de guerre, l’ensemble des passagers et de l’équipage devra être en combinaison ou armure légère au moment de la transition hyper-normal. Si vous ne respectez pas cette consigne, la flotte déclinera toute responsabilité en cas de dommage, létal ou non, consécutif à une dépressurisation brusque d’une partie du vaisseau.
+Par ailleurs, pour votre confort et celui de votre équipe, il est conseillé de garder un sac à déchets à portée de main pendant toute la durée de la transition. Nous quitterons les bandes δ dans moins de 30 minutes. Les nausées et les vomissements sont plus fréquents en toute fin de transition, vers l’espace normal, mais il est fréquent que les personnes peu habituées soient sujettes aux malaises dès les transitions concernant les bandes élevées.
+N.V.
+Je ne m’attendais pas à ce que Cassireau tienne compte de mes conseils, mais j’espérais que ses deux coéquipiers auraient droit à leur petit sac. Les premières fois étaient indéniablement désagréables, et les suivantes n’étaient jamais agréables non plus. Je parcourus à nouveau mes messages. Rien de neuf n’était arrivé pendant le quart de {Tartempion le second}. J’avais encore le temps de me doucher avant d’enfiler ma combi et d’aller surveiller les transitions de sortie d’hyper depuis le pont de commandement. Il faudrait être très au point pour la sortie hyper : on ne savait rien de ce qui nous attendait dans le système d’Ashkyl.
+❃ ✽ ✾
+« Propulseurs hyper stabilisés. Noyaux normaux prêts. Transition alpha-normal dans trente… »
+La tension était palpable sur le pont. Nous nous apprêtions à sortir d’hyper dans un système de la république où pouvaient se trouver des dizaines de croiseurs ennemis en planque. Et le pire dans tout ça, c’est qu’on ne savait même pas ce qu’on allait chercher sur ce système.
+« vingt secondes… »
+Cassireau n’avait rien voulu lâcher quant à notre destination. Nous ne savions rien de l’objectif, seulement qu’il s’agissait de la planète recouverte d’une grosse jungle qui nous attendait là. Je savais juste que Cassireau voulait une équipe de fusiliers au sol pour les protéger. Je voulais bien le comprendre sur ce coup-là. Ce qu’on avait entendu de la faune et de la flore d’Ashkyl, ce n’était pas le genre d’histoire qu’on raconte aux enfants pour qu’ils fassent de beaux rêves. En outre, elle était assez isolée par rapport aux routes commerciales et éloignée de la plupart des mondes civilisés de la république — même pour une civilisation qui maîtrisait le voyage hyper. Nul n’avait donc jugé utile de tenter de la coloniser. On ne manquait pas de mondes habitables par ailleurs…
+« Dix, neuf, huit… »
+Tout l’équipage de navigation était concentré sur ses écrans. J’aimais bien regarder un navigateur au travail. Tout semblait se passer pour le mieux.
+« …sept, six, cinq… »
+{Tartempion}, le pilote qui reprendrait les commandes sitôt le passage en espace normal effectué, était tendu sur son siège. Aucun signe de nervosité, juste de l’intense concentration. Je comprenais tout à fait ce qui se passait dans sa tête.
+« …quatre, trois, deux, un, transition. »
+Hop. Dans le visuel des pilotes, un flash vert envahit le hublot avant de laisser réapparaître les étoiles.
+Nous nous attardâmes sur le visuel tactique qui était mis à jour au fur et à mesure que les sondes du vaisseau récupéraient les informations après la sortie de l’hyper.
+« Rien pour l’instant », murmura {Tartempion}, l’officier tactique.
+« Mh », approuvai-je en analysant rapidement la situation. « Mais elles n’ont pas vu bien loin pour l’instant. Lancez les drones. Un vers {bidule} et un autre vers {truc}. » Je constatai avec plaisir que mes ordres étaient exécutés immédiatement. Ils avaient été bien entraînés pendant le voyage hyper. « {Tartempion l’officier de navigation}, je ne veux pas prendre de risque. Cap direction {machin}. C’est celle qui nous permet d’optimiser au mieux ce que voient les sondes et qui maximise nos chances de repli en cas de problème. Nous avons le temps, je préfère aller un peu moins vite et un peu plus cher plutôt qu’un peu plus risqué. C’est trop dangereux.
+— À vos ordres, commandant. »
+Les minutes passèrent, devinrent des heures, et les résultats des sondes et des drones se firent définitifs : personne dans le système, aucune anomalie détectée même en capteurs actifs. Bien. Nous serions tranquilles pour cette première exploration.
+❃ ✽ ✾
+Je regardai s’éloigner du Garibaldi le petit point vert représentant la navette, qui contenait l’équipe de Cassireau, un pilote et une vingtaine de fusiliers. J’espérais de toutes mes forces que tout se passerait bien de leur côté. J’espérais un peu moins fort, mais j’espérais quand même, que Cassireau serait satisfait de ce qu’il trouverait sur place. Je n’avais toujours aucune idée de ce qu’il cherchait, mais s’il mettait la main sur quelque chose, cela pourrait peut-être améliorer son humeur… voire son opinion de nous. On pouvait toujours rêver.
+Je décidai de rester surveiller les communications entre la navette et le Garibaldi jusqu’à une à deux heures après l’atterrissage. Ensuite, si tout se passait bien, le laisserais la main à mon second pour prendre quelques heures de sommeil. La dernière fois que j’avais fermé l’œil, c’était dans l’hyperespace, et nous avions parcouru un sacré chemin depuis…
+Je surveillai l’état de la navette et le visuel tactique — toujours vide, heureusement — pendant tout le temps de la descente.
+« Entrée dans l’atmosphère. Tout se passe bien. {Navette tartempion}, terminé.
+— Bien reçu. Garibaldi, terminé. »
+Il se passa encore de longues minutes avant qu’une autre communication n’arrive pour signaler que l’atterrissage s’était bien déroulé. Les fusiliers étaient sortis pour sécuriser la zone, ils avaient descendu quelques bestioles mais rien d’insurmontable. Fort bien.
+{à compléter ?}</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Beumers, Mathilde</Title>
+            <Text>Jumelle de Paula.
+Pouvoir : voir dans le noir. ⇒ assez sensible à la lumière.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Prisonnière</Title>
+            <Text>« Et Cassireau ? Que fait-il maintenant que nous l’avons emmené là où il voulait ?
+— Il sonde la terre avec des instruments étranges, il creuse, et il continue à sonder. Il dit souvent “ça ne va pas du tout du tout” à ses collègues, mais il nous laisse plutôt tranquilles.
+— D’accord. Et la planète ?
+— Pas franchement amicale, je dois dire. Des lianes qui poussent à plusieurs centimètres par minute. Il ne faut pas s’endormir à l’extérieur, et on débrousaille continuellement la navette. On a peur qu’elle reste accrochée si on ne coupe pas toute cette verdure au fur et à mesure.
+— Je vois. Rien de plus dangereux ?
+— On suppose qu’il y a des gros prédateurs carnivores, mais on n’en a pas vu pour l’instant. Les bestioles qu’on a descendues à l’arrivée, après examen, ne semblent pas dangereuses finalement. On a laissé leurs copines tranquilles. Non, commandant, ce qui m’étonne le plus, c’est la flore. Ces plantes bougent trop vite. »
+❃ ✽ ✾
+« Emprunte hyper ! Commandant ! Emprunte hyper à {machin bidule truc} !
+— Pas de panique, Tartempion. Analyse le signal. Attends de voir s’il n’y en a qu’une. » Tartempion était tout jeune, il n’était sur le vaisseau que depuis {x semaines - depuis que Noemi est revenue de Ludealis la dernière fois en fait}. Il était vif. Peut-être un peu trop. Il ne fallait pas paniquer au moindre imprévu.
+Quelques secondes, puis quelques minutes s’écoulèrent sans que d’autres empruntes hyper n’apparaissent sur le visuel. Je me méfiais un peu tout de même. La technique était courante : envoyer un vaisseau en éclaireur pour sonder les environs, et si aucun problème n’est détecté, toute la flotte sort d’hyper quelques minutes plus tard.
+« Tartempion. » dis-je à mon jeune officier.
+Le pauvre sursauta comme si quelque chose venait de lui exploser dans les mains. Un peu trop vif, décidément.
+« Tartempion. Pas de panique. Est-ce que l’analyse donne quelque chose ?
+— Euh. Pas grand-chose, non. En tout cas, rien de connu dans la base de données embarquée. J’ai demandé à l’ordinateur d’interpoler les caractéristiques physiques à partir du signal détecté. Encore quelques secondes…
+— Bien. » Peut-être pas trop vif, finalement.
+« On dirait un vaisseau vraiment tout petit, reprit {Tartempion}. Du genre taille minimum pour un vaisseau hypercapable. Probablement moins de trente membres d’équipage, et pas armé a priori. Propulseur de technologie impériale, probablement.
+— Étonnant. On dirait un petit vaisseau d’exploration. Un tout petit vaisseau comme ça ici ? De l’exploration de systèmes hostiles, en territoire ennemi en temps de guerre ? Ce n’est sûrement pas un militaire qui a envoyé ce vaisseau ici.
+— Ou alors c’est un piège.
+— Possible. Faisons-nous discrets. Nous tenterons de l’intercepter seulement s’il s’approche trop pour pouvoir repartir en hyper prévenir des copains.
+— Entendu. J’active le mode furtif.
+— Envoie un message à la navette à terre — ultra-directionnel, attention — pour leur demander de rester sur place, d’éviter de décoller jusqu’à nouvel ordre sauf danger grave.
+— À vos ordres. »
+❃ ✽ ✾
+Le vaisseau intrus était vraiment un vaisseau d’exploration. Ils ne firent pas de résistance lorsque nous leur ordonnâmes d’arrêter les propulseurs et de se préparer à l’abordage. Un fusilier suffit pour arraisonner leur équipage. Quatre personnes ! Quatre personnes au milieu du territoire ennemi. Quelque chose était vraiment étrange ici.
+Les prisonniers arrivèrent sur le pont, amenés par le fusilier. Une femme assez âgée — « fatiguée » était peut-être un mot plus juste — semblait être leur chef. Elle m’adressa un sourire et prit la parole.
+« Commandant, enchantée de vous rencontrer. Je suis Hadelhaide Van Fitzgerald. »
+Elle parlait un anglais standard impeccable, teinté d’un léger accent germanique. Une impériale, pas de doute. Et pas de rang négligeable…
+« Noemi Vilasis, capitaine de vaisseau, commandant du Garibaldi. Je suis au regret de vous informer que vous êtes mes prisonniers.
+— Je n’ai pas l’intention de résister.
+— Pourrions-nous avoir une conversation en privé ?
+— S’il vous plaît. »
+❃ ✽ ✾
+{Tartempion, le maître d’hôtel} versa un verre de vin rouge à Hadelhaide, et me servit une tasse de café serré. Tandis qu’elle goûtait le vin, j’engageai la conversation en allant droit au but.
+« Hadelhaide, vous n’êtes pas une roturière. Que fait une dame de noble naissance dans ce système perdu, en plein milieu de la guerre ? »
+Elle leva les yeux de son verre et plongea son regard dans le mien. Sa bouche dessina un sourire espiègle, puis elle me répondit.
+« Vous êtes franche et directe, commandant. C’est une qualité qui manque un peu dans mon milieu. Je vais donc vous répondre franchement et directement à mon tour. Pourquoi suis-je ici maintenant ? C’est un peu compliqué. Je suis noble, en effet, mais je ne suis pas politicienne. En réalité, je suis scientifique. Mon mari également. Je suis venue ici pour essayer de répondre à certaines questions sur mes recherches, mais… je vais devoir attendre un peu pour avoir mes réponses, je le crains.
+— Que cherchiez-vous ici ? Ce système est vide et inhabité. »
+Elle décroisa les jambes et se redressa sur sa chaise.
+« Inhabité, oui, acquiesca-t-elle. Mais vide, non. N’avez-vous pas vu cette planète si verte, autour de laquelle nous sommes en orbite en ce moment même ?
+— Si, bien sûr. Mais les mondes avec de la vie ne sont pas si rares. Ce n’est qu’un monde parmi d’autres.
+— En effet, les mondes abritant de la vie sont légion. Ne trouvez-vous pas cela étrange ? N’importe quel physicien vous expliquera que l’origine de la vie reste un grand mystère, une coïncidence improbable et étonnante au regard de la complexité du processus. Cette coïncidence se serait-elle produite par hasard sur tous ces mondes séparés par des milliards de kilomètres ?
+— Eh bien, visiblement, oui.
+— Avant de découvrir quelques faits troublants ces dernières années, je pensais comme vous. Mais, alors que je tentais d’étudier certaines propriétés physiques de minéraux rares, j’ai mis le doigt sur des coïncidences troublantes qui m’ont mise sur des travaux de xéno-archéologie. Je cherche des traces de civilisations anciennes extraterrestres, et j’ai de bonnes raisons de croire qu’il en existe sur cette planète.
+— Fascinant, répondis-je, sincèrement fascinée. Mais pourquoi me racontez-vous tout cela ? Je suis un officier ennemi. Tout ce que vous dites pourrait être utilisé par {nom de la république}, a priori contre {nom de l’empire}.
+— Je ne suis pas militaire non plus. Je m’intéresse à la science, pas aux querelles de politiciens ou de militaires. J’estime que mes recherches font avancer l’humanité, et qu’elles intéressent tous les êtres humains. Je me fiche de savoir pour qui ils travaillent. »
+Hadelhaide, bien qu’ayant une opinion assez basse des militaires également, me semblait infiniment plus sympathique que Cassireau. Sa philosophie me plaisait bien plus que celle de Cassireau. J’envisageai un instant de procéder à un échange standard entre mes prisonniers de guerre et mes « invités de marque ». Cependant, il valait peut-être mieux éviter le tribunal de guerre, toute démissionnaire que je sois.
+« J’aimerais que tous les scientifiques pensent comme vous. Malheureusement, je suis militaire et je travaille dans l’autre camp, l’échange entre nous se fera donc à sens unique. J’espère que vous ne m’en voulez pas trop.
+— Aucunement. Je pense que tout ce qui m’intéresserait et que vous ne voudrez pas me dire, c’est la raison qui vous amène ici. Secret d’état, j’imagine.
+— En effet. Mais cela ne m’empêche pas de vous traiter avec le respect dû à votre rang. Voulez-vous déguster quelque chose de plus consistant ?
+— Avec plaisir. Au fait, pas la peine de vous fatiguer : je sais bien que vous êtes ici pour protéger Jonas Cassireau dans ses recherches. »
+Mon cœur rata un battement. Je fixai Hadelhaide dans les yeux, nettement plus méfiante. Elle souriait toujours franchement.
+« C’est lui-même qui me l’a dit. Il se trouve qu’il échangeait quelques informations avec mon mari, occasionnellement. Ses recherches l’ont mené aux mêmes conclusions que nous, visiblement… Et la dernière fois que j’avais reçu des nouvelles de lui, c’était dans un message où il se plaignait que Noemi Vilasis, le capitaine qui devait le protéger, était en permission pour une durée scandaleusement excessive. J’ai rapidement fait le lien quand vous m’avez décliné votre identité.
+— Je vois… Je pense donc que vous en savez plus que moi sur ce que fabrique Cassireau sur Askhyl. Y a-t-il d’autres choses que vous savez déjà et que je n’ai donc pas besoin de me fatiguer à cacher ?
+— Oui. Vous. Je sais que vous êtes de « noble naissance » dans la société {nom de la république}. Le cartel Vilasis, une des multistellaires les plus puissantes et riches de la république. Noemi Vilasis, la brebis galeuse qui dédaigne la puissance financière de sa famille pour se tourner vers une carrière militaire contre l’avis unanime de sa famille. Noemi Vilasis, qui épouse une femme quand elle est issue d’une des dernières familles conservatrices de la galaxie. J’ai l’impression que vous n’aimez pas trop suivre les routes toutes tracées, me trompé-je ?
+— Je crois que je suis un peu comme vous. Je ne m’intéresse pas à la politique. Je veux juste le bien. Je pensais faire mieux le bien en suivant une carrière de spatiale qu’en brassant des millions. Je trace les routes qui m’intéressent. Je ne pense pas fuir expressément les routes déjà tracées. »
+Hadelhaide sourit, creusant des petites rides autour de ses yeux. J’aimais bien cette femme.
+« Nous sommes pareilles, assurément. À la vôtre, Noemi Vilasis. Aux routes qui nous intéressent. »</Text>
+            <Notes>Quatre personnes dans l’équipage de Hadelhaide V.F.</Notes>
+        </Document>
+        <Document ID="3">
+            <Title>Soirée en amoureuses</Title>
+            <Synopsis>Repas en amoureuses.</Synopsis>
+            <Text>Je faisais ce que je pouvais pour ne pas ronger mes ongles de nervosité. Je ne raffolais pas — le mot était faible — de ces soirées mondaines pleines de monde. Cependant, mes ongles avaient été limés, polis et vernis par l’esthéticienne préférée de Lora. Elle m’aurait arraché la tête si j’avais osé ne serait-ce que rayer son travail. De fait, je me concentrais sur mes ongles. Toute mon attention était portée sur ces ongles que je ne devais pas ronger. Je n’avais donc plus du tout le loisir de m’inquiéter du nombre vertigineux de personnes bien habillées autour de moi.
+Lora m’avait promis que nous ne passerions pas longtemps à cette soirée-ci. Il n’était question que de serrer quelques mains et de prononcer quelques bonsoirs. Elle savait bien que je haïssais les soirées mondaines. Cependant, sa femme — moi — n’était pas souvent sur Ludealis et il fallait bien qu’elle rappelle de temps en temps à ses administrés que j’existais. Je faisais donc quelques efforts pour apparaître en public avec elle, même si j’aurais préféré la garder pour moi à chacun de mes retours à la maison. Mon métier avait ses inconvénients, le sien aussi. Il fallait faire avec. Nous savions ce qui nous attendait lorsque nous nous sommes mariées : elle s’engageait en politique, je continuais ma carrière de pilote. Dix ans plus tard, nous étions toujours là, l’une avec l’autre, à nous réchauffer mutuellement. Les années-lumières n’avaient pas changé grand-chose, sinon que j’étais toujours plus heureuse de rentrer.
+Lora me secoua discrètement le bras pour que je fasse plus attention à ce qui se passait autour de moi. Elle m’avertit à voix basse que le type à cravate rose qui s’approchait de nous avait des questions sur la guerre. Je poussai un imperceptible soupir. Je n’aimais pas parler boulot en permission, surtout quand il s’agissait de répondre aux hystériques qui croyaient qu’en se plaignant aux pions, on pouvait changer l’avis des joueurs. Oui, je savais que cette guerre était stupide. Oui, je faisais la guerre quand même. Parce que c’était mon boulot, et surtout, mon devoir. C’était aux diplomates de faire la paix. Si je tentais de discuter avec l’ennemi, il me tirait dessus. Il devait avoir des capitaines de vaisseau aussi pragmatiques que moi, ce qui expliquait au moins partiellement l’égalité entre nous et l’allongement de l’affrontement.
+« Mesdames, enchanté de vous rencontrer ce soir », dit-il avec une courbette. « Administratrice Jori » continua-t-il en déposant un baiser sur la main droite de Lora, « Capitaine Vilasis » termina-t-il en déposant un autre petit baiser sur ma main gauche. J’avais gardé ma main droite sur une hanche de Lora, et je n’avais pas l’intention de l’enlever de là pour l’instant.
+« Monsieur Lambert », répondit Lora en souriant, « c’est un plaisir de vous voir. Comment allez-vous ? J’ai entendu dire que vous aviez un nouveau petit-fils ! Félicitations à votre fille ! » (Lora avait une mémoire des visages et un art de mener les petites conversations qui m’étonnaient toujours.)
+« Merci, madame. Son nom est Iyann, toute la famille va bien. Permettez-moi de vous adresser à mon tour mes félicitations pour vos noces d’étain, si vous le permettez. Si je ne me trompe pas, vous fêtez vos dix ans de mariage ce soir…
+— En effet, acquiesca Lora. Noemi est revenue passer quelques jours ici pour l’occasion. »
+À ces mots, les petits yeux perçants de M. Lambert se posèrent sur moi, et je sentis que la petite conversation était terminée. Je me doutais bien que Lora n’avait pas plus envie que moi d’entendre parler de la guerre, mais il vallait peut-être mieux en venir au fait directement au lieu de laisser la conversation s’éterniser.
+« Ah, oui, Capitaine Noemi Vilasis. Vous êtes en permission ? La guerre vous laisse-t-elle donc le loisir de rentrer faire la fête, capitaine ?
+— Monsieur Lambert, répondis-je en souriant, pour raisons de service je n’avais pas vu ma femme depuis plus d’un an T. Ce genre de situation amène à des états de dépression, pas seulement chez les capitaines de vaisseau. Tout mon équipage avait besoin de ces semaines de permission En outre, je dois reconnaître que la flotte comprend de nombreux officiers de valeur, et qu’elle peut bien se passer de moi quelque temps.
+— Je comprends, répondit Lambert avec l’air de dire qu’il n’approuvait pas.
+— Je suis bien heureuse que vous compreniez. Je serai toutefois heureuse de retourner sur mon vaisseau pour servir la République, même si cela m’éloigne de ma famille. Bonne soirée. »
+Je fis mine de m’éloigner sans lui laisser le temps de répondre. J’avais ravalé une réplique bien sentie à base de « surtout si cela me permet de ne plus croiser de gens comme vous quelques temps », mais Lora me l’aurait reproché et je m’en serais voulu.
+Lora avait fini de serrer ses mains et de dire ses bonsoirs. Nous récupérâmes nos manteaux au vestiaire et nous filâmes vers l’aéroglisseur frappé du sceau de la république — {décrire le sceau} — qui nous attendait devant la porte principale. Je pris place sur la banquette de l’appareil, Lora régla le pilote automatique sur la destination « surprise », puis elle prit place à côté de moi.
+Je ne lui laissai pas le temps d’enlever son manteau avant de l’embrasser tendrement sur la bouche. Son odeur n’avait pas changé. Elle sentait toujours le sucré, le gâteau. C’était l’odeur de la maison, j’étais bien rentrée sur Ludealis. Je pris le luxe de renifler un peu ses cheveux mi-longs et de lui mordiller l’oreille en la serrant dans mes bras.
+« Tu m’as manqué », lui murmurai-je à l’oreille.
+« Tu m’as manqué », me murmura-t-elle à l’oreille avant de déposer un baiser dans mon cou.
+« On est bientôt arrivées ? » demandai-je doucement.
+« Non », répondit-elle rapidement, sur un ton où perçait une pointe de malice. Elle remonta une main sur mes seins, encore à l’abri dans ma robe, et descendit l’autre sur mes fesses. Pas question de perdre du temps, pensai-je avec un sourire en me laissant basculer sur la banquette sous le poids de Lora. Je manœuvrai pour chuter en détachant « fortuitement » les boutons pression de la robe de ma femme.
+Silence.
+« Bravo, capitaine. Belle stratégie. » remarqua Lora en regardant sa robe grande ouverte sur le devant. « Mais tu as oublié de te débarrasser du manteau. »
+« Pardonnez mes erreurs, je ne suis qu’une simple pilote à l’origine, administratrice. » répliquai-je en la débarrassant du manteau qui recouvrait encore ses épaules. « Je tiens compte de vos remarques, voyez. » J’en profitai pour lui enlever sa robe aussi, qui de toute façon ne servait plus à rien. Je la fis basculer sur le dos à mon tour, pour la débarrasser de ses sous-vêtements. Elle soupira de contentement lorsque j’embrassai ses seins avec gourmandise, en laissant traîner mes mains un peu plus bas, aux endroits précis où elle aimait ça. Avec plus de force qu’on ne lui en aurait donnée en la voyant, elle se dégagea, m’enleva mes vêtements et embrassa longuement mon entrejambe avant de revenir m’embrasser sur la bouche. Nues toutes les deux sur les coussins, avec le paysage qui défilait dehors à travers les vitres teintées, nous nous regardâmes quelques instants dans les yeux en souriant.
+« Et maintenant ? » demanda-t-elle en haussant les sourcils.
+« Maintenant ? » répétai-je en haussant les épaules. « On se rhabille, non ? »
+Silence.
+« Non », répondit Lora. Elle carressa l’entrée de mon vagin en posant un baiser derrière mon oreille. « Non, pas tout de suite, je crois. »
+Très bien.
+❃ ✽ ✾
+Lora m’avait emmenée sur l’autre hémisphère de la planète, qui était recouvert en grande partie d’un océan où pullulaient des formes de vies autochtones. Cet océan était parsemé de nombreuses îles désertes, certaines assez grandes pour abriter des villes entières, d’autres pas plus grandes qu’une cabine de W.C. de vaisseau spatial. Les terres appartenaient à la République tant qu’elles n’avaient pas été achetées par quelqu’un d’autre. Le prix de l’are dépendait de la planète et de la situation du terrain ; ce qu’il fallait retenir, c’est qu’avec ses îles paradisiaques, ses océans violets et ses merveilleux couchers de soleil double, Ludealis était très, très chère.
+Donc, même avec ses gros revenus d’administratrice et son héritage généreux, Lora avait fait une folie.
+« Tu as acheté cette île, Lora ? Elle est gigantesque !
+— Oui, Noemi. Je l’ai achetée. Non, Noemi. Elle n’est pas gigantesque. Elle est juste assez grande pour nous deux, et… et une maison.
+— Lora, que ferais-je dans une maison ? J’en profiterais à peine… 
+— Noemi. » Les yeux de Lora brillaient de larmes. « J’aimerais que tu en profites. Que nous en profitions. Je n’en peux plus de te voir partir et de ne pas savoir si tu reviendras. »
+J’aimais beaucoup moins la tournure que prenait cette conversation. Il avait déjà été question de me trouver une occupation à terre pour éviter les séparations par le passé, et nous avions conclu toutes les deux que je ne pourrais pas vivre sans voir l’espace. Je lui en voulus de remettre cette conclusion en cause.
+« Lora. Nous avons déjà eu cette conversation. Je ne peux pas…
+— Tu n’étais pas enlisée dans une guerre sanglante la dernière fois que nous avons eu cette conversation, Noemi.
+— Je… » Je m’interrompis. Je ne m’attendais pas à cet argument. « La guerre ?
+— Noemi, nous avons d’autres sources que les infos qui passent en holovi, nous autres administrateurs. Je sais que tout ne se passe pas bien, que les impériaux sont malins. » Elle caressa ma joue tendrement, et m’embrassa sur la bouche. « Qu’est-ce que je vaudrai encore comme administratrice pour donner le moral au monde, si mon monde n’est plus là ? »
+Mes yeux picotaient. Je n’avais rien à dire.
+« Je reviendrai. Je te promets de ne pas me faire tuer par un vaisseau impérial et de revenir à la fin de la guerre. » J’entendais ma voix trembloter. Elle semblait douter de moi, et de ma capacité à tenir ma promesse.
+Mais j’avais promis. Donc, je reviendrais. Cependant, ce n’est pas cette promesse qu’attendait Lora.
+« Et je démissionnerai à la fin de cette guerre, Lora. Je démissionerai. C’est promis. »
+Lora pleurait franchement, et moi aussi. C’était cruel de devoir choisir entre les deux choses que j’aimais le plus. C’était donc à mon tour de demander une chose à Lora.
+« Je te demande une chose en échange de cette promesse, Lora. Une toute petite chose.
+— Quel genre de petite chose, Noemi ?
+— Une petite fille. Lora, je veux un enfant de toi. S’il te plaît. »</Text>
+            <Notes> contre l’empire d’Akhamar.</Notes>
         </Document>
         <Document ID="21">
             <Title>Ça pourrait être pire</Title>
@@ -96,7 +304,29 @@ Un nouveau coup de crosse sur ma combi me rappela à la réalité.
 Avant que je puisse terminer ma question, il tira à bout portant sur chacune de mes jambes. Je serrai les dents. Avec tout ce que je saignais maintenant, je n’en aurais pas pour longtemps…
 Je l’entendis sortir, me laissant saigner dans l’habitacle de la navette.
 Je pesai le pour et le contre, et j’essayai de sortir en passant par le sas. Je me déplaçais en tirant sur les bras. Mes jambes ne répondaient pas. Il fallait que je prévienne les autres.
-Première porte.</Text>
+Première porte. J’avais mal. J’atteignis le bouton d’ouverture et j’appuyai un poing ensanglanté dessus. La porte s’ouvrit en coulissant. Je me traînai dans le sas en gémissant, une traînée sanglante derrière moi. La porte interne se referma derrière moi. Je me hissai jusqu’à la seconde porte, et je l’ouvris. Le soleil levant {je sais plus quelle heure il est…} m’arrosa de lumière. Je n’avais qu’à passer un petit appel radio. C’est tout ce que je pouvais encore faire…
+« Vilasis… à équipe lombric. Lombric, vous… vous me recevez ?
+— Oui commandant. Nous n’avons pas bougé. Quelle est votre situation ? Nous nous inquiétons…
+— Fuyez. Fu… fuyez. La république veut votre mort. Je répète. Mort. Fuyez-la, ou vous… ou vous… mourrez.
+— Commandant…
+— Ne m’attendez pas. C’est trop… tard pour moi. Fuyez. Je rép… répète. Fuyez.
+— À vos ordres, commandant. »
+La communication fut coupée. Je ne savais même pas à qui j’avais parlé. J’espérais qu’ils pourraient se sauver suffisamment profond dans les galeries, trouver une autre sortie et un moyen de quitter la planète en douce… Ils étaient formés aux voyages spatiaux. Il ne leur faudrait qu’un vaisseau. Pas besoin d’équipage.
+Soudain, j’eus comme une petite faim. J’avais gardé une petite gourde d’eau et quelques portions individuelles d’aliments surprotéinés. Je ne me posai pas de question. Si mon corps avait envie de quelque chose avant de mourir, je n’allais pas le contredire. Je n’avais pas grand-chose d’autre à faire, de toute façon. J’armai mon fusil et le posai à proximité de ma main droite. J’enlevai mon casque, je déchirai le premier sachet et je croquai dans un des biscuits qu’il contenait, en admirant le lever de soleil sur le désert.
+Cette planète pouvait peut-être être jolie sympathique, après tout.
+❃ ✽ ✾
+J’avais sombré dans l’inconscience, mais le coup du bourreau du {sigle désignant les services secrets de la république} m’en sortit.
+« Vilasis ! Vilasis ! », commença-t-il en ponctuant chacun de ses appels d’une claque sur ma joue.
+Je sentais la douleur, de très loin. Pas grave. Pas envie de me déranger pour ça. J’étais bien. J’allais mourir tranquillement. Fiche-moi la paix, crétin.
+« Bordel. Vilasis ! », continua-t-il en insistant toujours autant sur mes joues.
+Hé oui, mon loulou. Quand on veut torturer quelqu’un, il ne faut pas le tuer. On voit que tu n’as pas l’habitude. Je suis déjà morte. Je vais retourner dans les étoiles. Ou dans le sable. Ce sera chouette, personne ne m’embêtera.
+Quelqu’un posa une main contre mon cou, pour prendre mon pouls, peut-être. Voilà, tu me crois, je suis morte.
+« Hé merde. Connasse. Crève, ça vaudra mieux, oui. » Quelque chose me frappa les côtes. Un coup de pied, peut-être. J’entendis le type tourner les talons et sauter dans le sable pour s’éloigner.
+Flash.
+Je me sentis pleine d’énergie, d’un coup. J’ouvris les yeux. Je voyais le monde autour de moi dans un ensemble de teintes décolorées avec un peu trop de jaune, tous les mouvements avaient lieu au ralenti. Sans hésiter un instant, je saisis mon fusil à deux mains, j’armai l’arme, je visai, et je tirai. Deux balles allèrent se loger dans le cerveau du type, qui s’écroula dans le sable. Je vis un ruisseau de sang couler de son crâne dans le sable et former une petite flaque rosâtre dans le sable.
+Que se passait-il ?
+Flash.
+Un voile noir obscurcit mon champ de vision. Je ne sais pas ce qui s’était passé, mais c’était parti. Je retombai sur le côté, le fusil à mes côtés, toute énergie m’ayant à nouveau quittée.</Text>
             <Notes>Sortir dans le désert pour récupérer ce qui reste de la navette. Pas grand-chose. Un techos arrivera peut-être à bricoler quelque chose…
 
 Découvrir par hasard que l’équipage est compté comme mort, et que si ce n’est pas le cas, il faut que ça le devienne. (En gros : s’il y a des survivants, tuez-les)
@@ -120,140 +350,36 @@ Survivants :
 	14.	Kadec Radcliff - menu, cheveux noirs
 	15.	Victoria De Vinn</Notes>
         </Document>
-        <Document ID="15">
-            <Title>Autour de Mikuro</Title>
-            <Text>« Commandant, c’est un scandale ! J’ai encore des expériences à mener sur le vaisseau ! Je ne peux pas redescendre sur la planète maintenant !
-— Professeur Cassireau, c’est un ordre ! Il y a des dizaines de vaisseaux de la flotte impériale ici, et il est hors de question de risquer votre vie et celle de votre équipe dans cette bataille. Donc vous allez retourner sur Mikuro. Ils ne lanceront pas de missile sur la planète. En revanche, sur nous, oui. Je vous laisse une demi-heure pour vous préparer, et si vous n’êtes pas prêt d’ici là, je vous ligote pour vous larguer. »
-La conversation était terminée. J’avais autre chose à faire : l’équipage était en branle-bas-le combat. Dix vaisseaux impériaux étaient sortis de l’hyperespace quelques minutes auparavant. Nous ne nous attendions pas à cela, pas dans ce système minuscule à l’écart de toutes les routes commerciales et loin de n’importe quel système civilisé. Il y avait sur Mikuro, petite planète désertique, quelques villages d’anciens mineurs « affranchis » — des colons encouragés par le cartel Vilasis à s’installer sur la planète pour y exploiter des mines en échange de quelques avantages matériels, qui s’étaient ensuite retrouvés sans emploi quand le cartel avait commencé à exploiter les astéroïdes au lieu des mondes habités. Autrement dit, l’empire ne s’intéresserait pas à Mikuro. Il était ici pour établir une position avancée à l’intérieur de nos frontières… Et j’avais l’ordre de faire tout ce qui était possible pour éviter de lui donner un avantage. Priorité à la guerre et à la protection des civils. Les recherches de Cassireau passeraient au second plan.
-J’avais laissé Cassireau se débrouiller, il était plus que temps de se mettre d’accord sur un plan d’action. J’aggripai le micro et je convoquai mon équipe tactique : Tartempion l’officier tactique, Tartempion l’astrogateur et Tartempion et Tartempion. Ils me répondirent qu’ils arrivaient au triple galop. Pendant les quelques minutes qu’ils me laissèrent avant d’arriver, j’appelai l’infirmerie :
-« Joachim ? Vous allez mieux ?
-— Oui, commandant.
-— Tenez-vous prêt. Je ne sais pas comment nous allons procéder au juste, mais cela se présente mal. Nous aurons probablement des blessés. Dans le meilleur des cas.
-— Je comprends. Comment vont les maux de têtes ?
-— Mal. Tout le monde a toujours mal. Pourriez-vous préparer des doses d’antidol à distribuer à l’équipage ? Ou à intégrer directement aux combi ?
-— C’est en cours. J’ai trois infirmiers qui ont presque fini la préparation des doses, et qui ont prévu de faire un tour de vaisseau pour la distribution.
-— Merveilleux. Merci, Joachim.
-— C’est mon boulot, commandant.
-— Certes. Mais vous le faites bien. Je vais faire ce que je peux pour faire le mien correctement — vous garder en vie, en somme.
-— Courage à vous.
-— Merci. Mes officiers sont là. Vilasis, terminé. »
-La moitié de mes officiers était déjà en combi. Je posai mes mains à plat sur la table et je m’appuyai sur celle-ci en les regardant, un par un, dans les yeux.
-« Mesdames et messieurs, au travail. »
+        <Document ID="14">
+            <Title>Suite</Title>
+            <Text>« Professeur Cassireau, bienvenue à bord.
+— Bonjour, commandant.
+— Votre séjour sur Askhyl a-t-il été productif ?
+— Très ! J’ai trouvé des choses bien intéressantes. Je suis impatient de les étudier de plus près.
+— Avez-vous besoin que nous prolongions le séjour dans le système ?
+— Non, pas ici. J’aimerais que nous visitions un autre monde, celui que j’ai marqué X-34-12 dans le fichier que je vous ai envoyé. En combien de temps pouvons-nous être là-bas ?
+— Je demanderai à l’équipe d’astrogation. Nous devrons faire un détour par un monde administratif pour larguer des prisonniers de guerre.
+— Des prisionniers ? Nous avons fait des prisonniers ?
+— Oui. Un vaisseau isolé est entré dans le système. Nous les avons arraisonnés, ils n’ont pas opposé de résistance.
+— Ah. Eh bien. Soit. Je m’accomoderai d’un petit détour, mais qu’il ne dépasse pas deux semaines, surtout.
+— Nous ferons ce qui est nécessaire.
+— Entendu. Merci, commandant. »
+Cassireau quitta le sas d’accueil sans rien ajouter. J’avais du mal à croire ce que je venais d’entendre. Cassireau venait d’avoir une conversation polie avec moi, et il venait aussi d’accepter un compromis. Voilà qui était tellement inhabituel que je dus me pincer la peau de la main pour être sûre que je ne rêvais pas.
 ❃ ✽ ✾
-Les heures avaient passé. Les vaisseaux impériaux avaient fini par nous remarquer, évidemment. Cela dit, ils nous avaient remarqué presque une heure après le largage de mes porte-mines furtifs qui avaient eu le temps de commencer tranquillement à tisser leur toile. Nous communiquions avec eux grâce à des faisceaux ultra-directionnels aussi discrets que possible, sur des durées aussi courtes que possible. Le plan était convenu ; il fallait communiquer uniquement en cas d’imprévu. Le premier imprévu fut rencontré par la navette Tartempion. Il manqua une collision avec un bout d’astéroïde qui faillit leur coûter leur protection. Il fallut qu’ils dévient légèrement de la trajectoire prévue, mais cela ne transforma pas outre mesure le reste du plan.
-Nous, les occupants du Garibaldi, nous étions l’appât. Les six porte-mines étaient partis, remplis de l’équipage maximum, pour poser le piège, nous avions largué nos civils sur Mikuro — Cassireau avait fini par accepter de descendre, curieusement —, il ne restait « que » 60 personnes à bord. Je pensai, amère, que cela faisait toujours 40 morts de moins et que c’était toujours bon à prendre.
-Nous étions donc en train de faire mine de lancer une manœuvre plausible, mais dangereuse : nous attaquions ce qui semblait être le vaisseau amiral. Pour l’heure, nous étions en phase d’approche, mais les choses sérieuses n’allaient pas tarder à commencer.
-Je jetai un coup d’œil à l’écran sur ma combi qui indiquait mon état de santé. Il indiquait que ma fièvre avait augmenté — j’atteignais 38,7°C —, et que mon cœur battait un peu trop vite. Je me disais que la vitesse à laquelle battait mon cœur provenait plus vraisemblablement du stress, mais peut-être que la fièvre jouait. L’écran indiquait aussi que j’étais autorisée à reprendre une dose d’antidol. Je n’attendis pas pour m’exécuter ; même s’il avait une efficacité limitée, l’antidol soulageait légèrement la douleur qui me vrillait les tempes et diminuerait la fièvre. Joachim voulait profiter d’un retour sur un monde-ville pour se procurer des médicaments plus efficaces… Si jamais nous avions la possibilité de retourner sur un monde-ville pour cela.
-La douleur reflua brièvement. Je m’accrochai à mon siège, des sueurs froides coulant le long de mon cou. Cette bataille allait être doublement difficile.
-❃ ✽ ✾
-« Trois… deux… un… feu ! »
-Une première salve de missiles s’éloigna de nous. Les impériaux tirèrent eux aussi, quelques secondes après nous. Nos missiles ne nous conféraient pas un avantage écrasant en termes de vitesse. Nos mines, qu’ils ne semblaient pas avoir remarquées, nous donneraient en revanche des chances de nous en sortir. Minces, mais définitivement non nulles.
-Les missiles ennemis approchaient. Tartempion me signala qu’il estimait leur temps de trajet à dix petites minutes. Nos missiles, légèrement plus rapides mais moins endurants, ne leur laissaient que six minutes pour se préparer à l’attaque. Les combats de vaisseaux spatiaux étaient plein de tension et d’attente mêlés. On voyait arriver les choses longtemps à l’avance, mais les temps impartis pour réagir étaient courts… et il fallait toujours s’attendre à des surprises.
-Je frottais mes tempes douloureuses en fixant le visuel tactique. Nos missiles, représentés en bleu, s’éloignaient. Les missiles ennemis détectés, bien plus nombreux, représentés en rouge, s’approchaient. Tout ceci flottait dans un réseau serré de symboles jaune-orange représentant les mines. Les deux salves finirent par se croiser. Je voyais mes pilotes se préparer aux acrobaties d’évitement, au cas où le poste de défense active — et ses deux artilleurs prêts à démolir tout ce qui s’approchait — ne nous débarasserait pas de tous les missiles ennemis.
-Bien. Tout semblait se passer pas trop mal. J’ordonnai de commencer la « fuite ». Il s’agissait de faire mine de laisser tomber la bataille et de commencer à s’éloigner vers la limite hyper, pour que les impériaux nous suivent. Le Garibaldi décéléra, fit un joli demi-tour en passant nez par dessus tête, et fila à pleine accélération. Comme mon petit bijou était très agile, tout cela se passa en moins de dix minutes. Les impériaux comprirent vite notre manœuvre et entamèrent un procédure d’interception. Exactement comme nous l’avions prévu.
-Soudain, quelque chose me frappa violemment à la tête. Ma migraine qui ne s’était pas spécialement calmée se réveilla. Je vis des étoiles danser devant mes yeux. Un voile noir envahit mon champ de vision. Je tentai de m’accrocher aux poignées de mon siège pour ne pas tomber tête la première sur ma console, mais ce fut difficile.</Text>
-            <Notes>À ajouter :
-Cassireau reste dans sa boîte pendant plusieurs semaines de voyage, et va mettre ses nanites dans la soupe en secret.
-
-Cassiraud - le médecin - est malade. Il n’a pas mangé la soupe empoisonnée de Cassireau.
-
-Cassireau reste en secret sur le vaisseau après que Noemi les fiche dehors. Il veut déclencher le signal d’activation des nanites. Ça va tomber pendant la bataille mais il s’en fout, c’est pour la science.
-
-——
-
-</Notes>
-        </Document>
-        <Document ID="3">
-            <Title>Soirée en amoureuses</Title>
-            <Synopsis>Repas en amoureuses.</Synopsis>
-            <Text>Je faisais ce que je pouvais pour ne pas ronger mes ongles de nervosité. Je ne raffolais pas — le mot était faible — de ces soirées mondaines pleines de monde. Cependant, mes ongles avaient été limés, polis et vernis par l’esthéticienne préférée de Lora. Elle m’aurait arraché la tête si j’avais osé ne serait-ce que rayer son travail. De fait, je me concentrais sur mes ongles. Toute mon attention était portée sur ces ongles que je ne devais pas ronger. Je n’avais donc plus du tout le loisir de m’inquiéter du nombre vertigineux de personnes bien habillées autour de moi.
-Lora m’avait promis que nous ne passerions pas longtemps à cette soirée-ci. Il n’était question que de serrer quelques mains et de prononcer quelques bonsoirs. Elle savait bien que je haïssais les soirées mondaines. Cependant, sa femme — moi — n’était pas souvent sur Ludealis et il fallait bien qu’elle rappelle de temps en temps à ses administrés que j’existais. Je faisais donc quelques efforts pour apparaître en public avec elle, même si j’aurais préféré la garder pour moi à chacun de mes retours à la maison. Mon métier avait ses inconvénients, le sien aussi. Il fallait faire avec. Nous savions ce qui nous attendait lorsque nous nous sommes mariées : elle s’engageait en politique, je continuais ma carrière de pilote. Dix ans plus tard, nous étions toujours là, l’une avec l’autre, à nous réchauffer mutuellement. Les années-lumières n’avaient pas changé grand-chose, sinon que j’étais toujours plus heureuse de rentrer.
-Lora me secoua discrètement le bras pour que je fasse plus attention à ce qui se passait autour de moi. Elle m’avertit à voix basse que le type à cravate rose qui s’approchait de nous avait des questions sur la guerre. Je poussai un imperceptible soupir. Je n’aimais pas parler boulot en permission, surtout quand il s’agissait de répondre aux hystériques qui croyaient qu’en se plaignant aux pions, on pouvait changer l’avis des joueurs. Oui, je savais que cette guerre était stupide. Oui, je faisais la guerre quand même. Parce que c’était mon boulot, et surtout, mon devoir. C’était aux diplomates de faire la paix. Si je tentais de discuter avec l’ennemi, il me tirait dessus. Il devait avoir des capitaines de vaisseau aussi pragmatiques que moi, ce qui expliquait au moins partiellement l’égalité entre nous et l’allongement de l’affrontement.
-« Mesdames, enchanté de vous rencontrer ce soir », dit-il avec une courbette. « Administratrice Jori » continua-t-il en déposant un baiser sur la main droite de Lora, « Capitaine Vilasis » termina-t-il en déposant un autre petit baiser sur ma main gauche. J’avais gardé ma main droite sur une hanche de Lora, et je n’avais pas l’intention de l’enlever de là pour l’instant.
-« Monsieur Lambert », répondit Lora en souriant, « c’est un plaisir de vous voir. Comment allez-vous ? J’ai entendu dire que vous aviez un nouveau petit-fils ! Félicitations à votre fille ! » (Lora avait une mémoire des visages et un art de mener les petites conversations qui m’étonnaient toujours.)
-« Merci, madame. Son nom est Iyann, toute la famille va bien. Permettez-moi de vous adresser à mon tour mes félicitations pour vos noces d’étain, si vous le permettez. Si je ne me trompe pas, vous fêtez vos dix ans de mariage ce soir…
-— En effet, acquiesca Lora. Noemi est revenue passer quelques jours ici pour l’occasion. »
-À ces mots, les petits yeux perçants de M. Lambert se posèrent sur moi, et je sentis que la petite conversation était terminée. Je me doutais bien que Lora n’avait pas plus envie que moi d’entendre parler de la guerre, mais il vallait peut-être mieux en venir au fait directement au lieu de laisser la conversation s’éterniser.
-« Ah, oui, Capitaine Noemi Vilasis. Vous êtes en permission ? La guerre vous laisse-t-elle donc le loisir de rentrer faire la fête, capitaine ?
-— Monsieur Lambert, répondis-je en souriant, pour raisons de service je n’avais pas vu ma femme depuis plus d’un an T. Ce genre de situation amène à des états de dépression, pas seulement chez les capitaines de vaisseau. Tout mon équipage avait besoin de ces semaines de permission En outre, je dois reconnaître que la flotte comprend de nombreux officiers de valeur, et qu’elle peut bien se passer de moi quelque temps.
-— Je comprends, répondit Lambert avec l’air de dire qu’il n’approuvait pas.
-— Je suis bien heureuse que vous compreniez. Je serai toutefois heureuse de retourner sur mon vaisseau pour servir la République, même si cela m’éloigne de ma famille. Bonne soirée. »
-Je fis mine de m’éloigner sans lui laisser le temps de répondre. J’avais ravalé une réplique bien sentie à base de « surtout si cela me permet de ne plus croiser de gens comme vous quelques temps », mais Lora me l’aurait reproché et je m’en serais voulu.
-Lora avait fini de serrer ses mains et de dire ses bonsoirs. Nous récupérâmes nos manteaux au vestiaire et nous filâmes vers l’aéroglisseur frappé du sceau de la république — {décrire le sceau} — qui nous attendait devant la porte principale. Je pris place sur la banquette de l’appareil, Lora régla le pilote automatique sur la destination « surprise », puis elle prit place à côté de moi.
-Je ne lui laissai pas le temps d’enlever son manteau avant de l’embrasser tendrement sur la bouche. Son odeur n’avait pas changé. Elle sentait toujours le sucré, le gâteau. C’était l’odeur de la maison, j’étais bien rentrée sur Ludealis. Je pris le luxe de renifler un peu ses cheveux mi-longs et de lui mordiller l’oreille en la serrant dans mes bras.
-« Tu m’as manqué », lui murmurai-je à l’oreille.
-« Tu m’as manqué », me murmura-t-elle à l’oreille avant de déposer un baiser dans mon cou.
-« On est bientôt arrivées ? » demandai-je doucement.
-« Non », répondit-elle rapidement, sur un ton où perçait une pointe de malice. Elle remonta une main sur mes seins, encore à l’abri dans ma robe, et descendit l’autre sur mes fesses. Pas question de perdre du temps, pensai-je avec un sourire en me laissant basculer sur la banquette sous le poids de Lora. Je manœuvrai pour chuter en détachant « fortuitement » les boutons pression de la robe de ma femme.
-Silence.
-« Bravo, capitaine. Belle stratégie. » remarqua Lora en regardant sa robe grande ouverte sur le devant. « Mais tu as oublié de te débarrasser du manteau. »
-« Pardonnez mes erreurs, je ne suis qu’une simple pilote à l’origine, administratrice. » répliquai-je en la débarrassant du manteau qui recouvrait encore ses épaules. « Je tiens compte de vos remarques, voyez. » J’en profitai pour lui enlever sa robe aussi, qui de toute façon ne servait plus à rien. Je la fis basculer sur le dos à mon tour, pour la débarrasser de ses sous-vêtements. Elle soupira de contentement lorsque j’embrassai ses seins avec gourmandise, en laissant traîner mes mains un peu plus bas, aux endroits précis où elle aimait ça. Avec plus de force qu’on ne lui en aurait donnée en la voyant, elle se dégagea, m’enleva mes vêtements et embrassa longuement mon entrejambe avant de revenir m’embrasser sur la bouche. Nues toutes les deux sur les coussins, avec le paysage qui défilait dehors à travers les vitres teintées, nous nous regardâmes quelques instants dans les yeux en souriant.
-« Et maintenant ? » demanda-t-elle en haussant les sourcils.
-« Maintenant ? » répétai-je en haussant les épaules. « On se rhabille, non ? »
-Silence.
-« Non », répondit Lora. Elle carressa l’entrée de mon vagin en posant un baiser derrière mon oreille. « Non, pas tout de suite, je crois. »
-Très bien.
-❃ ✽ ✾
-Lora m’avait emmenée sur l’autre hémisphère de la planète, qui était recouvert en grande partie d’un océan où pullulaient des formes de vies autochtones. Cet océan était parsemé de nombreuses îles désertes, certaines assez grandes pour abriter des villes entières, d’autres pas plus grandes qu’une cabine de W.C. de vaisseau spatial. Les terres appartenaient à la République tant qu’elles n’avaient pas été achetées par quelqu’un d’autre. Le prix de l’are dépendait de la planète et de la situation du terrain ; ce qu’il fallait retenir, c’est qu’avec ses îles paradisiaques, ses océans violets et ses merveilleux couchers de soleil double, Ludealis était très, très chère.
-Donc, même avec ses gros revenus d’administratrice et son héritage généreux, Lora avait fait une folie.
-« Tu as acheté cette île, Lora ? Elle est gigantesque !
-— Oui, Noemi. Je l’ai achetée. Non, Noemi. Elle n’est pas gigantesque. Elle est juste assez grande pour nous deux, et… et une maison.
-— Lora, que ferais-je dans une maison ? J’en profiterais à peine… 
-— Noemi. » Les yeux de Lora brillaient de larmes. « J’aimerais que tu en profites. Que nous en profitions. Je n’en peux plus de te voir partir et de ne pas savoir si tu reviendras. »
-J’aimais beaucoup moins la tournure que prenait cette conversation. Il avait déjà été question de me trouver une occupation à terre pour éviter les séparations par le passé, et nous avions conclu toutes les deux que je ne pourrais pas vivre sans voir l’espace. Je lui en voulus de remettre cette conclusion en cause.
-« Lora. Nous avons déjà eu cette conversation. Je ne peux pas…
-— Tu n’étais pas enlisée dans une guerre sanglante la dernière fois que nous avons eu cette conversation, Noemi.
-— Je… » Je m’interrompis. Je ne m’attendais pas à cet argument. « La guerre ?
-— Noemi, nous avons d’autres sources que les infos qui passent en holovi, nous autres administrateurs. Je sais que tout ne se passe pas bien, que les impériaux sont malins. » Elle caressa ma joue tendrement, et m’embrassa sur la bouche. « Qu’est-ce que je vaudrai encore comme administratrice pour donner le moral au monde, si mon monde n’est plus là ? »
-Mes yeux picotaient. Je n’avais rien à dire.
-« Je reviendrai. Je te promets de ne pas me faire tuer par un vaisseau impérial et de revenir à la fin de la guerre. » J’entendais ma voix trembloter. Elle semblait douter de moi, et de ma capacité à tenir ma promesse.
-Mais j’avais promis. Donc, je reviendrais. Cependant, ce n’est pas cette promesse qu’attendait Lora.
-« Et je démissionnerai à la fin de cette guerre, Lora. Je démissionerai. C’est promis. »
-Lora pleurait franchement, et moi aussi. C’était cruel de devoir choisir entre les deux choses que j’aimais le plus. C’était donc à mon tour de demander une chose à Lora.
-« Je te demande une chose en échange de cette promesse, Lora. Une toute petite chose.
-— Quel genre de petite chose, Noemi ?
-— Une petite fille. Lora, je veux un enfant de toi. S’il te plaît. »</Text>
-            <Notes> contre l’empire d’Akhamar.</Notes>
-        </Document>
-        <Document ID="11">
-            <Title>Jonas Cassireau, le chercheur</Title>
-            <Synopsis>Chercheur en xéno-archéologie</Synopsis>
-            <Text>Thème : the whirling infinite</Text>
-        </Document>
-        <Document ID="16">
-            <Title>Encore un chapitre</Title>
-            <Text>« Joachim ? »
-L’après-midi touchait à sa fin à l’horloge de bord. Je venais de pénétrer à l’infirmerie. Une violente migraine me vrillait la tempe droite. J’avais tellement mal que je voyais des petits points lumineux quand je bougeais la tête trop violemment. Je comptais fermement sur Joachim pour m’aider à faire passer ça. Mais, pour l’heure, aucune trace de mon médecin de bord à l’horizon.
-« Joachim ? Où êtes-vous ?
-— Commandant ! Je… »
-J’avais entendu la voix de Joachim, déformée par une paroi métallique. Il était enfermé pas loin de moi… Et soudain, j’entendis un bruit de vomissement. Ah. C’était donc ça.
-« Joachim ? Vous allez bien ?
-— Pas trop. Mais attendez juste une ou deux… »
-Je ne pus saisir l’unité de temps pendant laquelle je devrais attendre, puisque Joachim vomit à nouveau derrière sa paroi. Mais ensuite, j’entendis un jet d’eau, quelques bruits de gargarisation, et Joachim apparut lorsque la porte d’un petit cabinet au fond de l’infirmerie coulissa en sifflant.
-« Commandant. Je suis à vous. Pardon, j’ai des problèmes gastriques depuis ce matin.
-— J’ai entendu ça. Ce n’est pas contagieux, au moins ?
-— Euh, si. C’est un petit virus affectueux. Mais je vais rester à distance, pas d’inquiétude.
-— Hmm d’accord, marmonnai-je en faisant un pas en arrière à tout hasard.
-— Alors, reprit-il, qu’est-ce qui vous amène ?
-— J’ai mal à la tête. Cela a commencé il y a une heure environ.
-— Étrange. Vous auss… »
-Il ne termina pas sa phrase et se précipita dans le petit cabinet. La porte n’était pas encore fermée qu’il vomit à nouveau tout ce qu’il avait dans l’estomac (s’il restait toutefois quelque chose). Jet d’eau. Gargarismes. Porte qui coulisse. Joachim réapparut, et continua comme si de rien n’était. Force était de constater qu’il avait une couleur plutôt verte.
-« Je disais donc, vous aussi. C’est assez général. Tartempion et Tartempion, mes deux infirmers qui étaient de garde ces dernières heures, m’ont rapporté des cas de fièvre avec des maux de tête très violents fréquents au cours de l’après-midi. Tenez, asseyez-vous là. »
-Je m’exécutai : il me demandait de m’assoir sur un petit tabouret d’examen. Il empoigna un thermomètre auriculaire, l’introduisit délicatement dans mon oreille droite, pressa un bouton et attendit. Quelques secondes plus tard, un bip retentit. Il lut le résultat à voix haute :
-« 37,9°C. Ce n’est pas négligeable. Voyons l’autre oreille… »
-Il réitéra la manipulation de l’autre côté.
-« De ce côté, ce n’est “que” 37,6°C. On a souvent constaté une asymétrie comme celle-ci chez les patients de cet après-midi. Systématiquement du côté où la migraine était la plus marquée. Étrange… »
-Il marchait de long en large dans la petite infirmerie, le regard dans le vague. Il détacha du thermomètre le petit embout à usage unique et le jeta dans le vide-ordures. Ensuite, il s’assit en face de moi, sur l’autre tabouret, en s’adossant à la table métallique. Il m’adressa un regard las. Il était mi-vert, mi-blanc, avec des cernes qui tiraient presque sur le violet. Il n’avait pas l’air bien, vraiment. Il inspira longuement avant de reprendre la parole.
-« Je pense qu’il s’agit d’une intoxication alimentaire ou d’un empoisonnement. Je ne sais pas qui aurait pu vouloir empoisonner notre équipage, je mise donc plutôt sur une intoxication accidentelle. On remonte les numéros de lot utilisés par la cuisine ce midi ou ce matin. Un infirmier a effectué des premiers tests sanguins, mais il semble que ce ne soit pas une des bactéries habituelles. »
-Il inspira une nouvelle fois très longuement. Je crois qu’il essayait de se retenir de vomir. Il était probablement arrivé à la même conclusion que moi : il n’avait plus rien à vomir, ce n’était pas la peine.
-« Je lancerais bien une analyse visuelle de mon côté, mais j’ai du mal à rester concentré suffisamment longtemps. Je crois que je vais attendre une douzaine d’heures, que la gastro se passe. D’ici là, je n’ai pas beaucoup d’autres possibilités que de vous donner de l’antidol. L’antalgique fonctionne relativement bien sur les douleurs… pour l’instant. N’hésitez pas à boire beaucoup. Du bouillon, si vous vomissez.
-— Joachim, ce que vous avez, est-ce que ça pourrait avoir un rapport avec cette intoxication collective ?
-— Non. C’est la faute à pas de chance. Peut-être quelque chose que j’ai attrappé sur Mikuro ces derniers jours. »
-C’était possible. Joachim était descendu à terre pendant le séjour de Cassireau sur Mikuro, la petite planète désertique où nous l’avions amené au terme d’un voyage de six semaines au départ de Sido.
-« Merci, Joachim. Remettez-vous bien.
-— Merci, commandant. Prenez ceci. Une dose toutes les quatre heures. »
-Je ne le savais pas encore, et lui non plus, mais j’aurais à peine le temps de prendre deux doses avant qu’une dizaine de vaisseaux impériaux ne sorte d’hyper juste sous notre nez.</Text>
-            <Notes>Le chapitre où Cassireau fout des trucs dans la soupe à un moment où le médecin de bord ne peut rien avaler pour cause de gastro fulgurante.</Notes>
+Le Garibaldi était en approche du premier monde civilisé qu’il avait vu depuis quatre mois. De notre point de vue, il ne s’était passé « que » deux mois, mais le temps ne passait pas à la même vitesse en hyperespace qu’en réalité. Seul le temps que nous avions passé en espace normal était « réel ».
+J’avais passé beaucoup de temps à discuter avec Hadelhaide, toujours sans révéler moi-même ce qui nous avait amenés sur Askhyl. Cependant, Hadelhaide connaissait beaucoup de choses des activités de Cassireau, sans que je n’aie rien besoin de lui dire. Elle m’avait mise en garde contre lui à de nombreuses reprises. D’après elle, il était dangereux, pas seulement dérangé. Je devais vraiment me méfier de lui, car il était capable de nous faire du mal. Je ne voyais pas comment il pouvait nous faire du mal en restant enfermé dans un container dans notre soute. Il avait dû s’engager à ne pas produire de choses trop explosives, afin de garantir la sécurité de l’équipage.
+Du reste, nous avions eu des échanges très intéressants quant à la guerre qui se déroulait, les raisons qui y avaient mené, l’opportunité ou non de continuer le conflit… Je ne m’étais pas mouillée sur les raisons du conflit ou sur le fait que la guerre était « bonne » ou « mauvaise ». Les guerres sont toujours mauvaises, mais je n’étais pas suffisamment haut placée pour décider d’arrêter cette guerre-ci, ou de parlementer.
+Nous arrivions sur Sido, un des mondes les plus actifs de la république. Il abritait une prison pour prisonniers de guerre « de marque ». Les messages de mes supérieurs m’indiquaient que je devais débarquer Hadelhaide et sa petite équipe ici même. Je me rendis dans sa cellule pour lui dire au revoir.
+« Hadelhaide, nous sommes en orbite autour de Sido. Une navette de la sécurité intérieure va vous emmener à terre. Nos routes se séparent ici.
+— Noemi, merci de votre accueil. Je ne dirais pas que le voyage a été un pur plaisir, mais pour une prisonnière, je pense que j’ai eu beaucoup de chance d’avoir droit à des conditions de confort tellement agréables.
+— Oui. Vous êtes prisonnière. Désolée de vous laisser dans un camp.
+— Vous n’avez pas le choix. Et vous m’avez bien traitée. N’importe quel commandant n’en aurait pas forcément fait autant.
+— Je ne sais pas. En tout cas, courage pour la suite, Hadelhaide.
+— Courage à vous, Noemi. La suite de la guerre sera difficile aussi. »
+Les agents de la sécurité intérieure venaient d’embarquer ; ils apparurent au bout du couloir. Je me mis au garde-à-vous devant la porte de la cellule d’Hadelhaide pour l’arrestation.
+Elle ne résista pas quand les gardes menottèrent ses mains dans son dos. Elle me sourit une dernière fois, en m’adressant un hochement de tête, quand elle sortit de sa cellule pour suivre ses geôliers.
+Je ne pus pas suivre du regard le petit groupe qui s’éloignait. Je me concentrai bien vite sur mes pieds, sur le sol métallique du couloir. Je sentais mon ventre se nouer de frustration et d’inquiétude.
+Je sentais confusément que quelque chose n’allait pas dans cet univers. Pour la première fois en tant d’années de carrière, je doutais de la bonne foi de mon employeur, je ne lui faisais pas confiance. J’avais peur qu’il maltraite mes prisonniers de guerre, qu’il ne respecte pas le code que j’avais fait le serment de respecter.</Text>
         </Document>
         <Document ID="4">
             <Title>Départ</Title>
@@ -314,60 +440,242 @@ Je soupirai. Cette mission allait durer très, très longtemps.</Text>
             <Notes>Ensuite : Noemi pose son préavis de départ.
 Quelques temps après : on embarque un mec des services secrets qui veut faire des trucs sur Mikuro, un système près de la frontière mais pas franchement stratégique.</Notes>
         </Document>
+        <Document ID="22">
+            <Title>Difficile à tuer</Title>
+            <Text>Un bruit me tira de mon inconscience. J’étais au chaud. Un beau soleil me chauffait le visage. Où étais-je ? Je n’étais pas aussi bien installée que cela… Je donnai quelques coups de tête puis je réussis à ouvrir les yeux.
+Un grand ciel bleu, sans nuages. Un soleil de plomb.
+Je me redressai pour voir le reste. J’étais toujours dans la navette accidentée. Autour de moi, il y avait du sang, beaucoup de sang, des sachets de rations de survie et un fusil. Je me souvins de ce que j’avais fait avec le fusil et je regardai avec anxiété en direction de l’extérieur. Le type était toujours là. Deux animaux étranges étaient à côté de son cadavre, occupés à farfouiller dans sa chair en grognant. Ils ressemblaient à des gros chiens maigres au premier abord, mais leur peau brun foncée semblait nue, dépourvue de poils. Ils avaient des plaques plus sombres, solides et lisses, munies de pointes, tout le long de la colonne vertébrale, qui se terminait par une petite queue pointue également. La tête était elle aussi recouverte de ces plaques lisses, et munie d’yeux globuleux — je comptais deux paires au moins — à l’air absent. Leur museau était arrondi, et leur gueule s’ouvrait de façon étrange. J’avais du mal à voir…
+Soudain, ils semblèrent me remarquer et levèrent les yeux de leur festin. Je me sentis un peu moins à l’aise, d’un coup. Le plus proche de moi fit quelques pas dans ma direction, et poussa un hurlement. Sa bouche s’ouvrit comme une fleur, trois mâchoires protégeant une bouche écarlate pleine de dents. Je ne savais pas ce qu’il voulait avec ses dents, mais ce n’était sûrement pas du bien. Avant de continuer à réfléchir, je me jetai sur le bouton de fermeture de la porte extérieure. Elle coulissa et se scella dans un sifflement juste au moment où la bestiole atteignait la carlingue. L’animal rebondit avec un grand BONG sur l’appareil. J’ouvris le hublot d’observation au centre de la porte pour voir à peu près ce qui se passait. Hélas, il n’était pas très bien orienté et je devais prendre une position inconfortable pour regarder ce qui se passait à l’extérieur. Je dus me lever et me contorsionner pour coller mes yeux contre la vitre. Les deux bestioles s’étaient à nouveau concentrées sur le cadavre. Elles avaient réussi à entamer le matériau étanche {se renseigner sur le matériel utilisé dans les vraies combis spatiales} pour atteindre la chair. Charmant. Je ne savais pas au juste comment s’appelaient ces créatures, mais ça ne me donnait pas spécialement envie. Je n’aurais jamais cru que des formes de vie pouvaient naturellement survivre dans ce désert.
+Ce n’est qu’après ces premières réflexions que je réalisai que je m’étais levée. Et que je me sentais plutôt bien. Quelque chose ne collait pas avec mes derniers souvenirs et la mare de sang dans laquelle je m’étais réveillée. La dernière fois que j’avais eu conscience de mon corps, il était en train de se vider de son sang et mes jambes ne bougeaient pas. Assurément, je n’avais aucune bonne raison d’être en état de me lever, de marcher et de réfléchir aussi clairement que cela. Quelque chose de louche se tramait.
+Je voulus enlever ma combi pour voir l’état de mes blessures. Je ne voulais pas le faire dans le sas, mais je n’osais pas retourner dans la navette même — si mes souvenirs étaient bons, il y avait un autre cadavre là-bas aussi. Pourtant, je ne pourrais pas rester dans ce sas éternellement. Je pris mon courage à deux mains — et je remis mon masque respiratoire pour éviter de sentir les effluves de la mort à côté — puis j’ouvris la porte intérieure. Le cadavre de l’inconnu était toujours là. Il n’avait pas beaucoup saigné, signe qu’il était mort avant de toucher le sol. J’avais plutôt bien visé, il n’avait pas souffert trop longtemps…
+Bon. Je ne voulais pas de ce cadavre à côté de moi. Je pouvais peut-être le laisser dans un des sas non utilisés (bâbord avant ou tribord arrière) mais cela ne le ferait pas disparaître. J’envisageai de larguer le cadavre aux deux bestioles dehors, mais la perspective ne me parut pas sympathique non plus. Dans l’espace, on se pose moins de questions… L’idéal aurait été une incinération, mais une navette standard ne comporte pas d’incinérateur. Les réacteurs ne sont en outre pas prévu pour cela.
+Tant pis. Ce serait un sas. Je choisis le sas bâbord avant. J’ouvris la porte interne, j’y fourrai le cadavre et je refermai illico. Maintenant que j’étais « seule », j’allais pouvoir observer mon corps. Mais pour enlever la combi, je devais enlever le masque… J’activai les purificateurs d’atmosphère pour les pousser à fond histoire de débarrasser l’air ambiant de l’odeur qui devait régner là. Pendant que les purificateurs vrombissaient, je me plaçai au poste de pilotage pour regarder encore ces écrans de capteurs. Ils donnaient toujours un ciel désert. Personne ne semblait rechercher les deux patibulaires qui nous cherchaient.
+Je me sentais vraiment mal à l’aise avec cet homme mort derrière cette porte. J’avais été obligée de le toucher et de regarder son visage pendant que je le déplaçais. Je ne pouvais pas m’empêcher de revoir son visage et je n’arrivais pas à le chasser de mon esprit. Je secouai la tête. Bon. Les purificateurs tournaient à plein pot depuis trois quarts d’heure. L’air devait être respirable à présent. J’enlevai mon masque avec précaution, en hésitant un peu à respirer franchement. Je n’eus pas le choix, cependant, et l’air se révéla tout à fait respirable, faisant presque illusion.
+Avec précaution, je défis les fermetures de ma combinaison. Je tirai ensuite sur les manches pour m’extraire du haut, que je posai à côté de moi. Ensuite, je n’eus plus qu’à enlever le pantalon. J’examinai ma peau. Mes sous-vêtements étaient effectivement troués et tachés de sang. Cependant, ma peau portait uniquement des cicatrices rosées, un peu comme des petits coups de soleil. En d’autres termes, j’étais guérie. Pourtant, je n’étais pas restée là pendant plusieurs semaines à recevoir des soins ; j’étais restée inconsciente tout au plus quelques heures, et je n’avais pas reçu de soins. Joachim avait peut-être raison à propos de cette vitesse de guérison étonnante.
+Non. Pas « peut-être ».
+Il avait vraiment eu raison. Nous autres étions devenus beaucoup, beaucoup plus difficiles à blesser.
+Certes, j’étais toujours vivante et j’aurais dû m’en réjouir, mais cette découverte me glaça le sang. J’étais devenue un monstre, ni plus ni moins.
+❃ ✽ ✾
+Je connaissais le chemin pour l’avoir parcouru peu de temps auparavant (peu de temps subjectif, disons — je n’avais pas vraiment idée du temps qui s’était écoulé en réalité. Peut-être moins d’une journée). Je retrouvai facilement le boyau qui descendait dans la mine, je le suivis sans hésitation.
+Une fois en bas, je n’eus pas de difficulté à retrouver l’endroit où se trouvait la rivière souterraine. Je fus soulagée de constater que les survivants du Garibaldi avaient levé le camp. Pour quelle direction ? Difficile à dire. Il y avait probablement des kilomètres de tunnels dans ces mines, qui constituaient sûrement un véritable labyrinthe. On avait le temps de mourir de faim plusieurs fois avant de trouver une sortie, si on n’avait pas de chance.
+Je décidai de sortir des tunnels industrialisés pour suivre la rivière souterraine. Elle allait forcément quelque part où il serait possible de sortir. Enfin, je l’espérais. Et j’avais encore de quoi manger quelques jours, si je me rationnais. Hélas, le reste du groupe avait l’essentiel des rations et je ne savais pas où ils étaient passés.
+J’inspirai un grand coup, puis je posai les pieds au fond de l’eau. La rivière était profonde d’environ cinquante centimètres. Je revérifiai la vivacité de mes lampes (rechargées au soleil moins d’une heure plus tôt), puis je me mis en route. La rivière avait été bien plus profonde à une époque ; elle avait creusé la roche sur une profondeur considérable. Les parois avaient été rongées par couches. Elles semblaient composées de quelque chose qui ressemblait à du grès rose de différentes nuances allant du rouge au orange. En progressant, j’observais mon entourage à la lumière de la lampe, et je faisais attention à ne pas glisser ou trébucher sur une aspérité du sur le fond rocheux accidenté de la rivière.
+Je marchai ainsi dans l’eau un peu moins d’une heure. Le boyau naturel que je suivais était vraiment joli. C’était un peu pénible de marcher dans le noir et d’avoir de l’eau jusqu’aux genoux, mais l’eau avait créé des structures naturelles, stalactites, stalagmites et autres, très agréables à l’œil. Je profitais un peu du spectacle pour éviter de me faire trop de sang d’encre à l’idée de ma situation désespérée.
+Soudain, le boyau déboucha dans une cave naturelle plus grande, qui m’offrit un spectacle que je ne me serais pas attendue à voir ici. Une mince ouverture vers le ciel s’ouvrait dans le plafond de la cave, baignant la pièce d’une lumière blanche un peu timide. Mais ce n’était pas tout. Cette pièce était remplie de plantes vertes ! Je n’étais pas en mesure de les nommer. Certaines me semblaient cependant familières, donc étaient peut-être importées de la Terre ou d’une autre colonie terrienne. J’éteignis mes lampes et je m’approchai pour examiner la végétation environnante. Il y avait beaucoup de mousse sur les rochers, des fougères et des herbes hautes, mais aussi des arbustes qui, avec toutes leurs feuilles, ressemblaient à des petits palmiers. D’abord les chiens monstrueux qui survivent dans le désert, maintenant des plantes des cavernes… Cette planète avait décidément bien des surprises à réserver aux visiteurs ! L’atmosphère était ici beaucoup plus humide que dans les mines. Apparemment, il n’y avait pas que la rivière que je venais de suivre qui arrivait ici. Un bassin plus profond se trouvait au centre de la cave. J’hésitai à m’y baigner. L’eau semblait claire, mais je n’avais rien pour m’essuyer, et je mettrais sûrement assez longtemps à sécher. Et puis tant pis. J’étais poisseuse de sang et de sueur, et j’avais le temps. Je me débarrassai de ma combi, de mes vêtements puis, après quelques instants d’hésitation supplémentaires, de mes sous-vêtements. Je pris soin de garder mon fusil à portée de mains et je m’immergeai dans l’eau du bassin. L’eau était fraîche, voire froide, mais elle était pure. Il y avait du sable au fond de l’eau. J’en pris une poignée pour me frotter la peau. J’utilisai un peu de sable pour frotter mes vêtements encore tachés de sang. Quelques minutes et un peu d’huile de coude suffirent pour faire disparaître l’essentiel des taches. Il restait quelques traces brunâtres, mais je ne pouvais pas faire de miracle avec juste de l’huile de coude. J’essayai de laver mes cheveux, mais le résultat ne fut pas à la hauteur de mes espérances. Devant le bloc indivisible qu’ils formaient suite aux saignements et au mélange avec le sable, je dus me résoudre à les couper avec le couteau de ma combi pour gagner en temps de séchage et de démêlage. Je n’avais pas de miroir, mais j’imaginais assez facilement que le résultat serait intéressant et révolutionnaire pour la mode de la nouvelle Terre, monde capitale de la république de {Tartempion}. Une fois que je fus débarrassée de ces trente centimètres de cheveux de trop, le lavage fut plus aisé.
+Je restai quelque temps dans l’eau, à me nettoyer tout ce que je pouvais, à me reposer et à réfléchir. Soudain, quelque chose capta mon attention. Un rocher sous la mousse, au bord du bassin, n’avait pas une forme naturelle. Il était trop plat, ses angles étaient trop droits, pour que la nature seule soit à l’origine de sa création. Je nageai les quelques mètres qui me séparaient du « rocher » et je l’examinai plus attentivement. Effectivement, ce n’était pas un rocher naturel. Il s’agissait d’un pilier parallélépipédique qui plongeait dans le bassin. On devinait sur les côtés quelque chose qui ressemblait à des poignées creusées dans la roche… Sans sortir de l’eau, je détachai un peu de mousse avec mon couteau pour voir ce qu’il y avait en-dessous. En frottant avec du sable pour enlever les restes de végétal, je pus nettoyer le pilier plus correctement. Il était constitué d’un matériau gris qui reflétait la lumière en de multiples reflets irisés. C’était très, très joli. J’avais l’impression que le matériau chauffait sous mes doigts. Pourtant, lorsque je posai les mains dessus pour m’en assurer, il semblait froid. Je décidai de dégager complètement le pilier de la mousse qui le recouvrait. Je donnai donc de vigoureux coups de couteau pour enlever toute la mousse, qui se détacha sans résistance. J’utilisai encore un peu de sable pour nettoyer le matériau et profiter de la vue. Sur le côté du pilier plongeant dans l’eau, Sur tout le tour du pilier courait il y avait une inscription écrite dans un alphabet que je n’avais jamais vu et que je n’arrivais pas à déchiffrer. Les lettres semblaient bouger, se dérober à ma conscience quand je voulais les regarder déchiffer, les comprendre. C’était assez dérangeant. J’étais suffisamment fatiguée pour prêter une conscience et des intentions à un pilier  sculpté de roche métallifère. {pas sûre que ça se dise comme ça… ⇒ désigne une roche pleine de minerais métalliques}
+Peut-être était-il temps de faire une pause. Je regagnai l’autre côté du bassin, je sortis de l’eau. Après avoir mangé un des biscuits qui me restaient, je m’allongeai sur le tapis de mousse qui se trouvait là, et je m’endormis aussi sec. vite.
+❃ ✽ ✾
+Noemi, nous ne te connaissions pas, nous ne connaissions pas les humains, mais tu nous plais. Nous avons vu ce que tu sais, ce que tu comprends. Tu nous portes en toi, et tu nous as trouvés. Nous aimerions que tu t’en sortes et que tu en apprennes plus sur nous. Il faut que tu quittes cette planète, que tu retrouves les humains qui en savent plus que toi sur nous. Ils sont loin, mais les humains savent aller loin eux aussi, maintenant. Ne t’inquiète pas, Noemi. Nous veillerons sur toi. Tu es un peu plus qu’humaine, maintenant. Nous avons aussi rendu les autres meilleurs que ce qu’ils étaient avant. Tu dois apprendre d’où vous venez. Vous devez tous l’apprendre, sinon vous allez tous mourir. {ou pas. On n’est pas chez les moissoneurs là.}
+J’ouvris les yeux. J’étais toujours couchée nue sur la mousse dans cette cave naturelle, pleine de végétation. Je me sentais agréablement propre et reposée. J’avais fait des rêves étranges, avec des lumières qui me parlaient dans ma tête. Un peu étrange comme sensation.
+Je décidai que je m’étais suffisamment reposée pour le moment. Je réenfilai mes vêtements, qui avaient largement eu le temps de sécher, et je scellai ma combi sans ajouter mon casque ni mon masque. J’allais continuer à descendre la rivière ; j’avais repéré que l’eau du bassin s’écoulait dans un couloir un peu plus bas de plafond. Je pourrais sceller mon casque si je devais marcher sous l’eau, mais il faudrait que je débouche à l’air libre assez rapidement. Sur ces pensées pratiques, je fis le tour du bassin pour me mettre en route. Avant de partir, je jetai un dernier regard à la pierre étrange qui m’avait fait halluciner. Je ne pus m’empêcher de hausser un sourcil. Les inscriptions semblaient avoir changé. J’étais capable de les déchiffrer, à présent. Elles ne voulaient toujours rien dire pour moi, mais les lettres étaient indéniablement de l’alphabet que je connaissais. {Non en fait elles n’ont pas changé mais maintenant elle arrive à les lire.} Je m’approchai à nouveau de la pierre pour en avoir le cœur net. Non, elles n’avaient pas changé. Les courbes et les arabesques étaient les mêmes… Mais il me semblait à présent qu’elles avaient un sens que je pouvais percevoir. J’essayai de lire l’inscription à voix haute, car d’un coup j’avais conscience que chacun de ces signes était une syllabe… Et je connaissais chacune de ces syllabes. Je ne pus m’empêcher de déchiffrer ces syllabes à voix haute.
+« No… é… mi… {Oui non ça fait un peu trop wtf} Ki… ra… i… pô… Mais ça ne veut rien dire… Je ne comprends pas. » Et c’était vrai. J’arrivais à déchiffrer, mais je ne comprenais pas. Je jurai que le pilier mystérieux avait pris un air contrarié. Jamais content. Bref. J’avais perdu suffisamment de temps ici. Il était temps de partir. Je me sentis néanmoins obligée de saluer poliment le pilier avant de partir.
+Quand je pénétrai dans le boyau obscur qui s’éloignait de la salle végétale, je me dis que j’étais peut-être bien en train de devenir folle.</Text>
+        </Document>
+        <Document ID="15">
+            <Title>Autour de Mikuro</Title>
+            <Text>« Commandant, c’est un scandale ! J’ai encore des expériences à mener sur le vaisseau ! Je ne peux pas redescendre sur la planète maintenant !
+— Professeur Cassireau, c’est un ordre ! Il y a des dizaines de vaisseaux de la flotte impériale ici, et il est hors de question de risquer votre vie et celle de votre équipe dans cette bataille. Donc vous allez retourner sur Mikuro. Ils ne lanceront pas de missile sur la planète. En revanche, sur nous, oui. Je vous laisse une demi-heure pour vous préparer, et si vous n’êtes pas prêt d’ici là, je vous ligote pour vous larguer. »
+La conversation était terminée. J’avais autre chose à faire : l’équipage était en branle-bas-le combat. Dix vaisseaux impériaux étaient sortis de l’hyperespace quelques minutes auparavant. Nous ne nous attendions pas à cela, pas dans ce système minuscule à l’écart de toutes les routes commerciales et loin de n’importe quel système civilisé. Il y avait sur Mikuro, petite planète désertique, quelques villages d’anciens mineurs « affranchis » — des colons encouragés par le cartel Vilasis à s’installer sur la planète pour y exploiter des mines en échange de quelques avantages matériels, qui s’étaient ensuite retrouvés sans emploi quand le cartel avait commencé à exploiter les astéroïdes au lieu des mondes habités. Autrement dit, l’empire ne s’intéresserait pas à Mikuro. Il était ici pour établir une position avancée à l’intérieur de nos frontières… Et j’avais l’ordre de faire tout ce qui était possible pour éviter de lui donner un avantage. Priorité à la guerre et à la protection des civils. Les recherches de Cassireau passeraient au second plan.
+J’avais laissé Cassireau se débrouiller, il était plus que temps de se mettre d’accord sur un plan d’action. J’aggripai le micro et je convoquai mon équipe tactique : Tartempion l’officier tactique, Tartempion l’astrogateur et Tartempion et Tartempion. Ils me répondirent qu’ils arrivaient au triple galop. Pendant les quelques minutes qu’ils me laissèrent avant d’arriver, j’appelai l’infirmerie :
+« Joachim ? Vous allez mieux ?
+— Oui, commandant.
+— Tenez-vous prêt. Je ne sais pas comment nous allons procéder au juste, mais cela se présente mal. Nous aurons probablement des blessés. Dans le meilleur des cas.
+— Je comprends. Comment vont les maux de têtes ?
+— Mal. Tout le monde a toujours mal. Pourriez-vous préparer des doses d’antidol à distribuer à l’équipage ? Ou à intégrer directement aux combi ?
+— C’est en cours. J’ai trois infirmiers qui ont presque fini la préparation des doses, et qui ont prévu de faire un tour de vaisseau pour la distribution.
+— Merveilleux. Merci, Joachim.
+— C’est mon boulot, commandant.
+— Certes. Mais vous le faites bien. Je vais faire ce que je peux pour faire le mien correctement — vous garder en vie, en somme.
+— Courage à vous.
+— Merci. Mes officiers sont là. Vilasis, terminé. »
+La moitié de mes officiers était déjà en combi. Je posai mes mains à plat sur la table et je m’appuyai sur celle-ci en les regardant, un par un, dans les yeux.
+« Mesdames et messieurs, au travail. »
+❃ ✽ ✾
+Les heures avaient passé. Les vaisseaux impériaux avaient fini par nous remarquer, évidemment. Cela dit, ils nous avaient remarqué presque une heure après le largage de mes porte-mines furtifs qui avaient eu le temps de commencer tranquillement à tisser leur toile. Nous communiquions avec eux grâce à des faisceaux ultra-directionnels aussi discrets que possible, sur des durées aussi courtes que possible. Le plan était convenu ; il fallait communiquer uniquement en cas d’imprévu. Le premier imprévu fut rencontré par la navette Tartempion. Il manqua une collision avec un bout d’astéroïde qui faillit leur coûter leur protection. Il fallut qu’ils dévient légèrement de la trajectoire prévue, mais cela ne transforma pas outre mesure le reste du plan.
+Nous, les occupants du Garibaldi, nous étions l’appât. Les six porte-mines étaient partis, remplis de l’équipage maximum, pour poser le piège, nous avions largué nos civils sur Mikuro — Cassireau avait fini par accepter de descendre, curieusement —, il ne restait « que » 60 personnes à bord. Je pensai, amère, que cela faisait toujours 40 morts de moins et que c’était toujours bon à prendre.
+Nous étions donc en train de faire mine de lancer une manœuvre plausible, mais dangereuse : nous attaquions ce qui semblait être le vaisseau amiral. Pour l’heure, nous étions en phase d’approche, mais les choses sérieuses n’allaient pas tarder à commencer.
+Je jetai un coup d’œil à l’écran sur ma combi qui indiquait mon état de santé. Il indiquait que ma fièvre avait augmenté — j’atteignais 38,7°C —, et que mon cœur battait un peu trop vite. Je me disais que la vitesse à laquelle battait mon cœur provenait plus vraisemblablement du stress, mais peut-être que la fièvre jouait. L’écran indiquait aussi que j’étais autorisée à reprendre une dose d’antidol. Je n’attendis pas pour m’exécuter ; même s’il avait une efficacité limitée, l’antidol soulageait légèrement la douleur qui me vrillait les tempes et diminuerait la fièvre. Joachim voulait profiter d’un retour sur un monde-ville pour se procurer des médicaments plus efficaces… Si jamais nous avions la possibilité de retourner sur un monde-ville pour cela.
+La douleur reflua brièvement. Je m’accrochai à mon siège, des sueurs froides coulant le long de mon cou. Cette bataille allait être doublement difficile.
+❃ ✽ ✾
+« Trois… deux… un… feu ! »
+Une première salve de missiles s’éloigna de nous. Les impériaux tirèrent eux aussi, quelques secondes après nous. Nos missiles ne nous conféraient pas un avantage écrasant en termes de vitesse. Nos mines, qu’ils ne semblaient pas avoir remarquées, nous donneraient en revanche des chances de nous en sortir. Minces, mais définitivement non nulles.
+Les missiles ennemis approchaient. Tartempion me signala qu’il estimait leur temps de trajet à dix petites minutes. Nos missiles, légèrement plus rapides mais moins endurants, ne leur laissaient que six minutes pour se préparer à l’attaque. Les combats de vaisseaux spatiaux étaient plein de tension et d’attente mêlés. On voyait arriver les choses longtemps à l’avance, mais les temps impartis pour réagir étaient courts… et il fallait toujours s’attendre à des surprises.
+Je frottais mes tempes douloureuses en fixant le visuel tactique. Nos missiles, représentés en bleu, s’éloignaient. Les missiles ennemis détectés, bien plus nombreux, représentés en rouge, s’approchaient. Tout ceci flottait dans un réseau serré de symboles jaune-orange représentant les mines. Les deux salves finirent par se croiser. Je voyais mes pilotes se préparer aux acrobaties d’évitement, au cas où le poste de défense active — et ses deux artilleurs prêts à démolir tout ce qui s’approchait — ne nous débarasserait pas de tous les missiles ennemis.
+Bien. Tout semblait se passer pas trop mal. J’ordonnai de commencer la « fuite ». Il s’agissait de faire mine de laisser tomber la bataille et de commencer à s’éloigner vers la limite hyper, pour que les impériaux nous suivent. Le Garibaldi décéléra, fit un joli demi-tour en passant nez par dessus tête, et fila à pleine accélération. Comme mon petit bijou était très agile, tout cela se passa en moins de dix minutes. Les impériaux comprirent vite notre manœuvre et entamèrent un procédure d’interception. Exactement comme nous l’avions prévu.
+Soudain, quelque chose me frappa violemment à la tête. Ma migraine qui ne s’était pas spécialement calmée se réveilla. Je vis des étoiles danser devant mes yeux. Un voile noir envahit mon champ de vision. Je tentai de m’accrocher aux poignées de mon siège pour ne pas tomber tête la première sur ma console, mais ce fut difficile.</Text>
+            <Notes>À ajouter :
+Cassireau reste dans sa boîte pendant plusieurs semaines de voyage, et va mettre ses nanites dans la soupe en secret.
+
+Cassiraud - le médecin - est malade. Il n’a pas mangé la soupe empoisonnée de Cassireau.
+
+Cassireau reste en secret sur le vaisseau après que Noemi les fiche dehors. Il veut déclencher le signal d’activation des nanites. Ça va tomber pendant la bataille mais il s’en fout, c’est pour la science.
+
+——
+
+</Notes>
+        </Document>
         <Document ID="5">
             <Title>Chronologie</Title>
             <Text>À compléter</Text>
         </Document>
-        <Document ID="12">
-            <Title>Voyage</Title>
-            <Text>« 93 points. Pas mal.
-— Joli ! Je n’en suis qu’à 65.
-— Mais comment vous faites ? J’ai donné tout ce que j’ai pu et j’en suis à 37 !
-— L’habitude, {Tartempion}. Mais attends de voir ce que va dire le pacha. Elle nous aplatit à chaque partie depuis 3 semaines que nous sommes partis. »
-Je souris en coin sous le regard interrogateur de Joachim. J’avais appris ce jeu à l’académie de pilotage, et je commençais à le maîtriser. Il s’agissait d’un jeu de stratégie constitué d’environ 250 cartes dans lequel les joueurs tentaient de maîtriser une galaxie qui ressemblait à peu près à la nôtre (mais avec des aliens et une guerre entre « rebelles » et un « imperium »). À présent, je m’amusais plus à l’enseigner à des joueurs peu expérimentés qu’à gagner les parties (mais évidemment, je gagnais toujours. Je connaissais par cœur les interactions entre cartes et les différentes stratégies pour gagner). J’annonçai mon score.
-« 110. Mais j’ai triché. J’y joue depuis 20 ans. »
-Peut-être, je l’avoue, que les regards ébahis des débutants faisaient partie du plaisir.
-Je jetai un œil à la pendule : il était temps d’arrêter de s’amuser.
-« Bon. Le Garibaldi va sortir d’hyper dans deux grosses heures. Il va falloir que je vous laisse. Et vous allez devoir arrêter de jouer bientôt aussi.
-— À vos ordres, pacha.
-— À tout à l’heure, pacha.
-— Et pas de mots déplacés sur Chassireau, hein ? » me sentis-je obligée d’ajouter. L’équipage, comme je l’avais prévu, détestait cordialement Cassireau. Nous l’appelions Chassireau pour éviter les confusions avec notre gentil Docteur Cassiraud. Comme il ne sortait jamais le nez du bloc laboratoire embarqué dans la soute, il était assez facile d’éviter les accidents diplomatiques. De toute façon je me fichais pas mal des accidents diplomatiques.
-« Nous ?
-— Oh.
-— Allons.
-— Jamais. »
-Ils étaient mignons.
+        <Document ID="6">
+            <Title>Personnages</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Retour à la lumière</Title>
+            <Text>J’avais progressé, tant bien que mal, tout le long de la rivière souterraine. Elle traversait régulièrement des ouvertures comme celle que j’avais découverte au début : des caves ouvertes sur le ciel, où la lumière permettait aux plantes de se développer. Ma « promenade » avait duré trois jours. Je commençais à avoir sacrément faim. C’est donc avec une certaine incrédulité que je débouchai dans une salle qui, contrairement aux autres, portait clairement la main de l’homme.
+Comme les autres salles, celle-ci était ouverte en haut sur l’extérieur (peut-être un peu plus que les autres — il y avait fort à parier que l’ouverture avait été agrandie atificiellement), et elle était traversée par une rivière souterraine. En revanche, au lieu des plantes autochtones qui poussaient en toute libertés dans les caves naturelles, il y avait ici des rangées de plants cultivés : des céréales, des légumes, et même des plants de tomates et ce qui ressemblait à des pommes de terre… De quoi nourrir une famille nombreuse, me semblait-il.
+Je localisai assez vite la sortie de la caverne qui était utilisée par les exploitants. Une ouverture d’environ deux mètres de haut et de un de large, le sol plein de traces de pas. La personne qui utilisait cette caverne pour se nourrir venait souvent. J’avais très faim, mais je n’avais pas envie de me faire attraper en flagrant délit de vol de nourriture. Je ne connaissais pas la valeur de la nourriture sur ce monde, et il était facile d’imaginer qu’un légume valait fort cher sur celui-ci, tout désertique qu’il était. Je n’en revenais pas encore de voir qu’on pouvait faire pousser des légumes et des fruits dans ce désert…
+Pour éviter, donc, de me faire prendre en flagrant délit de vol, je décidai de suivre la piste de loin pour voir à quoi elle menait. Si possible, je souhaitais éviter de croiser quelqu’un de trop désireux de placer une balle dans mon cerveau. Je m’aventurai hors de la caverne. Cela faisait bien longtemps que je n’avais pas marché en plein soleil. La lumière m’éblouit {m’éblouisit ??? oO Non. Non. « éblouit » OK} quelques instants durant lesquels je ne vis plus grand-chose autour de moi. Ensuite, je réussis à distinguer les traces de pas qui s’éloignaient de la caverne et se dirigeaient vers une piste qui s’enfonçait droit dans le désert. Ce dernier était caillouteux plus que sableux, par ici. Le sol semblait constitué d’une terre sèche et dure, parsemée d’arbustes desséchés et de cailloux. Après tout ce temps sous terre, je n’avais aucune idée de la direction de que prenait la piste : le nord ou le sud, c’était à peu près pareil pour moi à ce niveau. Tout au plus pouvais-je concevoir que j’étais à présent à une altitude moins élevée qu’auparavant. Nous étions descendus longuement dans les boyaux, puis j’avais descendu la rivière. Je me trouvais dans une petite oasis où poussaient des plantes à mi-chemin entre des palmiers et des cailloux. Si les tempêtes étaient toujours aussi vigoureuses que celles qu’on avait vue quelques jours plus tôt, les plantes avaient intérêt à résister au vent. C’est sûrement pour cela que les hommes avaient décidé de cultiver leurs plantes dans des cavernes : pour rester à l’abri du vent.
+Je pensais trop. Il était plus que temps de se mettre en route. Je vérifiai mon fusil et je commençai à suivre la piste. {todo : cohésion avec le paragraphe précédent où je dis qu’elle veut suivre la piste de loin pour ne croiser personne…} Je craignais de croiser quelqu’un d’hostile, mais marcher directement dans le désert n’était pas forcément une idée géniale non plus. La piste était clairement utilisée souvent, mais il semblait qu’elle était utilisée par peu de monde à la fois. Elle était presque invisible par endroits, et souvent à peine assez large pour une personne de front. Au bout d’une demi-heure de marche sous le soleil de plomb, j’aperçus au loin des petites maisons en préfabriqué adossées à un affleurement rocheux comme celui que l’on avait vu près du site de crash. Je reconnus un de ces villages de mineurs que le cartel Vilasis avait payés aux colons en échange de leurs services dans les mines. Il était logique que l’on les loge près des veines riches en minéraux. Je m’éloignai de la piste, je me cachai dans un bosquet d’épineux sans — presque — me faire mal, puis je plissai les yeux pour voir quelque chose du village. Je n’avais pas de jumelles ni de lunettes de protection, et le soleil qui me tapait sur la tête commençait à me faire souffrir. Donc je ne voyais pas grand-chose. Je distinguais une vingtaine de maisons et quelques silhouettes qui allaient d’une maison à l’autre. Il y avait peut-être d’autres logements à l’intérieur de l’ancienne mine.
+Je n’eus pas le loisir de me demander si je pouvais m’approcher encore un peu. J’entendis des pas approcher. Lorsque je tournai la tête pour voir à qui ils appartenaient, je vis un homme maigrichon s’approcher de moi. Il était vêtu de tissus simples et colorés, sa peau était tannée par le soleil. Et surtout, il avait un gros fusil à la main et il l’avait pointé vers moi. Il n’avait pas l’air ravi de me voir. Il me parla bientôt, d’un anglais standard parfait :
+« Madame, vous n’êtes pas la bienvenue ici, mais nous sommes disposés à vous écouter si vous n’opposez pas de résistance. Les mains en l’air. »
 ❃ ✽ ✾
-De retour dans ma cabine, je rappelai à l’ensemble de l’équipage que nous allions sortir d’hyper sous peu. L’ensemble de l’équipage devait être en combinaison d’ici la transition. Comme convenu, je n’adressai pas la parole à notre illustre et détestable passager. Je lui envoyai simplement un petit mot électronique :
-Professeur Cassireau,
-Le Garibaldi sortira d’hyper dans deux heures et une minute. En raison des risques posés par le conflit avec l’empire d’Arkhenar, conformément aux dispositions R-5246 du règlement spatial en temps de guerre, l’ensemble des passagers et de l’équipage devra être en combinaison ou armure légère au moment de la transition hyper-normal. Si vous ne respectez pas cette consigne, la flotte déclinera toute responsabilité en cas de dommage, létal ou non, consécutif à une dépressurisation brusque d’une partie du vaisseau.
-Par ailleurs, pour votre confort et celui de votre équipe, il est conseillé de garder un sac à déchets à portée de main pendant toute la durée de la transition. Nous quitterons les bandes δ dans moins de 30 minutes. Les nausées et les vomissements sont plus fréquents en toute fin de transition, vers l’espace normal, mais il est fréquent que les personnes peu habituées soient sujettes aux malaises dès les transitions concernant les bandes élevées.
-N.V.
-Je ne m’attendais pas à ce que Cassireau tienne compte de mes conseils, mais j’espérais que ses deux coéquipiers auraient droit à leur petit sac. Les premières fois étaient indéniablement désagréables, et les suivantes n’étaient jamais agréables non plus. Je parcourus à nouveau mes messages. Rien de neuf n’était arrivé pendant le quart de {Tartempion le second}. J’avais encore le temps de me doucher avant d’enfiler ma combi et d’aller surveiller les transitions de sortie d’hyper depuis le pont de commandement. Il faudrait être très au point pour la sortie hyper : on ne savait rien de ce qui nous attendait dans le système d’Ashkyl.
+On m’avait menée dans un des baraquements en préfabriqué, où on m’avait débarrassée de mes armes, de ma combi et de mon sac. On m’avait demandé ce qu’était le boîtier de la boîte noire de la navette. J’avais expliqué ce que c’était et assuré à plusieurs reprises que ce n’était pas une bombe et que j’apprécierais grandement qu’on en prenne soin. Ils semblaient plus intéressés par le reste : les bouteilles d’eau, les munitions, le matériau de la combi… J’acceptai de tout leur laisser, à l’exception du boîtier mémoire et de mon alliance. Visiblement, les métaux précieux n’étaient pas ce qu’il y avait de plus précieux ici, cela ne leur posa donc pas de problème.
+Après le dépouillement, on me laissa seule dans la pièce, ligotée à une vieile chaise en plastimétal. Il faisait chaud comme dans un four à l’intérieur de ces préfab. Je commençais à me dire que les gens que j’avais aperçus habitaient effectivement ailleurs.
+Le fil de mes pensées fut interrompu par l’irruption d’un grand homme — lui aussi, très maigre et vêtu du même genre de tissu que celui qui m’avait arrêté — accompagné d’une petite femme. Ils tirèrent à eux deux chaises de plastimétal et s’assirent en face de moi, en prenant soin tout de même de rester à bonne distance.
+« Madame, commença l’homme, nous aimerions savoir ce que vous faisiez, armée, en combinaison souple, à nous épier. Ce sera tout l’objet de cet entretien.
+— Je vous remercie d’être poli avec moi, répondis-je. Je me ferai un plaisir de répondre aussi complètement que possible, mais j’aimerais d’abord savoir qui vous êtes et où je suis : j’avoue que je suis un peu perdue. J’aimerais aussi savoir à qui vous allez répéter ce que je vais dire. »
+J’avais prononcé tous ces mots sur un ton neutre et amical, sans les quitter des yeux. L’homme et la femme s’interrogèrent du regard. La femme hocha finalement la tête, et l’homme se tourna à nouveau vers moi.
+« Je m’appelle Renan Allington, dit-il. Voici ma femme, Luce. Nous sommes les… comment dire ? On pourrait dire simplement les “meneurs” de cette petite communauté. Avez-vous déjà entendu parler des contrats de {nom à trouver} ?
+— Oui. Un cartel vous aide à coloniser une nouvelle planète et vous loge et vous nourrit, en échange d’un logement et de nourriture du travail dans l’industrie qu’il veut développer sur la planète en question.
+— Voilà. Vous êtes plus au courant que ce que je craignais. Et savez-vous ce qui arrive aux colons {adjectif relatif au nom trouvé ci-dessus} quand le cartel décide de cesser l’exploitation d’une mine ou d’une industrie ?
+— Oui, hélas… Il abandonne les colons à leur sort, loin de tout moyen de pression ou de contestation ?
+— À peu près. C’est ce qui nous est arrivé voici presque une génération. Luce et moi étions encore employés par le cartel Vilasis. Nos enfants sont nés juste avant la fermeture des mines. Ils n’ont vu que la chute… Bref. Vous êtes donc dans une des communautés indigentes que le cartel Vilasis a laissées moisir ici, sur Mikuro. Nous l’avons appelée “Émotion”. Un joli mot pour une triste réalité. Mais suffit, j’ai assez parlé. Que faites-vous ici ?
+— Merci de vos précisions, monsieur Allington. Je suis ici suite à un crash de navette. Mon vaisseau, le Garibaldi, était dans le système pour… pour raisons militaires. Il y a eu une bataille avec une petite division de vaisseaux impériaux. Je ne sais pas au juste comment elle s’est terminée. Il y a eu très peu de survivants du Garibaldi, et j’en ai été séparée peu de temps après le crash. »
+Renan se recula dans sa chaise et fixa le plafond d’un air absent, semblant rassembler ses pensées.
+« Quand le crash a-t-il eu lieu ? demanda-t-il.
+— Il y a quatre ou cinq jours, je crois.
+— Et vous avez réussi à survivre dans ce désert pendant cinq jours. Belle performance. D’habitude, les baskers ne tardent pas à faire la peau des voyageurs égarés.
+— Les baskers ?
+— Une sorte de chien très agressif avec des griffes de raptor et des mâchoires qui ne ressemblent à rien qui existe sur Terre.
+— Ah, oui. J’en ai vu.
+— Et vous êtes encore vivante ?
+— Il y avait une porte blindée entre eux et moi. Je n’ai pas essayé de l’ouvrir.
+— En effet.
+— Donc voilà. C’est ça que je faisais. Je cherchais à me situer sur la planète, je cherchais de l’aide et un peu de nourriture.
+— Nous pouvons vous nourrir si vous vous rendez utile. Quant à savoir si nous pouvons vous aider… D’ailleurs, vous sembliez redouter que ce que vous avez dit ici soit répété ailleurs. Que redoutez-vous ?
+— Je suis… un témoin gênant. Il s’est passé des choses fort étranges sur le Garibaldi avant qu’il ne perde la bataille. On a envoyé des tueurs à mes trousses et à la poursuite de mon équipage. Je crois qu’ils pensent que je suis morte, et j’aimerais éviter de les détromper. Moins de gens sauront d’où je viens, plus je serai en sécurité, et vous aussi.
+— Je vois. Donc vous êtes hors-la-loi.
+— C’est… c’est ça.
+— Ne vous inquiétez pas, nous n’allons pas vous dénoncer. La république est tellement copine avec les grands cartels que nous ne lui sommes plus attachés depuis bien longtemps. Nous sommes hors-la-loi depuis des années, nous vivons de l’aide d’autres hors-la-loi… Cela se vit très bien, n’ayez pas d’inquiétude. »
+Sans me laisser ajouter un mot Ignorant vivement mes protestations, ils me détachèrent et me donnèrent des vêtements aussi colorés que les leurs. Comment pouvaient-ils me faire confiance ainsi, sur la seule foi de mes déclarations ?
+« En réalité, vous n’êtes pas seule, Noemi », me dit Luce. « Je ne veux pas vous gâcher la surprise des retrouvailles, mais nous avons déjà recueilli une bonne dizaine de membres de votre équipage. Ils ont souffert à votre place de notre technique d’extraction de vérité. Ils vous attendent dans la caverne… »
+Luce et Renan eurent un petit rire devant mon air ébahi. Ils avaient bien masqué le fait qu’ils connaissaient déjà mon nom, les petits chenapans !
+« Vous connaissez mon nom, dis-je. Mais qui le connaît à part vous ?
+— Personne dans la communauté. Plusieurs membres de votre équipage nous l’ont donné pendant des entretiens “musclés”, et vous collez à la description que nous a donnée le médecin de bord. Vous allez devoir vous choisir un autre nom. C’est celui que nous utiliserons à l’extérieur de cette boîte surchauffée, et nous oublierons votre vrai nom.
+— Très bien. Je… Disons que mon nom sera “Loïs”. C’est un prénom que j’aime bien. »
+C’était le prénom de ma fille à naître. Aucun autre prénom ne me venait à l’esprit.
+« Parfait, Loïs. Que savez-vous faire pour vous rendre utile ?
+— Je sais tenir une arme, je sais lire. Je sais commander. Je suis en bonne forme physique, je peux vous aider pour n’importe quoi.
+— Très bien, Loïs. Nous allons vous trouver quelque chose à faire. D’ici là, vous pouvez aller dans la caverne qui s’ouvre dans la roche à côté du village de préfab. Il y fera bien plus frais, et vous y croiserez quelques têtes connues.
+— Merci, Renan. Merci Luce. »
+Je fis quelques pas vers la sortie de la préfab… puis un grognement lugubre se fit entendre de mon ventre.
+« Vous trouverez aussi un peu de nourriture dans la caverne », ajouta Luce en souriant.
+Sur ces bonnes paroles, je sortis de la préfab et courus vers la grotte qui s’ouvrait dans la roche.
 ❃ ✽ ✾
-« Propulseurs hyper stabilisés. Noyaux normaux prêts. Transition alpha-normal dans trente… »
-La tension était palpable sur le pont. Nous nous apprêtions à sortir d’hyper dans un système de la république où pouvaient se trouver des dizaines de croiseurs ennemis en planque. Et le pire dans tout ça, c’est qu’on ne savait même pas ce qu’on allait chercher sur ce système.
-« vingt secondes… »
-Cassireau n’avait rien voulu lâcher quant à notre destination. Nous ne savions rien de l’objectif, seulement qu’il s’agissait de la planète recouverte d’une grosse jungle qui nous attendait là. Je savais juste que Cassireau voulait une équipe de fusiliers au sol pour les protéger. Je voulais bien le comprendre sur ce coup-là. Ce qu’on avait entendu de la faune et de la flore d’Ashkyl, ce n’était pas le genre d’histoire qu’on raconte aux enfants pour qu’ils fassent de beaux rêves. En outre, elle était assez isolée par rapport aux routes commerciales et éloignée de la plupart des mondes civilisés de la république — même pour une civilisation qui maîtrisait le voyage hyper. Nul n’avait donc jugé utile de tenter de la coloniser. On ne manquait pas de mondes habitables par ailleurs…
-« Dix, neuf, huit… »
-Tout l’équipage de navigation était concentré sur ses écrans. J’aimais bien regarder un navigateur au travail. Tout semblait se passer pour le mieux.
-« …sept, six, cinq… »
-{Tartempion}, le pilote qui reprendrait les commandes sitôt le passage en espace normal effectué, était tendu sur son siège. Aucun signe de nervosité, juste de l’intense concentration. Je comprenais tout à fait ce qui se passait dans sa tête.
-« …quatre, trois, deux, un, transition. »
-Hop. Dans le visuel des pilotes, un flash vert envahit le hublot avant de laisser réapparaître les étoiles.
-Nous nous attardâmes sur le visuel tactique qui était mis à jour au fur et à mesure que les sondes du vaisseau récupéraient les informations après la sortie de l’hyper.
-« Rien pour l’instant », murmura {Tartempion}, l’officier tactique.
-« Mh », approuvai-je en analysant rapidement la situation. « Mais elles n’ont pas vu bien loin pour l’instant. Lancez les drones. Un vers {bidule} et un autre vers {truc}. » Je constatai avec plaisir que mes ordres étaient exécutés immédiatement. Ils avaient été bien entraînés pendant le voyage hyper. « {Tartempion l’officier de navigation}, je ne veux pas prendre de risque. Cap direction {machin}. C’est celle qui nous permet d’optimiser au mieux ce que voient les sondes et qui maximise nos chances de repli en cas de problème. Nous avons le temps, je préfère aller un peu moins vite et un peu plus cher plutôt qu’un peu plus risqué. C’est trop dangereux.
-— À vos ordres, commandant. »
-Les minutes passèrent, devinrent des heures, et les résultats des sondes et des drones se firent définitifs : personne dans le système, aucune anomalie détectée même en capteurs actifs. Bien. Nous serions tranquilles pour cette première exploration.
+Je restai quelques jours à Émotion, entre la grotte et le petit village de préfab, à remettre les pièces en place dans ma tête et à m’habituer à la nouvelle situation. Comme moi, les naufragés du Garibaldi avaient changé de nom. Joachim se faisait maintenant appeler Ja’ak. Je n’avais pas encore retenu les noms des treize autres. Pour favoriser l’intégration à la communauté (et la plausibilité de notre couverture), nous devions tutoyer tout le monde. C’était assez difficile pour tous les matelots d’oublier que j’étais leur commandant. Mon nouveau costume était censé les y aider, pourtant…
+Je découvris la vie des colons oubliés du cartel Vilasis. Les préfab étaient inhabitables pendant la journée, aussi la plupart des habitants d’Émotion avaient-ils creusé des cellules dans la roche à l’intérieur de la mine. Une cellule permettait d’abriter deux à trois personnes, plus si on creusait plus loin. Je découvris qu’ils exploitaient beaucoup les nombreux affleurements rocheux de la région pour cultiver des plantes à l’abri du vent. Ils m’expliquèrent que les graines et la plupart du matériel étaient apportés par des contrebandiers ou par des vaisseaux commerciaux qui s’arrêtaient en toute illégalité pour ravitailler ces colons qui n’avaient rien. Pour moi qui avais toujours combattu les contrebandiers et la loi de la république, c’était une découverte. Je découvrais que la république, que j’avais défendue de mon corps, interdisait qu’on donne de la nourriture ou du matériel à des gens qui ne pouvaient pas les acheter. De même, À l’inverse, elle n’interdisait pas aux grands cartels, comme celui de ma famille, d’abandonner des centaines de personnes sur un monde stérile. Je me promis d’en reparler à Lora si je la revoyais un jour. Non. Quand je la reverrais.
+Joachim — non, Ja’ak — passa quelque temps en privé avec moi pour m’expliquer ce qui leur était arrivé après notre séparation et me signaler de nouveaux éléments louches.
+Ils s’étaient réunis au fond de la mine, comme je leur avais ordonné, pour fuir. Ils étaient partis en suivant les tunnels de la mine, cependant. Ils avaient avancé en se laissant guider par Paula, la jumelle qui nous avait déjà aidé à trouver de l’eau. Comme me l’avait expliqué Joachim — non, Ja’ak — l’ouïe de Paula était indéniablement devenue surnaturelle. Elle entendait les bruits du désert et avait perçu l’existence d’une ouverture à plusieurs kilomètres de distance. Elle avait même entendu, peu de temps après leur départ, les coups de feu qui m’avaient blessée. Mais elle n’était pas la seule à se découvrir des sens surnaturels. Sa sœur, Mathilde, développait une sensibilité étonnante pour les ondes électromagnétiques. Non seulement elle voyait comme en plein jour avec très peu de lumière, mais elle percevait de l’UV et des infrarouges dans une certaine mesure ! En plus de cela, certains autres semblaient en meilleure forme, plus forts, plus rapides, et tous semblaient capables de guérir à une vitesse folle.
+Apparemment, si l’on recomptait le temps perçu par l’équipe et qu’on le comparait avec celui que j’avais perçu, j’étais restée plus longtemps que juste cinq jours dans la nature. C’était plutôt sept jours voire huit. Je n’avais aucune idée de ce qu’il était advenu de ces deux à trois jours d’inconscience. Ja’ak était d’accord avec moi, quand je lui décrivis les blessures et lui montrai mes cicatrices, pour dire que ma guérison n’était pas naturelle. Cependant, Émotion était cruellement dépourvue du matériel qui pouvait l’intéresser l’aider à mener des recherches sur l’origine de ces étranges phénomènes.
+J’essayais de faire beaucoup de choses en même temps dans le village. Non seulement je tenais absolument à me rendre utile, à porter des charges, à faire le guet, à réparer le vieux matériel et à fouiner partout à la recherche de choses à faire, mais en outre je cherchais aussi à commencer dès à présent mon enquête sur Cassireau.
+Il était possible de suivre l’actualité de loin grâce à des capteurs stellaTV disposés illégalement sur la planète. La réception était désastreuse, mais permettait de comprendre à peu près ce qui se passait. La guerre n’était pas le sujet préféré des journalistes : il aimaient mieux parler de mode, faire des blagues vaseuses pendant des émissions moisies et vendre de la publicité. Un soir, ce que je redoutais se produisit : on parla de nous et du Garibaldi à la télé. Je ne perçus pas exactement le début, mais nous ajustâmes l’antenne à temps pour voir la suite.
+« …dans le système de Mikuro, située entre Sido et la station Uranie. La perte du Garibaldi et de tout son équipage a été confirmée par la flotte républicaine plus tôt dans la soirée. L’amiral {Tartempion} dit ne pas comprendre comment la capitaine Noemi Vilasis, pourtant très compétente, a pu laisser son vaisseau dériver jusque sur une mine spatiale à tête nucléaire, qu’elle avait pourtant ordonné elle-même de poser. L’analyse des boîtes noires qui ont pu être récupérées dans l’épave nous en apprendra peut-être plus. Cependant, nous répétons l’information principale : suite à cette bataille imprévue et la perte de presque tout son état-major, l’empire de {Tartempion} a ordonné un cessez-le-feu et a accepté de s’assoir à la table des négociations. »
+Je n’en croyais pas mes oreilles. Tous les membres de l’équpage étaient là, à côté de nous, le souffle coupé. La guerre était finie ? Presque… C’était une bonne nouvelle. Cependant, aucune nouvelle de aucun mot sur nous, ni sur les équipages des porte-mines. Nous étions bel et bien officiellement enterrés. Ce n’est pas à la télé que nous allions pouvoir en apprendre plus sur ce que les services secrets savaient de nous… Je ne savais vraiment pas quoi faire. Je n’avais jamais été contre la république. Nous étions plus que hors-la-loi. Nous avions été déclarés secrètement ennemis publics, nous n’existions plus. Nous ne pouvions plus sortir. Ce simple mensonge aurait pu saper mon moral, mais c’est la seconde partie du reportage qui acheva de m’achever {oui, bon}.
+« Nous avons, pour vous et en exclusivité, été interviewer les membres des familles des disparus du Garibaldi. »
+Je relevai la tête vers l’écran, sentant venir des images qui n’allaient pas nous plaire. Les journalistes avaient été interviewer des membres des familles de plusieurs membres d’équipage. La mère de {Tartempion}, que j’avais vu mourir sur le Garibaldi. La sœur de {Tartempion}, la copine de Joachim, le père des jumelles Beumers… Tous étaient dévastés. Certains gardaient l’air digne, d’autres refusaient de répondre aux questions. Je percevais la tension dans la pièce, la fureur de mes amis qui voyaient leurs proches dévastés, sans pouvoir les consoler ou leur dire la vérité. Mais je sentais venir le pire pour la fin.
+« Et pour finir, voici un entretien avec Lora Jori, administratrice républicaine de Ludealis. Madame Jori, quelles sont vos impressions suite à cette bataille dans le système Mikuro ? »
+Lora apparut à l’écran, toujours aussi belle, et très digne. Je sentis les larmes me monter aux yeux. Des images de nous deux me montèrent aux yeux. traversèrent l’esprit m’envahirent l’esprit. Je serrai les dents pour regarder le reportage jusqu’au bout. Elle répondit très calmement.
+« Des impressions très fortes, assurément. Noemi va me manquer cruellement. C’est une perte terrible pour moi et pour toute notre famille.
+— Nous perdons un La république perd aussi un officier de valeur. Pensez-vous qu’elle a fait une erreur fatale ?
+— Je ne suis pas militaire, monsieur. L’amirauté vous renseignera mieux que moi. Je ne sais pas ce qui s’est passé, mais je suis sûre que Noemi a agi dans le seul intérêt de la république. Quand elle commandait un vaisseau, elle était au service de la république avant d’être au service d’elle-même. »
+Je vis Lora esquisser un geste avant que l’image ne soit coupée brutalement. Je soupçonnai Lora d’avoir tenté une agression physique sur le journaliste, qui avait été coupée au montage. J’inspirai longuement en pensant à cette scène plaisante pour refouler mes larmes. J’étais redevenue un instant le commandant, et je n’avais pas intérêt à flancher maintenant.
+Quelqu’un coupa la télé, et le silence se fit dans la pièce. J’inspirai et j’expirai encore, en essayant de ne pas trop penser à Lora. C’était difficile. Soudain, je m’aperçus que tous les regards s’étaient tournés vers moi, et je ne lus pas de la compassion ou de la pitié sur le visage des personnes présente. Plutôt de l’étonnement ou de l’incrédulité. Je tentai une blague pour détendre l’atmosphère.
+« Quoi ? J’ai quelque chose sur le visage ? »
+Ma voix était tellement cassée par le chagrin que je crus entendre la voix de Laura parler par ma bouche. Paula Beumers, qui avait pleuré mais ne portait pas d’autre trace de tristesse sur le visage, referma sa bouche grande ouverte pour articuler difficilement, très lentement :
+« Commandant… Loïs… Vous devriez regarder dans un miroir. »
+J’eus droit à quelques hochements de tête discrets. Personne ne me quittait des yeux. Je quittai mon siège et je me dirigeai vers la petite salle de bains moulée dans un coin du préfab. Il n’y avait plus l’eau courante depuis longtemps, mais un miroir était encore accroché au-dessus du lavabo.
+Le visage que je découvris dans la glace n’était pas le mien, indubitablement. C’était celui de Lora.
+J’avais donc, moi aussi, un « pouvoir ». Et c’était cela. C’était donc ça, mon nouveau « pouvoir ».
 ❃ ✽ ✾
-Je regardai s’éloigner du Garibaldi le petit point vert représentant la navette, qui contenait l’équipe de Cassireau, un pilote et une vingtaine de fusiliers. J’espérais de toutes mes forces que tout se passerait bien de leur côté. J’espérais un peu moins fort, mais j’espérais quand même, que Cassireau serait satisfait de ce qu’il trouverait sur place. Je n’avais toujours aucune idée de ce qu’il cherchait, mais s’il mettait la main sur quelque chose, cela pourrait peut-être améliorer son humeur… voire son opinion de nous. On pouvait toujours rêver.
-Je décidai de rester surveiller les communications entre la navette et le Garibaldi jusqu’à une à deux heures après l’atterrissage. Ensuite, si tout se passait bien, le laisserais la main à mon second pour prendre quelques heures de sommeil. La dernière fois que j’avais fermé l’œil, c’était dans l’hyperespace, et nous avions parcouru un sacré chemin depuis…
-Je surveillai l’état de la navette et le visuel tactique — toujours vide, heureusement — pendant tout le temps de la descente.
-« Entrée dans l’atmosphère. Tout se passe bien. {Navette tartempion}, terminé.
-— Bien reçu. Garibaldi, terminé. »
-Il se passa encore de longues minutes avant qu’une autre communication n’arrive pour signaler que l’atterrissage s’était bien déroulé. Les fusiliers étaient sortis pour sécuriser la zone, ils avaient descendu quelques bestioles mais rien d’insurmontable. Fort bien.
-{à compléter ?}</Text>
+« Joachim, qu’est-ce qui m’arrive ? Je me transforme en quelqu’un d’autre, comme ça ? C’est un pouvoir qui me dérange. Je veux juste pouvoir écouter à dix kilomètres ou voir dans le noir. Je ne veux pas de ce pouvoir. Je ne veux pas me transformer en Lora à tout bout de champ !
+— Du calme… Loïs. Je vous rappelle que vous êtes censée m’appeler Ja’ak.
+— Ça ne change rien ! Je ne veux pas de ce pouvoir.
+— Je serais bien en peine de vous expliquer comment faire pour qu’il ne se manifeste pas ou pour vous le retirer. Je suis médecin, mais je n’ai pas les moyens de regarder ce que vous portez en vous pour comprendre ce que vous avez. »
+Je lançai un regard noir à Joachim — Ja’ak, peu importe — avant de poser les deux mains à plat sur la table devant lui.
+« Mais je ne peux pas rester comme ça, Ja’ak. Les membres d’Émotion ne savent pas ce qui se passe dans nos corps. Ils n’ont jamais entendu parler de nos pouvoirs étranges, et je n’ai pas envie de leur expliquer. Qui sait comment ils pourraient réagir ?
+— Du calme. Au lieu d’ignorer le pouvoir que vous avez, vous pouvez essayer simplement de le maîtriser, de le contrôler.
+— Mais comment ?
+— Vous ne voyez pas ? J’ai ma petite idée. Que s’était-il passé lorsque votre capacité à vous transformer s’est manifestée ?
+— Euh… Il y avait eu Lora à la télé. Mon pouvoir viendrait de la télé… Non ? Il faudrait que je me voie moi-même à la télé pour redevenir moi-même ?
+— Je pense que c’est plus simple que ça. Vous avez pensé à Lora. Fort.
+— Vous croyez qu’il suffit que je pense à quelqu’un pour me transformer ?
+— Oui. Je ne sais pas d’où il vient ni comment il marche, mais je suis prêt à parier que cela se contrôle par la pensée.
+— Soit. Si vous le dites. Je vais donc penser à moi, si cela ne vous dérange pas.
+— Je vous en prie. J’ai un bout de votre dossier médical, si vous avez besoin d’aide. »
+Nous sommes d’accord pour dire que ce pouvoir que vous avez est piloté par vos pensées. Vous avez pensé à Lora très fort, et vous voilà transformée en Lora. Que se passe-t-il si vous pensez à quelqu’un d’autre ?
+Bon. De toute façon, Ja’ak n’allait pas me lâcher tant que je n’aurais pas essayé. Mais je n’arrivais pas à me sortir de l’esprit que je portais actuellement le visage de Lora. Ça n’allait pas être une partie de plaisir d’écarter cette idée-là.
+❃ ✽ ✾
+Joachim — Ja’ak — dut m’injecter une dose de drogue euphorisante. Je n’arrivais pas à me détendre suffisamment pour faire le vide dans mon esprit et retrouver ma forme propre. Contre toute attente (en tout cas de mon point de vue) la technique de Ja’ak fonctionna. Je retrouvai une Noemi au sourire idiot dans le miroir de la salle de bains. Hormis l’air complètement béat que me donnait la drogue, Ja’ak et Joachim — tiens, ils étaient deux, maintenant — trouvèrent le résultat satisfaisant. Ils m’empêchèrent cependant de parler à quiconque avant d’avoir bu beaucoup d’eau, dormi huit heures et pris un petit déjeuner.
+Le lendemain, j’avais une gueule de bois du tonnerre. La drogue, c’était mauvais. Je comprenais pourquoi je n’en prenais jamais, même pas une goutte d’alcool. Je réussis tant bien que mal à me souvenir des événements de la veille, puis j’allai voir Renan et Luce un soir pour leur demander leur aide.
+« Renan, Luce, j’ai quelques questions à vous poser si vous le voulez bien…
+— Entre, Loïs. Que pouvons-nous faire pour toi ?
+— Je suis très heureuse de vous aider, et la vie est assez douce ici même s’il y a du travail. Cependant, j’aimerais partir pour mener l’enquête sur l’homme qui m’a mise en danger et a tué l’essentiel de mon équipage. Je ne peux pas le laisser impuni. Il faut que je…
+— Du calme, Loïs. Nous sommes bien conscients de cela. En réalité, nous avons des amis qui possèdent un vaisseau spatial. Ce sont des personnes de confiance. Ils ont déjà emmené nos enfants sur d’autres mondes pour les sortir de la misère… Si tu les apprivoises, ils t’expliqueront les règles implicites des « hors-la-loi », comme tu dis. Et ils te déposeront quelque part où tu pourras chercher plus loin.
+— Merci. Merci à vous deux. Quand arriveront-ils ? Comment s’appellent-ils ?
+— Ils arriveront avant la fin du mois, théoriquement. Cela fait bientôt trois mois que nous ne les avons pas vus, et ils viennent assez régulièrement.
+— C’est bientôt. Et comment s’appellent-ils ?
+— Hammonds. Jonathan et Bathilda Hammonds.</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Encore un chapitre</Title>
+            <Text>« Joachim ? »
+L’après-midi touchait à sa fin à l’horloge de bord. Je venais de pénétrer à l’infirmerie. Une violente migraine me vrillait la tempe droite. J’avais tellement mal que je voyais des petits points lumineux quand je bougeais la tête trop violemment. Je comptais fermement sur Joachim pour m’aider à faire passer ça. Mais, pour l’heure, aucune trace de mon médecin de bord à l’horizon.
+« Joachim ? Où êtes-vous ?
+— Commandant ! Je… »
+J’avais entendu la voix de Joachim, déformée par une paroi métallique. Il était enfermé pas loin de moi… Et soudain, j’entendis un bruit de vomissement. Ah. C’était donc ça.
+« Joachim ? Vous allez bien ?
+— Pas trop. Mais attendez juste une ou deux… »
+Je ne pus saisir l’unité de temps pendant laquelle je devrais attendre, puisque Joachim vomit à nouveau derrière sa paroi. Mais ensuite, j’entendis un jet d’eau, quelques bruits de gargarisation, et Joachim apparut lorsque la porte d’un petit cabinet au fond de l’infirmerie coulissa en sifflant.
+« Commandant. Je suis à vous. Pardon, j’ai des problèmes gastriques depuis ce matin.
+— J’ai entendu ça. Ce n’est pas contagieux, au moins ?
+— Euh, si. C’est un petit virus affectueux. Mais je vais rester à distance, pas d’inquiétude.
+— Hmm d’accord, marmonnai-je en faisant un pas en arrière à tout hasard.
+— Alors, reprit-il, qu’est-ce qui vous amène ?
+— J’ai mal à la tête. Cela a commencé il y a une heure environ.
+— Étrange. Vous auss… »
+Il ne termina pas sa phrase et se précipita dans le petit cabinet. La porte n’était pas encore fermée qu’il vomit à nouveau tout ce qu’il avait dans l’estomac (s’il restait toutefois quelque chose). Jet d’eau. Gargarismes. Porte qui coulisse. Joachim réapparut, et continua comme si de rien n’était. Force était de constater qu’il avait une couleur plutôt verte.
+« Je disais donc, vous aussi. C’est assez général. Tartempion et Tartempion, mes deux infirmers qui étaient de garde ces dernières heures, m’ont rapporté des cas de fièvre avec des maux de tête très violents fréquents au cours de l’après-midi. Tenez, asseyez-vous là. »
+Je m’exécutai : il me demandait de m’assoir sur un petit tabouret d’examen. Il empoigna un thermomètre auriculaire, l’introduisit délicatement dans mon oreille droite, pressa un bouton et attendit. Quelques secondes plus tard, un bip retentit. Il lut le résultat à voix haute :
+« 37,9°C. Ce n’est pas négligeable. Voyons l’autre oreille… »
+Il réitéra la manipulation de l’autre côté.
+« De ce côté, ce n’est “que” 37,6°C. On a souvent constaté une asymétrie comme celle-ci chez les patients de cet après-midi. Systématiquement du côté où la migraine était la plus marquée. Étrange… »
+Il marchait de long en large dans la petite infirmerie, le regard dans le vague. Il détacha du thermomètre le petit embout à usage unique et le jeta dans le vide-ordures. Ensuite, il s’assit en face de moi, sur l’autre tabouret, en s’adossant à la table métallique. Il m’adressa un regard las. Il était mi-vert, mi-blanc, avec des cernes qui tiraient presque sur le violet. Il n’avait pas l’air bien, vraiment. Il inspira longuement avant de reprendre la parole.
+« Je pense qu’il s’agit d’une intoxication alimentaire ou d’un empoisonnement. Je ne sais pas qui aurait pu vouloir empoisonner notre équipage, je mise donc plutôt sur une intoxication accidentelle. On remonte les numéros de lot utilisés par la cuisine ce midi ou ce matin. Un infirmier a effectué des premiers tests sanguins, mais il semble que ce ne soit pas une des bactéries habituelles. »
+Il inspira une nouvelle fois très longuement. Je crois qu’il essayait de se retenir de vomir. Il était probablement arrivé à la même conclusion que moi : il n’avait plus rien à vomir, ce n’était pas la peine.
+« Je lancerais bien une analyse visuelle de mon côté, mais j’ai du mal à rester concentré suffisamment longtemps. Je crois que je vais attendre une douzaine d’heures, que la gastro se passe. D’ici là, je n’ai pas beaucoup d’autres possibilités que de vous donner de l’antidol. L’antalgique fonctionne relativement bien sur les douleurs… pour l’instant. N’hésitez pas à boire beaucoup. Du bouillon, si vous vomissez.
+— Joachim, ce que vous avez, est-ce que ça pourrait avoir un rapport avec cette intoxication collective ?
+— Non. C’est la faute à pas de chance. Peut-être quelque chose que j’ai attrappé sur Mikuro ces derniers jours. »
+C’était possible. Joachim était descendu à terre pendant le séjour de Cassireau sur Mikuro, la petite planète désertique où nous l’avions amené au terme d’un voyage de six semaines au départ de Sido.
+« Merci, Joachim. Remettez-vous bien.
+— Merci, commandant. Prenez ceci. Une dose toutes les quatre heures. »
+Je ne le savais pas encore, et lui non plus, mais j’aurais à peine le temps de prendre deux doses avant qu’une dizaine de vaisseaux impériaux ne sorte d’hyper juste sous notre nez.</Text>
+            <Notes>Le chapitre où Cassireau fout des trucs dans la soupe à un moment où le médecin de bord ne peut rien avaler pour cause de gastro fulgurante.</Notes>
+        </Document>
+        <Document ID="7">
+            <Title>Noemi Vilasis</Title>
+            <Text>Issue du cartel Vilasis, grande famille très influente, maîtrise la firme multistellaire Tartempion.
+Noemi est un peu la brebis galeuse de la famille, la seule à avoir choisi une carrière militaire et non commerciale.</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Joachim Cassiraud, le médecin</Title>
+            <Synopsis>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.</Synopsis>
+            <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Citations</Title>
+            <Text>Quand la loi redevient celle de la jungle, c'est un honneur que d'être déclaré hors-la-loi. — Hervé Bazin</Text>
         </Document>
         <Document ID="17">
             <Title>Tempête</Title>
@@ -500,142 +808,9 @@ Reparler de la fièvre.
 Dans le tunnel avec Noemi : les jumelles et Elias.
 </Notes>
         </Document>
-        <Document ID="6">
-            <Title>Personnages</Title>
-        </Document>
-        <Document ID="13">
-            <Title>Prisonnière</Title>
-            <Text>« Et Cassireau ? Que fait-il maintenant que nous l’avons emmené là où il voulait ?
-— Il sonde la terre avec des instruments étranges, il creuse, et il continue à sonder. Il dit souvent “ça ne va pas du tout du tout” à ses collègues, mais il nous laisse plutôt tranquilles.
-— D’accord. Et la planète ?
-— Pas franchement amicale, je dois dire. Des lianes qui poussent à plusieurs centimètres par minute. Il ne faut pas s’endormir à l’extérieur, et on débrousaille continuellement la navette. On a peur qu’elle reste accrochée si on ne coupe pas toute cette verdure au fur et à mesure.
-— Je vois. Rien de plus dangereux ?
-— On suppose qu’il y a des gros prédateurs carnivores, mais on n’en a pas vu pour l’instant. Les bestioles qu’on a descendues à l’arrivée, après examen, ne semblent pas dangereuses finalement. On a laissé leurs copines tranquilles. Non, commandant, ce qui m’étonne le plus, c’est la flore. Ces plantes bougent trop vite. »
-❃ ✽ ✾
-« Emprunte hyper ! Commandant ! Emprunte hyper à {machin bidule truc} !
-— Pas de panique, Tartempion. Analyse le signal. Attends de voir s’il n’y en a qu’une. » Tartempion était tout jeune, il n’était sur le vaisseau que depuis {x semaines - depuis que Noemi est revenue de Ludealis la dernière fois en fait}. Il était vif. Peut-être un peu trop. Il ne fallait pas paniquer au moindre imprévu.
-Quelques secondes, puis quelques minutes s’écoulèrent sans que d’autres empruntes hyper n’apparaissent sur le visuel. Je me méfiais un peu tout de même. La technique était courante : envoyer un vaisseau en éclaireur pour sonder les environs, et si aucun problème n’est détecté, toute la flotte sort d’hyper quelques minutes plus tard.
-« Tartempion. » dis-je à mon jeune officier.
-Le pauvre sursauta comme si quelque chose venait de lui exploser dans les mains. Un peu trop vif, décidément.
-« Tartempion. Pas de panique. Est-ce que l’analyse donne quelque chose ?
-— Euh. Pas grand-chose, non. En tout cas, rien de connu dans la base de données embarquée. J’ai demandé à l’ordinateur d’interpoler les caractéristiques physiques à partir du signal détecté. Encore quelques secondes…
-— Bien. » Peut-être pas trop vif, finalement.
-« On dirait un vaisseau vraiment tout petit, reprit {Tartempion}. Du genre taille minimum pour un vaisseau hypercapable. Probablement moins de trente membres d’équipage, et pas armé a priori. Propulseur de technologie impériale, probablement.
-— Étonnant. On dirait un petit vaisseau d’exploration. Un tout petit vaisseau comme ça ici ? De l’exploration de systèmes hostiles, en territoire ennemi en temps de guerre ? Ce n’est sûrement pas un militaire qui a envoyé ce vaisseau ici.
-— Ou alors c’est un piège.
-— Possible. Faisons-nous discrets. Nous tenterons de l’intercepter seulement s’il s’approche trop pour pouvoir repartir en hyper prévenir des copains.
-— Entendu. J’active le mode furtif.
-— Envoie un message à la navette à terre — ultra-directionnel, attention — pour leur demander de rester sur place, d’éviter de décoller jusqu’à nouvel ordre sauf danger grave.
-— À vos ordres. »
-❃ ✽ ✾
-Le vaisseau intrus était vraiment un vaisseau d’exploration. Ils ne firent pas de résistance lorsque nous leur ordonnâmes d’arrêter les propulseurs et de se préparer à l’abordage. Un fusilier suffit pour arraisonner leur équipage. Quatre personnes ! Quatre personnes au milieu du territoire ennemi. Quelque chose était vraiment étrange ici.
-Les prisonniers arrivèrent sur le pont, amenés par le fusilier. Une femme assez âgée — « fatiguée » était peut-être un mot plus juste — semblait être leur chef. Elle m’adressa un sourire et prit la parole.
-« Commandant, enchantée de vous rencontrer. Je suis Hadelhaide Van Fitzgerald. »
-Elle parlait un anglais standard impeccable, teinté d’un léger accent germanique. Une impériale, pas de doute. Et pas de rang négligeable…
-« Noemi Vilasis, capitaine de vaisseau, commandant du Garibaldi. Je suis au regret de vous informer que vous êtes mes prisonniers.
-— Je n’ai pas l’intention de résister.
-— Pourrions-nous avoir une conversation en privé ?
-— S’il vous plaît. »
-❃ ✽ ✾
-{Tartempion, le maître d’hôtel} versa un verre de vin rouge à Hadelhaide, et me servit une tasse de café serré. Tandis qu’elle goûtait le vin, j’engageai la conversation en allant droit au but.
-« Hadelhaide, vous n’êtes pas une roturière. Que fait une dame de noble naissance dans ce système perdu, en plein milieu de la guerre ? »
-Elle leva les yeux de son verre et plongea son regard dans le mien. Sa bouche dessina un sourire espiègle, puis elle me répondit.
-« Vous êtes franche et directe, commandant. C’est une qualité qui manque un peu dans mon milieu. Je vais donc vous répondre franchement et directement à mon tour. Pourquoi suis-je ici maintenant ? C’est un peu compliqué. Je suis noble, en effet, mais je ne suis pas politicienne. En réalité, je suis scientifique. Mon mari également. Je suis venue ici pour essayer de répondre à certaines questions sur mes recherches, mais… je vais devoir attendre un peu pour avoir mes réponses, je le crains.
-— Que cherchiez-vous ici ? Ce système est vide et inhabité. »
-Elle décroisa les jambes et se redressa sur sa chaise.
-« Inhabité, oui, acquiesca-t-elle. Mais vide, non. N’avez-vous pas vu cette planète si verte, autour de laquelle nous sommes en orbite en ce moment même ?
-— Si, bien sûr. Mais les mondes avec de la vie ne sont pas si rares. Ce n’est qu’un monde parmi d’autres.
-— En effet, les mondes abritant de la vie sont légion. Ne trouvez-vous pas cela étrange ? N’importe quel physicien vous expliquera que l’origine de la vie reste un grand mystère, une coïncidence improbable et étonnante au regard de la complexité du processus. Cette coïncidence se serait-elle produite par hasard sur tous ces mondes séparés par des milliards de kilomètres ?
-— Eh bien, visiblement, oui.
-— Avant de découvrir quelques faits troublants ces dernières années, je pensais comme vous. Mais, alors que je tentais d’étudier certaines propriétés physiques de minéraux rares, j’ai mis le doigt sur des coïncidences troublantes qui m’ont mise sur des travaux de xéno-archéologie. Je cherche des traces de civilisations anciennes extraterrestres, et j’ai de bonnes raisons de croire qu’il en existe sur cette planète.
-— Fascinant, répondis-je, sincèrement fascinée. Mais pourquoi me racontez-vous tout cela ? Je suis un officier ennemi. Tout ce que vous dites pourrait être utilisé par {nom de la république}, a priori contre {nom de l’empire}.
-— Je ne suis pas militaire non plus. Je m’intéresse à la science, pas aux querelles de politiciens ou de militaires. J’estime que mes recherches font avancer l’humanité, et qu’elles intéressent tous les êtres humains. Je me fiche de savoir pour qui ils travaillent. »
-Hadelhaide, bien qu’ayant une opinion assez basse des militaires également, me semblait infiniment plus sympathique que Cassireau. Sa philosophie me plaisait bien plus que celle de Cassireau. J’envisageai un instant de procéder à un échange standard entre mes prisonniers de guerre et mes « invités de marque ». Cependant, il valait peut-être mieux éviter le tribunal de guerre, toute démissionnaire que je sois.
-« J’aimerais que tous les scientifiques pensent comme vous. Malheureusement, je suis militaire et je travaille dans l’autre camp, l’échange entre nous se fera donc à sens unique. J’espère que vous ne m’en voulez pas trop.
-— Aucunement. Je pense que tout ce qui m’intéresserait et que vous ne voudrez pas me dire, c’est la raison qui vous amène ici. Secret d’état, j’imagine.
-— En effet. Mais cela ne m’empêche pas de vous traiter avec le respect dû à votre rang. Voulez-vous déguster quelque chose de plus consistant ?
-— Avec plaisir. Au fait, pas la peine de vous fatiguer : je sais bien que vous êtes ici pour protéger Jonas Cassireau dans ses recherches. »
-Mon cœur rata un battement. Je fixai Hadelhaide dans les yeux, nettement plus méfiante. Elle souriait toujours franchement.
-« C’est lui-même qui me l’a dit. Il se trouve qu’il échangeait quelques informations avec mon mari, occasionnellement. Ses recherches l’ont mené aux mêmes conclusions que nous, visiblement… Et la dernière fois que j’avais reçu des nouvelles de lui, c’était dans un message où il se plaignait que Noemi Vilasis, le capitaine qui devait le protéger, était en permission pour une durée scandaleusement excessive. J’ai rapidement fait le lien quand vous m’avez décliné votre identité.
-— Je vois… Je pense donc que vous en savez plus que moi sur ce que fabrique Cassireau sur Askhyl. Y a-t-il d’autres choses que vous savez déjà et que je n’ai donc pas besoin de me fatiguer à cacher ?
-— Oui. Vous. Je sais que vous êtes de « noble naissance » dans la société {nom de la république}. Le cartel Vilasis, une des multistellaires les plus puissantes et riches de la république. Noemi Vilasis, la brebis galeuse qui dédaigne la puissance financière de sa famille pour se tourner vers une carrière militaire contre l’avis unanime de sa famille. Noemi Vilasis, qui épouse une femme quand elle est issue d’une des dernières familles conservatrices de la galaxie. J’ai l’impression que vous n’aimez pas trop suivre les routes toutes tracées, me trompé-je ?
-— Je crois que je suis un peu comme vous. Je ne m’intéresse pas à la politique. Je veux juste le bien. Je pensais faire mieux le bien en suivant une carrière de spatiale qu’en brassant des millions. Je trace les routes qui m’intéressent. Je ne pense pas fuir expressément les routes déjà tracées. »
-Hadelhaide sourit, creusant des petites rides autour de ses yeux. J’aimais bien cette femme.
-« Nous sommes pareilles, assurément. À la vôtre, Noemi Vilasis. Aux routes qui nous intéressent. »</Text>
-            <Notes>Quatre personnes dans l’équipage de Hadelhaide V.F.</Notes>
-        </Document>
-        <Document ID="7">
-            <Title>Noemi</Title>
-            <Text>Issue du cartel Vilasis, grande famille très influente, maîtrise la firme multistellaire Tartempion.
-Noemi est un peu la brebis galeuse de la famille, la seule à avoir choisi une carrière militaire et non commerciale.</Text>
-        </Document>
-        <Document ID="18">
-            <Title>Garibaldi</Title>
-            <Notes>Survivants :
-	1.	Joachim Cassiraud
-	2.	Noemi Vilasis
-	3.	Jing Stark, jeune matelot, pas blessé, qui va au fond du trou avec Joachim
-	4.	Thomas Lane, le pilote du Garibaldi, blessé
-	5.	Dylan Xi,  officier de comm, aide Alice à tenir debout.
-	6.	Alice Brion, officier de comm, jambe cassée
-	7.	Adriel Ming, un pas blessé qui saute prestement de la navette (ingénieur)
-	8.	Hiram Perry, un tartempion qui boitille (ingénieur)
-	9.	Saël Reeves, un des deux infirmiers tartempion de Joachim
-	10.	Mathilde Beumers, artilleur
-	11.	Paula Beumers, artilleur, jumelle de Mathilde. Toutes deux pro et efficaces.
-	12.	Elias No Awormin grand gaillard musclé visage carré - fusilier
-	13.	Alma Froidhiver longs cheveux blonds bouclés
-	14.	Kadec Radcliff - menu, cheveux noirs
-	15.	Victoria De Vinn
-⇒ 15 survivants sur 60 : 25% de survie aux nanites. Donc c’est pas aussi rare que ça, mais ça fait quand même de sacrés risques de ne pas s’en sortir…
-
-Reparler de la fièvre.
-
-Dans le tunnel avec Noemi : les jumelles et Elias.
-</Notes>
-        </Document>
-        <Document ID="8">
-            <Title>Joachim Cassiraud, le médecin</Title>
-            <Text>Accompagne Noemi dans sa nouvelle vie. A survécu au naufrage car il n’a pas ingéré le poison qui avait été distribué à l’équipage. Aidera Noemi à comprendre ce qui s’est passé.</Text>
-        </Document>
-        <Document ID="14">
-            <Title>Suite</Title>
-            <Text>« Professeur Cassireau, bienvenue à bord.
-— Bonjour, commandant.
-— Votre séjour sur Askhyl a-t-il été productif ?
-— Très ! J’ai trouvé des choses bien intéressantes. Je suis impatient de les étudier de plus près.
-— Avez-vous besoin que nous prolongions le séjour dans le système ?
-— Non, pas ici. J’aimerais que nous visitions un autre monde, celui que j’ai marqué X-34-12 dans le fichier que je vous ai envoyé. En combien de temps pouvons-nous être là-bas ?
-— Je demanderai à l’équipe d’astrogation. Nous devrons faire un détour par un monde administratif pour larguer des prisonniers de guerre.
-— Des prisionniers ? Nous avons fait des prisonniers ?
-— Oui. Un vaisseau isolé est entré dans le système. Nous les avons arraisonnés, ils n’ont pas opposé de résistance.
-— Ah. Eh bien. Soit. Je m’accomoderai d’un petit détour, mais qu’il ne dépasse pas deux semaines, surtout.
-— Nous ferons ce qui est nécessaire.
-— Entendu. Merci, commandant. »
-Cassireau quitta le sas d’accueil sans rien ajouter. J’avais du mal à croire ce que je venais d’entendre. Cassireau venait d’avoir une conversation polie avec moi, et il venait aussi d’accepter un compromis. Voilà qui était tellement inhabituel que je dus me pincer la peau de la main pour être sûre que je ne rêvais pas.
-❃ ✽ ✾
-Le Garibaldi était en approche du premier monde civilisé qu’il avait vu depuis quatre mois. De notre point de vue, il ne s’était passé « que » deux mois, mais le temps ne passait pas à la même vitesse en hyperespace qu’en réalité. Seul le temps que nous avions passé en espace normal était « réel ».
-J’avais passé beaucoup de temps à discuter avec Hadelhaide, toujours sans révéler moi-même ce qui nous avait amenés sur Askhyl. Cependant, Hadelhaide connaissait beaucoup de choses des activités de Cassireau, sans que je n’aie rien besoin de lui dire. Elle m’avait mise en garde contre lui à de nombreuses reprises. D’après elle, il était dangereux, pas seulement dérangé. Je devais vraiment me méfier de lui, car il était capable de nous faire du mal. Je ne voyais pas comment il pouvait nous faire du mal en restant enfermé dans un container dans notre soute. Il avait dû s’engager à ne pas produire de choses trop explosives, afin de garantir la sécurité de l’équipage.
-Du reste, nous avions eu des échanges très intéressants quant à la guerre qui se déroulait, les raisons qui y avaient mené, l’opportunité ou non de continuer le conflit… Je ne m’étais pas mouillée sur les raisons du conflit ou sur le fait que la guerre était « bonne » ou « mauvaise ». Les guerres sont toujours mauvaises, mais je n’étais pas suffisamment haut placée pour décider d’arrêter cette guerre-ci, ou de parlementer.
-Nous arrivions sur Sido, un des mondes les plus actifs de la république. Il abritait une prison pour prisonniers de guerre « de marque ». Les messages de mes supérieurs m’indiquaient que je devais débarquer Hadelhaide et sa petite équipe ici même. Je me rendis dans sa cellule pour lui dire au revoir.
-« Hadelhaide, nous sommes en orbite autour de Sido. Une navette de la sécurité intérieure va vous emmener à terre. Nos routes se séparent ici.
-— Noemi, merci de votre accueil. Je ne dirais pas que le voyage a été un pur plaisir, mais pour une prisonnière, je pense que j’ai eu beaucoup de chance d’avoir droit à des conditions de confort tellement agréables.
-— Oui. Vous êtes prisonnière. Désolée de vous laisser dans un camp.
-— Vous n’avez pas le choix. Et vous m’avez bien traitée. N’importe quel commandant n’en aurait pas forcément fait autant.
-— Je ne sais pas. En tout cas, courage pour la suite, Hadelhaide.
-— Courage à vous, Noemi. La suite de la guerre sera difficile aussi. »
-Les agents de la sécurité intérieure venaient d’embarquer ; ils apparurent au bout du couloir. Je me mis au garde-à-vous devant la porte de la cellule d’Hadelhaide pour l’arrestation.
-Elle ne résista pas quand les gardes menottèrent ses mains dans son dos. Elle me sourit une dernière fois, en m’adressant un hochement de tête, quand elle sortit de sa cellule pour suivre ses geôliers.
-Je ne pus pas suivre du regard le petit groupe qui s’éloignait. Je me concentrai bien vite sur mes pieds, sur le sol métallique du couloir. Je sentais mon ventre se nouer de frustration et d’inquiétude.
-Je sentais confusément que quelque chose n’allait pas dans cet univers. Pour la première fois en tant d’années de carrière, je doutais de la bonne foi de mon employeur, je ne lui faisais pas confiance. J’avais peur qu’il maltraite mes prisonniers de guerre, qu’il ne respecte pas le code que j’avais fait le serment de respecter.</Text>
-        </Document>
-        <Document ID="20">
-            <Title>Beumers, Mathilde</Title>
-            <Text>Jumelle de Paula.
-Pouvoir : voir dans le noir. ⇒ assez sensible à la lumière.</Text>
-        </Document>
         <Document ID="9">
             <Title>Lora Jori</Title>
+            <Synopsis>La femme de Noemi.</Synopsis>
             <Text>La fiancée de Noemi dans son ancienne vie.</Text>
         </Document>
     </Documents>

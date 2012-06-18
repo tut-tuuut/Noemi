@@ -6,10 +6,24 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>23</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-02 01:47:57 +0200">
+                <BinderItem ID="24" Type="Text" Created="2012-06-17 22:01:32 +0200" Modified="2012-06-17 22:02:43 +0200">
+                    <Title>Citations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>105,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-16 13:30:25 +0200">
                     <Title>Soirée en amoureuses</Title>
                     <MetaData>
+                        <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>27,0</NotesTextSelection>
                     </MetaData>
@@ -94,17 +108,27 @@
                         <NotesTextSelection>1203,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>21831,0</TextSelection>
+                        <TextSelection>20345,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-16 00:52:59 +0200">
+                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-16 20:06:32 +0200">
                     <Title>Difficile à tuer</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>16435,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="23" Type="Text" Created="2012-06-16 13:34:56 +0200" Modified="2012-06-18 19:03:34 +0200">
+                    <Title>Retour à la lumière</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>26355,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -138,8 +162,8 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="7" Type="Text" Created="2012-06-01 00:40:32 +0200" Modified="2012-06-01 00:41:58 +0200">
-                    <Title>Noemi</Title>
+                <BinderItem ID="7" Type="Text" Created="2012-06-01 00:40:32 +0200" Modified="2012-06-17 22:07:44 +0200">
+                    <Title>Noemi Vilasis</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -148,7 +172,7 @@
                         <TextSelection>193,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" Type="Text" Created="2012-06-01 00:42:03 +0200" Modified="2012-06-10 18:59:19 +0200">
+                <BinderItem ID="8" Type="Text" Created="2012-06-01 00:42:03 +0200" Modified="2012-06-17 22:08:48 +0200">
                     <Title>Joachim Cassiraud, le médecin</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -158,7 +182,7 @@
                         <TextSelection>176,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="9" Type="Text" Created="2012-06-01 23:12:38 +0200" Modified="2012-06-01 23:20:49 +0200">
+                <BinderItem ID="9" Type="Text" Created="2012-06-01 23:12:38 +0200" Modified="2012-06-17 22:08:22 +0200">
                     <Title>Lora Jori</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -188,7 +212,7 @@
                         <TextSelection>29,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" Type="Folder" Created="2012-06-12 21:25:55 +0200" Modified="2012-06-13 18:27:04 +0200">
+                <BinderItem ID="18" Type="Folder" Created="2012-06-12 21:25:55 +0200" Modified="2012-06-17 22:08:22 +0200">
                     <Title>Garibaldi</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -216,6 +240,28 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>77,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="25" Type="Folder" Created="2012-06-17 22:03:01 +0200" Modified="2012-06-17 22:09:29 +0200">
+                    <Title>Mikuro</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="26" Type="Text" Created="2012-06-17 22:03:25 +0200" Modified="2012-06-17 22:09:29 +0200">
+                            <Title>Renan et Luce Allington</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -260,8 +306,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2500</SessionTarget>
-        <PreviousSession Words="621" Characters="3790" Date="2012-06-16 00:52:59 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
+        <PreviousSession Words="2307" Characters="13809" Date="2012-06-18 19:20:14 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
