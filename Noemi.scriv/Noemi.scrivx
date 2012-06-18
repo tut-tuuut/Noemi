@@ -20,15 +20,14 @@
                         <TextSelection>105,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-16 13:30:25 +0200">
+                <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-18 21:00:56 +0200">
                     <Title>Soirée en amoureuses</Title>
                     <MetaData>
-                        <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>27,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10446,0</TextSelection>
+                        <TextSelection>10271,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="4" Type="Text" Created="2012-06-01 00:31:03 +0200" Modified="2012-06-04 23:13:36 +0200">
@@ -121,14 +120,24 @@
                         <TextSelection>16435,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="23" Type="Text" Created="2012-06-16 13:34:56 +0200" Modified="2012-06-18 19:03:34 +0200">
+                <BinderItem ID="23" Type="Text" Created="2012-06-16 13:34:56 +0200" Modified="2012-06-18 20:22:17 +0200">
                     <Title>Retour à la lumière</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>26355,0</TextSelection>
+                        <TextSelection>17539,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" Type="Text" Created="2012-06-18 19:52:25 +0200" Modified="2012-06-18 23:46:46 +0200">
+                    <Title>Hammonds</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7949,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -307,7 +316,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
-        <PreviousSession Words="2307" Characters="13809" Date="2012-06-18 19:20:14 +0200"></PreviousSession>
+        <PreviousSession Words="3653" Characters="21905" Date="2012-06-18 23:47:18 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
