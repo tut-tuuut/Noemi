@@ -130,14 +130,14 @@
                         <TextSelection>13218,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="27" Type="Text" Created="2012-06-18 19:52:25 +0200" Modified="2012-06-20 18:00:06 +0200">
+                <BinderItem ID="27" Type="Text" Created="2012-06-18 19:52:25 +0200" Modified="2012-06-20 18:54:08 +0200">
                     <Title>Vol avec les Hammonds</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>23456,0</TextSelection>
+                        <TextSelection>34653,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="28" Type="Text" Created="2012-06-20 16:37:44 +0200" Modified="2012-06-20 16:49:59 +0200">
@@ -326,7 +326,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
-        <PreviousSession Words="2010" Characters="11920" Date="2012-06-20 18:00:30 +0200"></PreviousSession>
+        <PreviousSession Words="2938" Characters="17505" Date="2012-06-20 18:54:08 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
