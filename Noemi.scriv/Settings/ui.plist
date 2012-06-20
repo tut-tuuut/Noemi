@@ -11,7 +11,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>13</integer>
+		<integer>15</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -80,7 +80,7 @@
 	<real>289</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>27</integer>
+		<integer>29</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -89,7 +89,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>217</integer>
+		<integer>219</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1858,12 +1858,28 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>29</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 10684.6}, {420.571, 364.571}}</string>
+	<string>{{0, 2612.57}, {420.571, 364.571}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{34653, 0}</string>
+	<string>{8852, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
