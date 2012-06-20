@@ -1,0 +1,38 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 CharterBT-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx360\fi360\sb160\qj\pardirnatural
+
+\f0\fs24 \cf0 Ah, c'est encore autre chose. Mais pas de panique. [smile]\
+\
+Comme tu l'as fait, tes liens sont vides : ils ne comportent pas d'information sous forme de texte quant \'e0 la cible vers lesquelles ils pointent. Il n'y a aucun moyen pour un lecteur d'\'e9cran de savoir \'e0 quoi correspondent ces liens. Tu devrais au minimum inclure les "blabla" dans les liens :\
+[code=html]<a href="toto.html"><img src="xx" alt="">Mes photos de toto</a>[/code]\
+Comme \'e7a, l'\'e9l\'e9ment <a> contient l'information vers laquelle il pointe.\
+\
+Ou, si tu tiens \'e0 ce que le "Blabla" ne soit pas dans le lien (mais je pense que c'est une mauvaise id\'e9e), tu dois remplir le alt de l'image pour \'e9viter que le lien ne soit vide :\
+[code=html]<a href="toto.html"><img src="xx" alt="Toto"></a>Mes photos de toto[/code]\
+Mais l\'e0 c'est mauvais pour au moins deux raisons : d'une part il y a du contenu qui appara\'eet en double, d'autre part tu forces tes utilisateurs \'e0 cliquer sur les fl\'e8ches pour suivre les liens d\'e9crits par du texte inactif. On a plut\'f4t l'habitude de cliquer [i]sur[/i] le texte qui nous int\'e9resse pour suivre un lien, pas [i]\'e0 c\'f4t\'e9[/i]. Tu vois ?\
+\
+Cela dit, je pense que dans ton cas, les fl\'e8ches sont purement d\'e9coratives, et sont donc \'e0 rel\'e9guer dans le CSS. Si ton menu de bas de page est un bloc de classe "footer", par exemple, tu peux faire comme \'e7a pour le HTML :\
+\
+[code=html]<div class="footer">\
+    <a href="toto.html">Toto</a>\
+    <a href="titi.html">Titi</a>\
+</div>[/code]\
+(Ou un \'e9l\'e9ment <ul> contenant des <li> contenant des <a>, si tu veux faire encore plus s\'e9mantique.)\
+\
+Et tu ajoutes un petit bout de CSS comme sugg\'e9r\'e9 par les voisins du dessus :\
+[code=css].footer a \{\
+    display: inline-block;\
+    background: url(fleche_d.gif) 0 50% no-repeat;\
+    padding-left: quelques px;\
+\}[/code]\
+\
+\
+Bonjour !\
+\
+Je vois que tu parles de [b]ULR[/b]_PANIER \'e0 un endroit, et de [b]URL[/b]_PANIER \'e0 un autre. Je mise sur une simple faute de frappe. [cligne]\
+\
+N'h\'e9site pas \'e0 d\'e9velopper en affichant [i]toutes[/i] les erreurs PHP, y compris les notices (qui sont lev\'e9es quand tu essaies d'acc\'e9der \'e0 un bout de tableau ou \'e0 une variable que tu n'as pas d\'e9fini).\
+\
+Edit. Ah, tu d\'e9veloppais bien avec les erreurs affich\'e9es, c'est bien. Le message d'erreur te dit bien que ULR_PANIER n'existe pas, il faut lire les messages d'erreur. [cligne] }

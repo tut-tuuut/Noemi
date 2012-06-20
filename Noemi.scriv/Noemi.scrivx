@@ -7,17 +7,17 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>23</SelectedSubdocumentIDs>
+                <SelectedSubdocumentIDs>24</SelectedSubdocumentIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="24" Type="Text" Created="2012-06-17 22:01:32 +0200" Modified="2012-06-17 22:02:43 +0200">
+                <BinderItem ID="24" Type="Text" Created="2012-06-17 22:01:32 +0200" Modified="2012-06-19 18:47:10 +0200">
                     <Title>Citations</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>105,0</TextSelection>
+                        <TextSelection>405,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="3" Type="Text" Created="2012-06-01 00:30:13 +0200" Modified="2012-06-18 21:00:56 +0200">
@@ -50,28 +50,28 @@
                         <TextSelection>8189,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="13" Type="Text" Created="2012-06-05 22:43:55 +0200" Modified="2012-06-10 22:27:19 +0200">
+                <BinderItem ID="13" Type="Text" Created="2012-06-05 22:43:55 +0200" Modified="2012-06-19 19:04:07 +0200">
                     <Title>Prisonnière</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>51,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3663,10</TextSelection>
+                        <TextSelection>10031,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" Type="Text" Created="2012-06-06 23:33:37 +0200" Modified="2012-06-11 23:33:18 +0200">
-                    <Title>Suite</Title>
+                <BinderItem ID="14" Type="Text" Created="2012-06-06 23:33:37 +0200" Modified="2012-06-19 19:04:47 +0200">
+                    <Title>Débarquons Hadelhaide</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4578,0</TextSelection>
+                        <TextSelection>945,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" Type="Text" Created="2012-06-10 22:44:56 +0200" Modified="2012-06-11 11:39:04 +0200">
-                    <Title>Encore un chapitre</Title>
+                <BinderItem ID="16" Type="Text" Created="2012-06-10 22:44:56 +0200" Modified="2012-06-19 19:05:01 +0200">
+                    <Title>Joachim est malade</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>140,0</NotesTextSelection>
@@ -80,64 +80,74 @@
                         <TextSelection>4841,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-11 16:22:16 +0200">
+                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-20 12:29:34 +0200">
                     <Title>Autour de Mikuro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>432,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>7674,0</TextSelection>
+                        <TextSelection>15896,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="17" Type="Text" Created="2012-06-11 16:22:22 +0200" Modified="2012-06-13 18:26:42 +0200">
                     <Title>Tempête</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>136,780</NotesTextSelection>
+                        <NotesTextSelection>480,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>28579,0</TextSelection>
+                        <TextSelection>116,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="21" Type="Text" Created="2012-06-13 18:11:03 +0200" Modified="2012-06-15 22:41:58 +0200">
                     <Title>Ça pourrait être pire</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>1203,0</NotesTextSelection>
+                        <NotesTextSelection>795,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20345,0</TextSelection>
+                        <TextSelection>18842,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-16 20:06:32 +0200">
+                <BinderItem ID="22" Type="Text" Created="2012-06-15 22:42:06 +0200" Modified="2012-06-19 19:05:50 +0200">
                     <Title>Difficile à tuer</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16435,0</TextSelection>
+                        <TextSelection>16449,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="23" Type="Text" Created="2012-06-16 13:34:56 +0200" Modified="2012-06-18 20:22:17 +0200">
+                <BinderItem ID="23" Type="Text" Created="2012-06-16 13:34:56 +0200" Modified="2012-06-20 11:25:42 +0200">
                     <Title>Retour à la lumière</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17539,0</TextSelection>
+                        <TextSelection>13218,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="27" Type="Text" Created="2012-06-18 19:52:25 +0200" Modified="2012-06-18 23:46:46 +0200">
-                    <Title>Hammonds</Title>
+                <BinderItem ID="27" Type="Text" Created="2012-06-18 19:52:25 +0200" Modified="2012-06-20 18:00:06 +0200">
+                    <Title>Vol avec les Hammonds</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>7949,0</TextSelection>
+                        <TextSelection>23456,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" Type="Text" Created="2012-06-20 16:37:44 +0200" Modified="2012-06-20 16:49:59 +0200">
+                    <Title>Triche</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>298,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -148,14 +158,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="5" Type="Text" Created="2012-06-01 00:35:20 +0200" Modified="2012-06-01 00:35:32 +0200">
+                <BinderItem ID="5" Type="Text" Created="2012-06-01 00:35:20 +0200" Modified="2012-06-19 10:47:41 +0200">
                     <Title>Chronologie</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11,0</TextSelection>
+                        <TextSelection>357,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -316,7 +326,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
-        <PreviousSession Words="3653" Characters="21905" Date="2012-06-18 23:47:18 +0200"></PreviousSession>
+        <PreviousSession Words="2010" Characters="11920" Date="2012-06-20 18:00:30 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
