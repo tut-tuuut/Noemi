@@ -80,14 +80,14 @@
                         <TextSelection>4841,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-20 12:29:34 +0200">
+                <BinderItem ID="15" Type="Text" Created="2012-06-10 13:03:35 +0200" Modified="2012-06-21 11:17:31 +0200">
                     <Title>Autour de Mikuro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>432,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15896,0</TextSelection>
+                        <TextSelection>16162,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="17" Type="Text" Created="2012-06-11 16:22:22 +0200" Modified="2012-06-13 18:26:42 +0200">
@@ -140,24 +140,24 @@
                         <TextSelection>29189,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="28" Type="Text" Created="2012-06-20 16:37:44 +0200" Modified="2012-06-20 16:49:59 +0200">
+                <BinderItem ID="28" Type="Text" Created="2012-06-20 16:37:44 +0200" Modified="2012-06-21 12:20:52 +0200">
                     <Title>Triche</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>298,0</TextSelection>
+                        <TextSelection>3357,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="29" Type="Text" Created="2012-06-20 23:14:08 +0200" Modified="2012-06-20 23:20:49 +0200">
+                <BinderItem ID="29" Type="Text" Created="2012-06-20 23:14:08 +0200" Modified="2012-06-21 15:50:16 +0200">
                     <Title>Le secret</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>510,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8852,0</TextSelection>
+                        <TextSelection>19863,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -176,6 +176,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>357,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" Type="Text" Created="2012-06-21 12:25:15 +0200" Modified="2012-06-21 12:27:09 +0200">
+                    <Title>Les canons à trucs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>290,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -336,7 +346,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
-        <PreviousSession Words="3469" Characters="20779" Date="2012-06-20 23:24:03 +0200"></PreviousSession>
+        <PreviousSession Words="2005" Characters="12327" Date="2012-06-21 15:51:06 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

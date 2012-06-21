@@ -297,7 +297,19 @@ Je vois que tu parles de [b]ULR[/b]_PANIER à un endroit, et de [b]URL[/b]_PANIE
 
 N'hésite pas à développer en affichant [i]toutes[/i] les erreurs PHP, y compris les notices (qui sont levées quand tu essaies d'accéder à un bout de tableau ou à une variable que tu n'as pas défini).
 
-Edit. Ah, tu développais bien avec les erreurs affichées, c'est bien. Le message d'erreur te dit bien que ULR_PANIER n'existe pas, il faut lire les messages d'erreur. [cligne] </Text>
+Edit. Ah, tu développais bien avec les erreurs affichées, c'est bien. Le message d'erreur te dit bien que ULR_PANIER n'existe pas, il faut lire les messages d'erreur. [cligne] 
+
+Les tweets sur les canons à trucs (mais juste les miens) :
+Mon histoire est dans une phase un peu molle. Il est temps de donner des coups de canon maser pour réveiller ce petit monde. #campNanoFr
+@FlorianJudith Ça fait un peu soupe-minute, les combats au micro-ondes.
+@edasfr 10^-9 c'est quoi ? Les rayons X ? Oh ouaiiiis. Je vais faire des canons triple-action. (l+m+n)aser. :D
+@FlorianJudith *Ding* « Ah, c'est prêt. » BOOOM \o/
+@edasfr Pour un canons à neutrons, je ne mettrais pas de "ser" à la place. Je me souviens trop bien de mes cours de physique. ^^
+@edasfr Mais du coup je cherche un nom commercial pour un canon à neutrons. « Avec neutroboum®, les méchants font boum ! »
+@desbenoit @edasfr Ça, ça existe déjà. Ça s'appelle une salière. :-"
+@desbenoit @edasfr Ça sonne trop bien comme nom de médoc anti rhume des foins. XD
+@edasfr @desbenoit Tiens, je me souvenais pas du canon à voix. Mais dans le vide de l'espace, les ondes mécaniques, c'est pas ça.
+@edasfr @desbenoit (N'empêche tu m'as fait rire avec ton tweet sur le haut-parleur.)</Text>
         </Document>
         <Document ID="20">
             <Title>Beumers, Mathilde</Title>
@@ -549,36 +561,149 @@ Survivants :
 	14.	Kadec Radcliff - menu, cheveux noirs
 	15.	Victoria De Vinn</Notes>
         </Document>
-        <Document ID="14">
-            <Title>Débarquons Hadelhaide</Title>
-            <Text>« Professeur Cassireau, bienvenue à bord.
-— Bonjour, commandant.
-— Votre séjour sur Askhyl a-t-il été productif ?
-— Très ! J’ai trouvé des choses bien intéressantes. Je suis impatient de les étudier de plus près.
-— Avez-vous besoin que nous prolongions le séjour dans le système ?
-— Non, pas ici. J’aimerais que nous visitions un autre monde, celui que j’ai marqué X-34-12 dans le fichier que je vous ai envoyé. En combien de temps pouvons-nous être là-bas ?
-— Je demanderai à l’équipe d’astrogation. Nous devrons faire un détour par un monde administratif pour larguer des prisonniers de guerre.
-— Des prisionniers ? Nous avons fait des prisonniers ?
-— Oui. Un vaisseau isolé est entré dans le système. Nous les avons arraisonnés, ils n’ont pas opposé de résistance.
-— Ah. Eh bien. Soit. Je m’accomoderai d’un petit détour, mais qu’il ne dépasse pas deux semaines, surtout.
-— Nous ferons ce qui est nécessaire.
-— Entendu. Merci, commandant. »
-Cassireau quitta le sas d’accueil sans rien ajouter. J’avais du mal à croire ce que je venais d’entendre. Cassireau venait d’avoir une conversation polie avec moi, et il venait aussi d’accepter un compromis. Voilà qui était tellement inhabituel que je dus me pincer la peau de la main pour être sûre que je ne rêvais pas.
+        <Document ID="29">
+            <Title>Le secret</Title>
+            <Text>{top à 18h45}
+« Eh bien, voilà. Sur le Garibaldi, il s’est passé quelque chose d’étrange. Enfin, quelque chose de terrible. Nous avons vu l’essentiel de mon équipage mourir… dans des circonstances terribles. Le mot est faible. Ils ont… comment dire ? Fondu ? Seules 15 personnes sur les 60 présentes ont survécu à le… à l’événement. Je ne sais pas ce qui s’est passé. Joachim — Ja’ak — a pour intention de mener des analyses plus poussées, mais il manque un peu de matériel pour l’instant.
+— D’accord. Votre équipage a fondu. Étonnant, mais je vous crois. Je vous poserai des questions plus pointues tout à l’heure, dit Bathilda. Continuez.
+— Après cela, nous avons évacué le Garibaldi en navette, et nous nous sommes écrasés sur Mikuro. Nous n’étions pas en grande forme. En temps normal, un pilote professionnel est capable de faire atterrir une navette sans l’écraser.
+— Je m’en doute. La flotte {adjectif relatif à la flotte républicaine} est une des meilleures de la galaxie.
+— Merci. Bon. Et une fois que nous avons atterri en plein désert, des pouvoirs étranges — pour ne pas dire surnaturels — ont commencé à se manifester chez les membres survivants. Celui qui s’est manifesté en premier, et qui a été assez généralisé, c’est une capacité de guérison impressionnante de rapidité. Une jambe cassée qui se répare en quelques heures avec une seule dose de régèn, des blessures par balle qui se referment en quelques heures également…
+— Étrange, indéniablement.
+— Ce qui a été encore plus étonnant, ce sont les pouvoirs vraiment inhabituels qui se sont manifestés chez certains. Paula, la sœur de Mathilde — de Canine, pardon —, par exemple, a une ouïe tellement fine qu’elle a été capable de localiser une source d’eau à travers des tunnels interminables. Canine, elle, est capable de voir dans le proche UV. Nous pensions au début que ces nouveaux pouvoirs se limitaient à l’un ou l’autre sens qui gagnait en sensibilité, mais…
+— Mais vous avez fini par découvrir le contraire.
+— Voilà. J’ai acquis au moins deux capacités depuis ce crash : d’une part, je suis devenue beaucoup plus forte et rapide que j’en ai l’air. Ça ne se voit pas, et j’essaie de ne pas trop le montrer, mais je n’ai aucun problème pour soulever des charges lourdes ou pour me hisser sur des endroits élevés à la force des bras. Pareil pour la vitesse. Lorsque j’ai… descendu lâchement le deuxième tueur qui avait été lancé à nos trousses, j’ai vu la scène comme au ralenti, alors que je me déplaçais à vitesse normale. Ce n’est qu’une impression, peut-être, et ça ne se manifeste que par moments, sous forme de flashs, quand j’ai besoin de réflexes importants. Comme si le pouvoir savait que j’ai besoin de lui. Étrange, non ?
+— Peut-être. Je ne suis pas une habituée de ce genre de manifestations surnaturelles. Donc, force et vitesse exacerbées. Soit. Toujours utile. Mais, vous parliez d’une autre capacité…
+— Oui. C’est quelque chose que l’on a découvert par accident : je suis capable, si je me concentre, de copier le visage de quelqu’un d’autre. Par exemple, j’ai pris le visage de ma femme lorsque je l’ai revue à la télé après l’annonce officielle de notre mort. Il a fallu une grosse séance de méditation et quelques doses de drogue pour que je puisse récupérer mon propre visage.
+— Aha. Étonnant, en effet. Et potentiellement très utile si vous vivez avec les parallèles. Avez-vous essayé de réutiliser ce pouvoir-ci depuis ?
+— Non. J’estime que c’est mal, même si ça pourrait être très utile dans ma situation. On ne vole pas l’identité des gens, c’est tout. C’était précisément le sujet de ma dispute avec Joachim tout à l’heure.
+— Hmm… Laissez-moi réfléchir. »
+Nous étions en apesanteur, empaquetés dans nos combinaisons dans la soute principale du {Tartempion}. Bathilda se laissa flotter, l’air songeur, pendant quelques instants. prit un air songeur pendant quelques minutes. Puis elle prit appui sur un container pour revenir flotter vers Joachim et moi.
+« Je pense, dit-elle, que c’est comme les armes. {Trouver quelque chose qui ne soit pas aussi évidemment mauvais que les armes… La contrebande ?} Ce n’est pas mauvais en soi. C’est mauvais si on s’en sert pour faire quelque chose de mal. Et, quand on a des capacités, c’est mal de ne pas s’en servir juste parce qu’on a peur. Donc, en tant que commandant en second de ce vaisseau, Noemi-Loïs, je t’ordonne d’apprendre à maîtriser ce pouvoir pour en connaître précisément les modalités et les limites.
+— Mais…
+— C’est un ordre, Noemi Vilasis. Pas de « mais ». Je veux un rapport détaillé chaque jour sur tes progrès et tes découvertes. Joachim-Ja’ak pourra t’aider dans la démarche scientifique. »
+Je serrai les dents quand Bathilda s’éloigna en flottant tranquillement vers le double sas. Je n’avais plus le choix.
 ❃ ✽ ✾
-Le Garibaldi était en approche du premier monde civilisé qu’il avait vu depuis quatre mois. De notre point de vue, il ne s’était passé « que » deux mois, mais le temps ne passait pas à la même vitesse en hyperespace qu’en réalité. Seul le temps que nous avions passé en espace normal était « réel ».
-J’avais passé beaucoup de temps à discuter avec Hadelhaide, toujours sans révéler moi-même ce qui nous avait amenés sur Askhyl. Cependant, Hadelhaide connaissait beaucoup de choses des activités de Cassireau, sans que je n’aie rien besoin de lui dire. Elle m’avait mise en garde contre lui à de nombreuses reprises. D’après elle, il était dangereux, pas seulement dérangé. Je devais vraiment me méfier de lui, car il était capable de nous faire du mal. Je ne voyais pas comment il pouvait nous faire du mal en restant enfermé dans un container dans notre soute. Il avait dû s’engager à ne pas produire de choses trop explosives, afin de garantir la sécurité de l’équipage.
-Du reste, nous avions eu des échanges très intéressants quant à la guerre qui se déroulait, les raisons qui y avaient mené, l’opportunité ou non de continuer le conflit… Je ne m’étais pas mouillée sur les raisons du conflit ou sur le fait que la guerre était « bonne » ou « mauvaise ». Les guerres sont toujours mauvaises, mais je n’étais pas suffisamment haut placée pour décider d’arrêter cette guerre-ci, ou de parlementer.
-Nous arrivions sur Sido, un des mondes les plus actifs de la république. Il abritait une prison pour prisonniers de guerre « de marque ». Les messages de mes supérieurs m’indiquaient que je devais débarquer Hadelhaide et sa petite équipe ici même. Je me rendis dans sa cellule pour lui dire au revoir.
-« Hadelhaide, nous sommes en orbite autour de Sido. Une navette de la sécurité intérieure va vous emmener à terre. Nos routes se séparent ici.
-— Noemi, merci de votre accueil. Je ne dirais pas que le voyage a été un pur plaisir, mais pour une prisonnière, je pense que j’ai eu beaucoup de chance d’avoir droit à des conditions de confort tellement agréables.
-— Oui. Vous êtes prisonnière. Désolée de vous laisser dans un camp.
-— Vous n’avez pas le choix. Et vous m’avez bien traitée. N’importe quel commandant n’en aurait pas forcément fait autant.
-— Je ne sais pas. En tout cas, courage pour la suite, Hadelhaide.
-— Courage à vous, Noemi. La suite de la guerre sera difficile aussi. »
-Les agents de la sécurité intérieure venaient d’embarquer ; ils apparurent au bout du couloir. Je me mis au garde-à-vous devant la porte de la cellule d’Hadelhaide pour l’arrestation.
-Elle ne résista pas quand les gardes menottèrent ses mains dans son dos. Elle me sourit une dernière fois, en m’adressant un hochement de tête, quand elle sortit de sa cellule pour suivre ses geôliers.
-Je ne pus pas suivre du regard le petit groupe qui s’éloignait. Je me concentrai bien vite sur mes pieds, sur le sol métallique du couloir. Je sentais mon ventre se nouer de frustration et d’inquiétude.
-Je sentais confusément que quelque chose n’allait pas dans cet univers. Pour la première fois en tant d’années de carrière, je doutais de la bonne foi de mon employeur, je ne lui faisais pas confiance. J’avais peur qu’il maltraite mes prisonniers de guerre, qu’il ne respecte pas le code que j’avais fait le serment de respecter.</Text>
+Nous étions dans le petit gymnase du {Tartempion}. Joachim était assis en tailleur sur le tapis de gym, en face de moi, qui étais dans la même position.
+« Bien, Noemi. Commençons. Il faudrait d’abord savoir en qui et en quoi vous êtes capable de vous transformer. Vous pouvez vous changer en Lora Jori par hasard. C’est quelqu’un que vous connaissez bien. Pouvez-vous essayer une transformation délibérée en Lora ?
+— Je peux essayer. Mais je ne veux pas vraiment.
+— Vous pouvez essayer quelqu’un d’autre. Mais pour commencer l’entraînement, il vaudrait mieux répéter quelque chose que vous avez déjà fait.
+— Oui. Je me concentre. »
+Je fermai les yeux et pensai à Lora, de toutes mes forces. Ses yeux, sa bouche, la forme de son visage. Des images de Lora qui mange, de Lora qui dort, de Lora qui grogne contre un politicien pénible. Quand j’estimai m’être suffisamment concentrée, je rouvris les yeux pour interroger Joachim du regard.
+Il n’eut pas besoin de mots pour que je comprenne que la transformation n’avait pas eu lieu. Je tentai une approche moyennement subtile.
+« Peut-être qu’en fait, ce n’est pas possible… Peut-être que je ne peux pas me transformer, peut-être que par hasard c’était juste une hallucination collective qui tombait particulièrement mal ? »
+Joachim eut se contenta d’esquisser un petit sourire pincé. et J’eus le sentiment que son regard me transperça de part en part.
+« Ou… euh… peut-être que… euh… Je dois réfléchir autrement, aussi.
+— Oui, je pense aussi. »
+Le ton qu’employa Joachim pour prononcer cette phrase me glaça le sang. D’accord, d’accord, j’allais me transformer. Je me concentrai à nouveau, mais sur cette fois-ci, uniquement sur l’apparence le physique de Lora. Je me concentrai sur les petits détails, de façon très analytique, en mettant mes sentiments de côté. C’était presque plus difficile de penser à Lora de cette façon qu’à n’importe qui d’autre… J’imaginai aussi comment me mettre dans la peau de Lora, en pensant à mon pouvoir et en lui « demandant » de me transformer.
+Quand je rouvris les yeux, je sentis, quelque part, que j’avais réussi, avant même de voir le sourire pas du tout pincé de Joachim.
+« Bravo, dit-il. Bonjour, Lora, dit-il simplement. Je pense que vous êtes une élève très douée, Noemi. Vous avez réussi du deuxième coup, sans avoir besoin que je vous suggère d’essayer autrement.
+— Euh… Merci ! lui répondit une voix qui ressemblait à peu près à celle de Lora.
+— Il reste les cheveux. Vous avez gardé vos cheveux de Noemi. Si vous vous transformez en une personne jeune, pas de problème. Mais si vous prenez l’apparence de, disons, de Bathilda, cela l’artifice sera un peu plus visible.
+— Mais je ne vais pas prendre l’apparence de Bathilda.
+— Oh, si, vous allez ! Elle est d’accord, d’une part, et d’autre part vous avez besoin d’encore un peu d’entraînement. Allez-y, essayez. »
+Il n’y avait pas à discuter. Le ton employé par Joachim ne me laissait aucune {aucun ? Grpmf} échappatoire. J’inspirai longuement, et j’essayai de me transformer en Bathilda comme je m’étais transformée en Lora.
+Je sentis que rien ne se produisit, et l’air de Joachim me le confirma.
+« Peut-être pouvez-vous esssayer de vous transformer d’abord en vous-même, à nouveau ? » suggéra-t-il.
+Peut-être. Peut-être que Noemi était toujours mon point de référence, pour ainsi dire. Je visualisai mon visage, longuement, et je retrouvai mon apparence initiale. J’étais à bout de souffle, je me sentais épuisée.
+« Je… Joachim, je préfèrerais qu’on continue… plus tard. »
+Sur ces deux derniers mots, la tête commença à me tourner. Un voile noir envahit mon regard — ça commençait à faire souvent —. J’entendis que Joachim me parlait pour m’empêcher de m’évanouir, mais je sombrai tout de même dans l’inconscience. je m’évanouis
+❃ ✽ ✾
+Quand j’ouvris les yeux, j’étais à l’infirmerie, couchée sur un des deux minuscules lits médicalisés qui se trouvaient là. Bathilda et Joachim m’observaient, l’air soucieux. Je fis mine de m’assoir sur mon lit, mais Joachim me demanda d’aller doucement.
+« Comment vous sentez-vous, Noemi ?
+— Reposée. Fatiguée.
+— Vous avez fait un malaise après la seconde transformation. Nous touchons peut-être une des premières limites de votre pouvoir.
+— Heureuse de l’apprendre. Est-ce que cela signifie que j’aurai droit à une réduction du nombre de séances d’entraînement ? Sans vouloir paraître obstinée par une idée fixe, évidemment.
+— Évidemment. Hé bien nous nous restreindrons à deux séances maximum par jour…
+— Deux ?!
+— Oui. Mais espacées dans le temps, évidemment. Une pour la transformation, une pour la transformation inverse.
+— Ah. Oui. Évidemment.
+— Finissez de vous reposer. Nous continuerons demain. »
+Je n’avais pas spécialement envie d’être demain, subitement. Je grommelai dans le matelas et je me rendormis rapidement.
+❃ ✽ ✾
+« Joachim… Je n’ai pas envie de recommencer.
+— Noemi, Bathilda vous l’a ordonné. Alors, au travail. »
+Aujourd’hui, nous essayions de voir si je pouvais me transformer en Bathilda. Je me concentrai en fermant les yeux, en imaginant me transformer en la vieille femme. Je sentis bien vite que la « chimie » ne prenait pas. Peut-être manquais-je de détails.
+« C’est ce que je pensais, dit Joachim. Il faudrait que vous alliez observer Bathilda de plus près.
+— Que je l’observe ? Cela ne risque-t-il pas de la gêner un peu ?
+— Mais non, mais non. Elle a dit qu’elle était d’accord. Je vais la chercher. »
+On marchait sur la tête. Joachim sortit du petit gymnase et revint quelques minutes plus tard accompagné du commandant du vaisseau.
+« Hé bien, Noemi ? Tu as quelque chose à faire ?
+— Euh… oui. Désolée, Bathilda.
+— Tu n’as pas à être désolée. Je t’en prie, fais le nécessaire. »
+Bathilda s’assit en tailleur juste à côté de moi. Je pris le temps de l’observer d’observer son visage jusque dans les moindres détails. Son visage était fin, elle avait dû être d’une grande beauté quand elle était plus jeune. Ses lèvres minces étaient encore très bien dessinées. Des rides pliaient la peau de son visage autour de ses yeux verts, qui surmontaient des poches. La peau de ses joues était parsemée de crevasses. Une cicatrice partait de son menton, traversait sa bouche et traversait sa joue droite, se prolongeant jusqu’au sourcil. La blessure avait dû manquer son œil droit de très peu. Une petite verrue poilue pointait sur son menton. Son nez était un peu pointu et discret. C’était un pur travail de mémoire et d’analyse. Je maîtrisais parfaitement ce genre d’exercice. Quand je commençai à voir les choses de cette façon-là, toute mon angoisse quant à la transormation parut s’envoler.
+Je reconnus la sensation qui avait traversé ma peau quand j’avais je m’étais transformée la veille. Un éclair de surprise traversa le visage de Bathilda.
+« Joli. La transformation en elle-même est angoissante, mais le résultat est très impressionnant, en effet. Regarde un peu ça, Joachim ! »
+Nous nous tournâmes toutes les deux vers Joachim, qui hocha la tête en découvrant nos deux visages identiques. Identiques ? Pas tout à fait. Joachim prit quelques notes sur son bloc mémo et me pointa de son stylet :
+« Presque parfait, Noemi. Mais quand on vous compare à l’original, on voit que quelque chose cloche.
+— Quoi donc ? » demandai-je immédiatement. Joachim eut un petit sourire, et s’adressa à mon original.
+« Bathilda, regardez bien Noemi. Ne voyez-vous pas quelque chose de différent ? »
+Bathilda me regarda intensément. Je me sentis traversée par le regard du capitaine. Mais elle secoua la tête.
+« Bathilda a une cicatrice à droite, et vous, à gauche. Vous n’êtes qu’un miroir, Noemi. Pas un double. Voilà pour la deuxième limite de votre pouvoir. »
+J’ouvris la bouche pour ajouter quelque chose, mais je fus interrompue par une alarme stridente qui résonna dans tout le vaisseau. Bathilda fut debout d’un bond, et elle sortit de la pièce à une vitesse presque surnaturelle. Je la suivis à grand-peine dans la cabine de pilotage. Elle examinait son visuel.
+« Bathilda, que se passe-t-il ?
+— On a une présence hostile sur les capteurs passifs.
+— Oh non… Nous sommes en hyper…
+— En effet. Et comme nous sommes en hyper, il y a des chances pour que les présences hostiles sont soient vraiment hostiles.
+— Ça sent très mauvais.
+— Oui. J’ai lancé une analyse avec les capteurs actifs, les résultats vont bientôt arriver. »
+La tête de Jonathan, qui était à la sieste, émergea du sas d’accès.
+« Qu’est-ce qu’on a, Bathilda ?
+— Je ne sais pas encore, John-John. La bestiole Simone va nous dire ça bientôt. »
+La bestiole Simone désignait apparemment la batterie de capteurs actifs. Ou l’ordinateur de bord. Ou n’importe quelle partie du vaisseau selon le contexte. Jonathan prit un air ton un peu plus perplexe pour répéter :
+« Euh… Bathilda ? »
+Nous nous retournâmes toutes les deux pour voir ce qui n’allait pas.
+« Bathilda… Tu… Tu es deux ? »
+Ah, c’était donc ça. Je n’avais pas « enlevé mon costume » de Bathilda.
+« Oh, ça, répondit (la vraie) Bathilda. C’est Noemi. Nous faisions des petites expériences amusantes, ne t’inquiète pas.
+— Euh, d’accord. Très bien. Je ne m’inquiète pas. Je préfère m’inquiéter de savoir ce qui, là dehors, a inquiété Simone la bestiole. »
+(Je trouvai que Jonathan acceptait bien vite la présence d’une deuxième Bathilda. Je soupçonnai sa femme de l’avoir mis dans la confidence. C’était compréhensible, cela dit. Je n’allais pas lui reprocher de mettre son mari et associé dans la confidence en ce qui concernait leurs passagers. Cela dit, j’étais d’accord avec Bathilda sur le fait qu’il y avait peut-être plus à s’inquiéter de la mystérieuse présence extérieure qui faisait sonner « Simone » « la bestiole ».)
+« Dis-moi que c’est un vaisseau de pirates, Simone, répétait Johnatan. Un vaisseau, avec des humains. »
+Les analyses s’affichèrent sur l’écran. Une sorte de visuel animé commença à s’afficher sur l’écran. 
+« C’est pas une empreinte de vaisseau, ça, John-John, murmura Bathilda.
+— Non, Bathilda, répondit Johnatan. C’est une bestiole.
+— Et pas une petite, ajouta Bathilda.
+— Merde, lâcha Jonathan. Il n’y en a pas, par ici, normalement…
+— Si on s’en sort, on enverra un rapport pour signaler le danger. Mais d’abord, on va faire chauffer les dessous de Simone, pour nous sortir de là, John. Pas le choix.
+— J’y vais. Noemi, prends la place du copilote. Tu as déjà piloté, non ? C’est ce que disait ta biographie officielle qui est passée dix ou vingt fois à la télé. J’emmène Noemi. Suis-moi, Noemi. »
+Bathilda reprit place au poste de pilotage et désactiva le pilote automatique. Je m’assis dans le siège à sa droite. J’entendis Jonathan demander un coup de main à Canine et ordonner à Joachim de s’attacher à quelque chose. Le médecin nous rejoignit vite dans la cabine de pilotage, où il lui semblait, dit-il, qu’il serait un peu mieux mis au courant des événements.
+« Bathilda, dit-il en ne sachant plus exactement à laquelle de nous deux s’adresser, que se passe-t-il exactement ?
+— Les capteurs du vaisseau ont détecté une forte signature électromagnétique dans l’hyperespace environnant. Nous avions espéré que c’était « juste » un vaisseau pirate, mais d’après les relevés, c’est une de ces perturbations d’allure biologique tentaculaire qui se manifeste ici. Nous sommes étonnés, car ce genre de choses ne se produit pas par ici d’habitude.
+— Ah, c’est un kraken de l’espace ?
+— C’est le terme qu’utilise la flotte, oui. Nous préférons dire sobrement « une bestiole », ou « une grosse bestiole ». Cela dit les deux termes sont erronés, si ça se trouve. On n’a pas moyen de savoir ce que c’est, car ça ne repasse jamais en espace normal. Si ça se trouve, c’est une simple perturbation électromagnétique naturelle, et pas du tout une créature de l’enfer capable de passer en hyper.
+— Je sais bien.
+— Toujours est-il que nous avons une bestiole sur les bras. Je vais essayer de piloter en manuel pour la surprendre — on a remarqué que les bestioles comprenaient aisément les mouvements des ordinateurs, mais peinaient à prévoir les mouvements décidés par des humains. Pendant ce temps, John sort les canons maser pour essayer de décourager la bestiole de nous suivre. »
+Cette dernière phrase provoqua deux réactions très différentes chez Joachim et chez moi. La réaction de Joachim fut simplement orthographique :
+« Maser ? Laser, vous voulez dire.
+— Non, maser. Comme un laser, mais dans les fréquences des micro ondes. Ça marche plutôt bien contre pour ennuyer les bestioles.
+— Ah. »
+Ma réaction, que je présentai après les explications de Bathilda sur les masers, fut plutôt juridique, comme un reste de ma longue carrière au service de la loi :
+« Vous avez des masers sur un vaisseau de transport, Bathilda ? C’est encadré, ce genre d’armes, normalement…
+— Nous avons même des canons triples, qui envoient des faisceaux cohérents sur trois fréquences précises du spectre. C’est autorisé sur les vaisseaux d’escorte, Noemi. Nous sommes notre propre escorte. Et puis, ajouta-t-elle en voyant que je n’étais pas particulièrement convaincue par ses arguments, nous les utilisons juste en cas de besoin, pas pour faire la guerre.
+— Aha.
+— Vous ne pouvez pas nous dénoncer, vous êtes encore plus hors-la-loi que nous.
+— Certes. Et puis je commence à relativiser la notion de loi, un peu comme vous avez dû apprendre à le faire il y a longtemps, j’imagine. C’est encore un peu nouveau pour moi.
+— Vous êtes pardonnée. »
+À ce moment-là, un petit « ding » se fit entendre, suivi d’un gros BOUM quelque part ailleurs dans le vaisseau. Sur notre visuel, les barres de l’empreinte électromagnétique de notre poursuivant se secouèrent un peu. Jonathan fit entendre un cri de triomphe dans le poste comm :
+« Yeee haaah ! Vas-y, Simone, envoie les micro-ondes ! Boum !
+— Du calme, Jonathan », répondit Canine, très posément, dans le même canal de comm.
+Cependant, on entendit un deuxième « ding » suivi d’un BOUM tout aussi intense, et Canine ne put s’empêcher d’exprimer un certain enthousiasme :
+« Ils sont très chic, vos canons, Jonathan. Je pourrai vous les emprunter encore, plus tard ?
+— Quand tu voudras, à condition qu’on se débarrasse de cette bestiole d’abord.
+— À vos ordres ! Chauffe, Simone ! »
+Nous continuâmes les manœuvres d’évitement, ponctuées des « ding » et des « boum » des canons manipulés par Jonathan et Canine. À un moment donné, Bathilda passa un message à Jonathan :
+« John-John, je pense qu’il est temps de passer aux lasers et aux nasers\footnote{Un naser est un laser, soit un faisceau cohérent d’ondes électromagnétiques cohérentes, (comme le laser) à longueur d’onde nanométrique, donc située quelques boulettes entre l’UV lointain et les rayons X.}, d’après ce que je vois sur l’empreinte.
+— Parfait, Bathilda.
+— Je cherche une fenêtre pour repasser en normal. Elle se rapproche bien trop vite pour la vitesse à laquelle nous l’entamons.
+— Dommage, on commençait à s’amuser.
+— Tu ne diras pas ça quand elle réussira à nous toucher.
+— Tu n’es pas drôle, Bathilda, mais je t’aime quand même. À tout à l’heure. »
+J’aperçus un sourire traverser le visage de Bathilda, mais elle reprit aussitôt son air sérieux et concentré.</Text>
+            <Notes>→ Une seule transformation par jour ou en tout cas transformations assez éloignées dans le temps
+→ Transformation qui s’annule lorsqu’elle s’endort. ⇒ à réitérer tous les matins quand elle veut garder une certaine identité pendant longtemps
+→ Transformation fatigante.
+→ Besoin de scruter longuement une personne pour pouvoir reproduire son visage.
+→ Transformation en homme difficile et incomplète. Noemi préfère s’en tenir aux femmes, pour savoir comment aller pisser (sinon ça fait beaucoup de découvertes).</Notes>
         </Document>
         <Document ID="4">
             <Title>Départ</Title>
@@ -639,62 +764,36 @@ Je soupirai. Cette mission allait durer très, très longtemps.</Text>
             <Notes>Ensuite : Noemi pose son préavis de départ.
 Quelques temps après : on embarque un mec des services secrets qui veut faire des trucs sur Mikuro, un système près de la frontière mais pas franchement stratégique.</Notes>
         </Document>
-        <Document ID="29">
-            <Title>Le secret</Title>
-            <Text>{top à 18h45}
-« Eh bien, voilà. Sur le Garibaldi, il s’est passé quelque chose d’étrange. Enfin, quelque chose de terrible. Nous avons vu l’essentiel de mon équipage mourir… dans des circonstances terribles. Le mot est faible. Ils ont… comment dire ? Fondu ? Seules 15 personnes sur les 60 présentes ont survécu à le… à l’événement. Je ne sais pas ce qui s’est passé. Joachim — Ja’ak — a pour intention de mener des analyses plus poussées, mais il manque un peu de matériel pour l’instant.
-— D’accord. Votre équipage a fondu. Étonnant, mais je vous crois. Je vous poserai des questions plus pointues tout à l’heure, dit Bathilda. Continuez.
-— Après cela, nous avons évacué le Garibaldi en navette, et nous nous sommes écrasés sur Mikuro. Nous n’étions pas en grande forme. En temps normal, un pilote professionnel est capable de faire atterrir une navette sans l’écraser.
-— Je m’en doute. La flotte {adjectif relatif à la flotte républicaine} est une des meilleures de la galaxie.
-— Merci. Bon. Et une fois que nous avons atterri en plein désert, des pouvoirs étranges — pour ne pas dire surnaturels — ont commencé à se manifester chez les membres survivants. Celui qui s’est manifesté en premier, et qui a été assez généralisé, c’est une capacité de guérison impressionnante de rapidité. Une jambe cassée qui se répare en quelques heures avec une seule dose de régèn, des blessures par balle qui se referment en quelques heures également…
-— Étrange, indéniablement.
-— Ce qui a été encore plus étonnant, ce sont les pouvoirs vraiment inhabituels qui se sont manifestés chez certains. Paula, la sœur de Mathilde — de Canine, pardon —, par exemple, a une ouïe tellement fine qu’elle a été capable de localiser une source d’eau à travers des tunnels interminables. Canine, elle, est capable de voir dans le proche UV. Nous pensions au début que ces nouveaux pouvoirs se limitaient à l’un ou l’autre sens qui gagnait en sensibilité, mais…
-— Mais vous avez fini par découvrir le contraire.
-— Voilà. J’ai acquis au moins deux capacités depuis ce crash : d’une part, je suis devenue beaucoup plus forte et rapide que j’en ai l’air. Ça ne se voit pas, et j’essaie de ne pas trop le montrer, mais je n’ai aucun problème pour soulever des charges lourdes ou pour me hisser sur des endroits élevés à la force des bras. Pareil pour la vitesse. Lorsque j’ai… descendu lâchement le deuxième tueur qui avait été lancé à nos trousses, j’ai vu la scène comme au ralenti, alors que je me déplaçais à vitesse normale. Ce n’est qu’une impression, peut-être, et ça ne se manifeste que par moments, sous forme de flashs, quand j’ai besoin de réflexes importants. Comme si le pouvoir savait que j’ai besoin de lui. Étrange, non ?
-— Peut-être. Je ne suis pas une habituée de ce genre de manifestations surnaturelles. Donc, force et vitesse exacerbées. Soit. Toujours utile. Mais, vous parliez d’une autre capacité…
-— Oui. C’est quelque chose que l’on a découvert par accident : je suis capable, si je me concentre, de copier le visage de quelqu’un d’autre. Par exemple, j’ai pris le visage de ma femme lorsque je l’ai revue à la télé après l’annonce officielle de notre mort. Il a fallu une grosse séance de méditation et quelques doses de drogue pour que je puisse récupérer mon propre visage.
-— Aha. Étonnant, en effet. Et potentiellement très utile si vous vivez avec les parallèles. Avez-vous essayé de réutiliser ce pouvoir-ci depuis ?
-— Non. J’estime que c’est mal, même si ça pourrait être très utile dans ma situation. On ne vole pas l’identité des gens, c’est tout. C’était précisément le sujet de ma dispute avec Joachim tout à l’heure.
-— Hmm… Laissez-moi réfléchir. »
-Nous étions en apesanteur, empaquetés dans nos combinaisons dans la soute principale du {Tartempion}. Bathilda se laissa flotter, l’air songeur, pendant quelques instants. prit un air songeur pendant quelques minutes. Puis elle prit appui sur un container pour revenir flotter vers Joachim et moi.
-« Je pense, dit-elle, que c’est comme les armes. {Trouver quelque chose qui ne soit pas aussi évidemment mauvais que les armes… La contrebande ?} Ce n’est pas mauvais en soi. C’est mauvais si on s’en sert pour faire quelque chose de mal. Et, quand on a des capacités, c’est mal de ne pas s’en servir juste parce qu’on a peur. Donc, en tant que commandant en second de ce vaisseau, Noemi-Loïs, je t’ordonne d’apprendre à maîtriser ce pouvoir pour en connaître précisément les modalités et les limites.
-— Mais…
-— C’est un ordre, Noemi Vilasis. Pas de « mais ». Je veux un rapport détaillé chaque jour sur tes progrès et tes découvertes. Joachim-Ja’ak pourra t’aider dans la démarche scientifique. »
-Je serrai les dents quand Bathilda s’éloigna en flottant tranquillement vers le double sas. Je n’avais plus le choix.
+        <Document ID="14">
+            <Title>Débarquons Hadelhaide</Title>
+            <Text>« Professeur Cassireau, bienvenue à bord.
+— Bonjour, commandant.
+— Votre séjour sur Askhyl a-t-il été productif ?
+— Très ! J’ai trouvé des choses bien intéressantes. Je suis impatient de les étudier de plus près.
+— Avez-vous besoin que nous prolongions le séjour dans le système ?
+— Non, pas ici. J’aimerais que nous visitions un autre monde, celui que j’ai marqué X-34-12 dans le fichier que je vous ai envoyé. En combien de temps pouvons-nous être là-bas ?
+— Je demanderai à l’équipe d’astrogation. Nous devrons faire un détour par un monde administratif pour larguer des prisonniers de guerre.
+— Des prisionniers ? Nous avons fait des prisonniers ?
+— Oui. Un vaisseau isolé est entré dans le système. Nous les avons arraisonnés, ils n’ont pas opposé de résistance.
+— Ah. Eh bien. Soit. Je m’accomoderai d’un petit détour, mais qu’il ne dépasse pas deux semaines, surtout.
+— Nous ferons ce qui est nécessaire.
+— Entendu. Merci, commandant. »
+Cassireau quitta le sas d’accueil sans rien ajouter. J’avais du mal à croire ce que je venais d’entendre. Cassireau venait d’avoir une conversation polie avec moi, et il venait aussi d’accepter un compromis. Voilà qui était tellement inhabituel que je dus me pincer la peau de la main pour être sûre que je ne rêvais pas.
 ❃ ✽ ✾
-Nous étions dans le petit gymnase du {Tartempion}. Joachim était assis en tailleur sur le tapis de gym, en face de moi, qui étais dans la même position.
-« Bien, Noemi. Commençons. Il faudrait d’abord savoir en qui et en quoi vous êtes capable de vous transformer. Vous pouvez vous changer en Lora Jori par hasard. C’est quelqu’un que vous connaissez bien. Pouvez-vous essayer une transformation délibérée en Lora ?
-— Je peux essayer. Mais je ne veux pas vraiment.
-— Vous pouvez essayer quelqu’un d’autre. Mais pour commencer l’entraînement, il vaudrait mieux répéter quelque chose que vous avez déjà fait.
-— Oui. Je me concentre. »
-Je fermai les yeux et pensai à Lora, de toutes mes forces. Ses yeux, sa bouche, la forme de son visage. Des images de Lora qui mange, de Lora qui dort, de Lora qui grogne contre un politicien pénible. Quand j’estimai m’être suffisamment concentrée, je rouvris les yeux pour interroger Joachim du regard.
-Il n’eut pas besoin de mots pour que je comprenne que la transformation n’avait pas eu lieu. Je tentai une approche moyennement subtile.
-« Peut-être qu’en fait, ce n’est pas possible… Peut-être que je ne peux pas me transformer, peut-être que par hasard c’était juste une hallucination collective qui tombait particulièrement mal ? »
-Joachim eut se contenta d’esquisser un petit sourire pincé. et J’eus le sentiment que son regard me transperça de part en part.
-« Ou… euh… peut-être que… euh… Je dois réfléchir autrement, aussi.
-— Oui, je pense aussi. »
-Le ton qu’employa Joachim pour prononcer cette phrase me glaça le sang. D’accord, d’accord, j’allais me transformer. Je me concentrai à nouveau, mais sur cette fois-ci, uniquement sur l’apparence le physique de Lora. Je me concentrai sur les petits détails, de façon très analytique, en mettant mes sentiments de côté. C’était presque plus difficile de penser à Lora de cette façon qu’à n’importe qui d’autre… J’imaginai aussi comment me mettre dans la peau de Lora, en pensant à mon pouvoir et en lui « demandant » de me transformer.
-Quand je rouvris les yeux, je sentis, quelque part, que j’avais réussi, avant même de voir le sourire pas du tout pincé de Joachim.
-« Bravo, dit-il. Bonjour, Lora, dit-il simplement. Je pense que vous êtes une élève très douée, Noemi. Vous avez réussi du deuxième coup, sans avoir besoin que je vous suggère d’essayer autrement.
-— Euh… Merci ! lui répondit une voix qui ressemblait à peu près à celle de Lora.
-— Il reste les cheveux. Vous avez gardé vos cheveux de Noemi. Si vous vous transformez en une personne jeune, pas de problème. Mais si vous prenez l’apparence de, disons, de Bathilda, cela l’artifice sera un peu plus visible.
-— Mais je ne vais pas prendre l’apparence de Bathilda.
-— Oh, si, vous allez ! Elle est d’accord, d’une part, et d’autre part vous avez besoin d’encore un peu d’entraînement. Allez-y, essayez. »
-Il n’y avait pas à discuter. Le ton employé par Joachim ne me laissait aucune {aucun ? Grpmf} échappatoire. J’inspirai longuement, et j’essayai de me transformer en Bathilda comme je m’étais transformée en Lora.
-Je sentis que rien ne se produisit, et l’air de Joachim me le confirma.
-« Peut-être pouvez-vous esssayer de vous transformer d’abord en vous-même, à nouveau ? » suggéra-t-il.
-Peut-être. Peut-être que Noemi était toujours mon point de référence, pour ainsi dire. Je visualisai mon visage, longuement, et je retrouvai mon apparence initiale. J’étais à bout de souffle, je me sentais épuisée.
-« Je… Joachim, je préfèrerais qu’on continue… plus tard. »
-Sur ces deux derniers mots, la tête commença à me tourner. Un voile noir envahit mon regard — ça commençait à faire souvent —. J’entendis que Joachim me parlait pour m’empêcher de m’évanouir, mais je sombrai tout de même dans l’inconscience. je m’évanouis
-❃ ✽ ✾
-Quand j’ouvris les yeux, j’étais à l’infirmerie, couchée sur un des deux minuscules lits médicalisés qui se trouvaient là. Bathilda et Joachim m’observaient, l’air soucieux. Je fis mine de m’assoir sur mon lit, mais Joachim me demanda d’aller doucement.
-« Comment vous sentez-vous, Noemi ?
-— Reposée.</Text>
-            <Notes>→ Une seule transformation par jour ou en tout cas transformations assez éloignées dans le temps
-→ Transformation qui s’annule lorsqu’elle s’endort. ⇒ à réitérer tous les matins quand elle veut garder une certaine identité pendant longtemps
-→ Transformation fatigante.
-→ Besoin de scruter longuement une personne pour pouvoir reproduire son visage.
-→ Transformation en homme difficile et incomplète. Noemi préfère s’en tenir aux femmes, pour savoir comment aller pisser (sinon ça fait beaucoup de découvertes).</Notes>
+Le Garibaldi était en approche du premier monde civilisé qu’il avait vu depuis quatre mois. De notre point de vue, il ne s’était passé « que » deux mois, mais le temps ne passait pas à la même vitesse en hyperespace qu’en réalité. Seul le temps que nous avions passé en espace normal était « réel ».
+J’avais passé beaucoup de temps à discuter avec Hadelhaide, toujours sans révéler moi-même ce qui nous avait amenés sur Askhyl. Cependant, Hadelhaide connaissait beaucoup de choses des activités de Cassireau, sans que je n’aie rien besoin de lui dire. Elle m’avait mise en garde contre lui à de nombreuses reprises. D’après elle, il était dangereux, pas seulement dérangé. Je devais vraiment me méfier de lui, car il était capable de nous faire du mal. Je ne voyais pas comment il pouvait nous faire du mal en restant enfermé dans un container dans notre soute. Il avait dû s’engager à ne pas produire de choses trop explosives, afin de garantir la sécurité de l’équipage.
+Du reste, nous avions eu des échanges très intéressants quant à la guerre qui se déroulait, les raisons qui y avaient mené, l’opportunité ou non de continuer le conflit… Je ne m’étais pas mouillée sur les raisons du conflit ou sur le fait que la guerre était « bonne » ou « mauvaise ». Les guerres sont toujours mauvaises, mais je n’étais pas suffisamment haut placée pour décider d’arrêter cette guerre-ci, ou de parlementer.
+Nous arrivions sur Sido, un des mondes les plus actifs de la république. Il abritait une prison pour prisonniers de guerre « de marque ». Les messages de mes supérieurs m’indiquaient que je devais débarquer Hadelhaide et sa petite équipe ici même. Je me rendis dans sa cellule pour lui dire au revoir.
+« Hadelhaide, nous sommes en orbite autour de Sido. Une navette de la sécurité intérieure va vous emmener à terre. Nos routes se séparent ici.
+— Noemi, merci de votre accueil. Je ne dirais pas que le voyage a été un pur plaisir, mais pour une prisonnière, je pense que j’ai eu beaucoup de chance d’avoir droit à des conditions de confort tellement agréables.
+— Oui. Vous êtes prisonnière. Désolée de vous laisser dans un camp.
+— Vous n’avez pas le choix. Et vous m’avez bien traitée. N’importe quel commandant n’en aurait pas forcément fait autant.
+— Je ne sais pas. En tout cas, courage pour la suite, Hadelhaide.
+— Courage à vous, Noemi. La suite de la guerre sera difficile aussi. »
+Les agents de la sécurité intérieure venaient d’embarquer ; ils apparurent au bout du couloir. Je me mis au garde-à-vous devant la porte de la cellule d’Hadelhaide pour l’arrestation.
+Elle ne résista pas quand les gardes menottèrent ses mains dans son dos. Elle me sourit une dernière fois, en m’adressant un hochement de tête, quand elle sortit de sa cellule pour suivre ses geôliers.
+Je ne pus pas suivre du regard le petit groupe qui s’éloignait. Je me concentrai bien vite sur mes pieds, sur le sol métallique du couloir. Je sentais mon ventre se nouer de frustration et d’inquiétude.
+Je sentais confusément que quelque chose n’allait pas dans cet univers. Pour la première fois en tant d’années de carrière, je doutais de la bonne foi de mon employeur, je ne lui faisais pas confiance. J’avais peur qu’il maltraite mes prisonniers de guerre, qu’il ne respecte pas le code que j’avais fait le serment de respecter.</Text>
         </Document>
         <Document ID="22">
             <Title>Difficile à tuer</Title>
@@ -774,7 +873,11 @@ Mon affichage se remplit lentement au fur et à mesure que les secondes s’éco
 « Garibaldi, ici le commandant. J’ai besoin de quelqu’un en salle de pilotage pour récupérer un pilote inconscient. Je veux des équipes de deux pour aller récupérer les survivants inconscients dans Machine I et batterie principale, et une équipe de quatre pour les deux survivants dans les cabines des fusiliers spatiaux. Ensuite, rendez-vous au sas d’embarquement navette I pour évacuation du vaisseau. Vous êtes 9, tout le monde doit participer. Je m’occupe des impériaux.  Au travail. »
 Par chance, tous les circuits de com internes étaient intacts. Je vis rapidement les points verts se déplacer d’une pièce à l’autre pour se rapprocher des points jaunes. Je me sentais un peu mieux — le sifflement s’était arrêté — et je réussis à me lever sans tomber à nouveau dans les pommes. Je m’approchai du poste tactique. Les deux officiers tactiques s’étaient eux aussi transformés en cette répugnante bouillie sanguinolente. J’ignorai du mieux que je pus la présence des deux cadavres et je me concentrai sur le visuel tactique. Aucun missile impérial n’apparaissait sur le visuel. Il était temps de hisser le drapeau blanc pour éviter de s’en ramasser d’autres. Cela consistait à couper tous les boucliers anti-missiles et les réacteurs de propulsion. J’entrai rapidement la séquence de contrôle et le drapeau blanc fut hissé aussitôt. Nous reconnaissions notre défaite, aussi loin que le Garibaldi était concerné. Je ne m’engageais pas sur la reddition des porte-mines et des mines à tête nucléaires, cependant…
 Je me dépêchai d’atteindre le poste de pilotage. Joachim Cassiraud était là lui aussi. C’est donc lui qui s’occuperait d’évacuer le pilote survivant avec moi. Un coup d’œil rapide me permit de constater que c’était Thomas Lane, son collègue étant indéniablement décédé. Joachim placa rapidement le masque respiratoire de Thomas sur son visage (à Thomas). Il régla le débit d’oxygène à un peu plus que la normale, pour espérer réveiller le pilote inconscient. Celui-ci avait saigné du nez et des oreilles, comme moi, mais semblait en avoir souffert un peu plus. Joachim fixa également le casque du pilote, puis le scella. Nous nous décidâmes à le porter à deux, et nous nous dépêchâmes de rejoindre la navette.
-Secoué par le transport, Thomas se réveilla en cours de route. Il comprit vite ce qui se passait, et il insista pour marcher de lui-même. Ses premiers pas furent titubants, mais il reprit rapidement ses esprits et nous pûmes terminer le trajet plus rapidement que nous ne l’avions commencé. Aussitôt arrivés au sas d’embarquement de la navette — nous étions les premiers —, Thomas se plaça au poste de pilotage et lança le préchauffage des réacteurs. Les douze survivants restants arrivèrent rapidement. Il ne restait que deux blessés inconscients, deux autres s’étant réveillés un peu comme l’avait fait Thomas. Chacun prit place dans la navette à la hâte. Je m’installai à côté de Thomas pour faire copilote — il se trouvait que j’étais ce qu’il y restait de plus proche d’un pilote à part lui. Nous décollâmes rapidement, l’espace s’offrit à nous. La vue était plutôt jolie, car nous n’étions pas bien loin juste au dessus de la planète Mikuro, beau caillou bleu dans l’espace noir. Une série de bips nerveux se fit entendre dans notre console, qui s’expliqua rapidement lorsque nous regardâmes le visuel tactique : de multiples signatures de missilse apparaissaient dessus. Les impériaux nous avaient tiré dessus ! Ou du moins ils avaient tiré sur le Garibaldi en approche.</Text>
+Secoué par le transport, Thomas se réveilla en cours de route. Il comprit vite ce qui se passait, et il insista pour marcher de lui-même. Ses premiers pas furent titubants, mais il reprit rapidement ses esprits et nous pûmes terminer le trajet plus rapidement que nous ne l’avions commencé. Aussitôt arrivés au sas d’embarquement de la navette — nous étions les premiers —, Thomas se plaça au poste de pilotage et lança le préchauffage des réacteurs. Les douze survivants restants arrivèrent rapidement. Il ne restait que deux blessés inconscients, deux autres s’étant réveillés un peu comme l’avait fait Thomas. Chacun prit place dans la navette à la hâte. Je m’installai à côté de Thomas pour faire copilote — il se trouvait que j’étais ce qu’il y restait de plus proche d’un pilote à part lui. Nous décollâmes rapidement, l’espace s’offrit à nous. La vue était plutôt jolie, car nous n’étions pas bien loin juste au dessus de la planète Mikuro, beau caillou bleu dans l’espace noir. Une série de bips nerveux se fit entendre dans notre console, qui s’expliqua rapidement lorsque nous regardâmes le visuel tactique : de multiples signatures de missilse apparaissaient dessus. Les impériaux nous avaient tiré dessus ! Ou du moins ils avaient tiré sur le Garibaldi en approche.
+« Thomas {utiliser le nom de famille du mec à la place, plutôt} il faut activer les boucliers de furtivité, vite !
+— J’y travaille, commandant ! Il faut quelqu’un pour continuer à manœuvrer en même temps.
+— Je manœuvre, vous vous chargez des boucliers.
+— Entendu. »</Text>
             <Notes>À ajouter :
 Cassireau reste dans sa boîte pendant plusieurs semaines de voyage, et va mettre ses nanites dans la soupe en secret.
 
@@ -800,6 +903,37 @@ Cassireau reste en secret sur le vaisseau après que Noemi les fiche dehors. Il 
         </Document>
         <Document ID="6">
             <Title>Personnages</Title>
+        </Document>
+        <Document ID="30">
+            <Title>Les canons à trucs</Title>
+            <Text>Merci twitter ! XD
+Conversation complète :
+tut_tuuut: Mon histoire est dans une phase un peu molle. Il est temps de donner des coups de canon maser pour réveiller ce petit monde. #campNanoFr
+FlorianJudith: @tut_tuuut vas y Crame nous tout çà à coup de micro ondes !
+tut_tuuut: @FlorianJudith Ça fait un peu soupe-minute, les combats au micro-ondes.
+FlorianJudith: @tut_tuuut J'imagine un petit "ding" juste avant l'explosion du vaisseau ennemi XD
+tut_tuuut: @FlorianJudith *Ding* « Ah, c'est prêt. » BOOOM \o/
+edasfr: @tut_tuuut il faut passer à la puissance supérieure, et si tu avais des canons naser maintenant ? :)
+tut_tuuut: @edasfr 10^-9 c'est quoi ? Les rayons X ? Oh ouaiiiis. Je vais faire des canons triple-action. (l+m+n)aser. :D
+edasfr: @tut_tuuut moi j'aurais dit "canons naser" -> canons à neutrons (ouais, je sais, j'ai peu d'imagination)
+tut_tuuut: @edasfr Pour un canons à neutrons, je ne mettrais pas de "ser" à la place. Je me souviens trop bien de mes cours de physique. ^^
+desbenoit: @tut_tuuut @edasfr et un canon à NaCL ?
+edasfr: @tut_tuuut avec l'affaiblissement progressif de l'attention aux détails et à la langue, dans un futur de SF, ça sera leur dernier souci :)
+tut_tuuut: @edasfr Mais du coup je cherche un nom commercial pour un canon à neutrons. « Avec neutroboum®, les méchants font boum ! »
+desbenoit: @tut_tuuut @edasfr Neutrhino ?
+tut_tuuut: @desbenoit @edasfr Ça, ça existe déjà. Ça s'appelle une salière. :-"
+desbenoit: @tut_tuuut @edasfr Passez à la charge avec Neutrhino™
+tut_tuuut: @desbenoit @edasfr Ça sonne trop bien comme nom de médoc anti rhume des foins. XD
+desbenoit: @tut_tuuut @edasfr Soignez une rhino-pharyngite avec des neutrons, c'est maintenant possible ! Essayez Neutrhino !
+desbenoit: @tut_tuuut @edasfr *soigner*
+edasfr: @desbenoit @tut_tuuut "aux extraits de neutrinos naturels" et ça fonctionne
+desbenoit: @edasfr @tut_tuuut c'est canon, mais ce n'est pas une arme de destruction massive...
+desbenoit: @tut_tuuut @edasfr sinon tu peux créer un quaser. Un faisceau qui excite les quarks de tout atome provocant une vaporisation immédiate.
+edasfr: @desbenoit @tut_tuuut ou un canon à Voix (Dune inside), en plus il y a un nom technique pour ça : Haut Parleur
+desbenoit: @tut_tuuut @edasfr le seul moyen de défense serait la création d'une couche de vide absolu
+FlorianJudith: @edasfr @desbenoit @tut_tuuut le retour des modules étranges \o/
+tut_tuuut: @edasfr @desbenoit Tiens, je me souvenais pas du canon à voix. Mais dans le vide de l'espace, les ondes mécaniques, c'est pas ça.
+tut_tuuut: @edasfr @desbenoit (N'empêche tu m'as fait rire avec ton tweet sur le haut-parleur.)</Text>
         </Document>
         <Document ID="23">
             <Title>Retour à la lumière</Title>
