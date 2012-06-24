@@ -157,7 +157,7 @@
                         <NotesTextSelection>510,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8872,0</TextSelection>
+                        <TextSelection>12361,6</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="31" Type="Text" Created="2012-06-21 23:40:48 +0200" Modified="2012-06-24 22:10:15 +0200">
@@ -167,7 +167,27 @@
                         <NotesTextSelection>5,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>22948,0</TextSelection>
+                        <TextSelection>8286,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" Type="Text" Created="2012-06-24 22:12:56 +0200" Modified="2012-06-24 22:45:24 +0200">
+                    <Title>Bathilda « N.V. » Hammonds</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4055,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" Type="Text" Created="2012-06-24 22:45:37 +0200" Modified="2012-06-25 00:27:55 +0200">
+                    <Title>Estelle agresse Bathilda</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14803,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -365,8 +385,8 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-07-01 00:30:13 +0200" IgnoreDeadline="No">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">3300</SessionTarget>
-        <PreviousSession Words="774" Characters="4664" Date="2012-06-24 22:11:03 +0200"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetDaily="Yes" DeterminedFromDeadline="No" WritingDays="">2000</SessionTarget>
+        <PreviousSession Words="612" Characters="3418" Date="2012-06-25 00:41:32 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
