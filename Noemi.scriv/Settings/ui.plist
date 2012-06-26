@@ -9,16 +9,18 @@
 		<key>Title</key>
 		<string>Poche-FR</string>
 	</dict>
+	<key>binderIsCollapsed</key>
+	<true/>
 	<key>binderSelection</key>
 	<array>
-		<integer>17</integer>
+		<integer>19</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {191, 710}}</string>
-		<string>{{192, 0}, {1041, 710}}</string>
+		<string>{{192, 0}, {778, 710}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -29,6 +31,8 @@
 		<integer>25</integer>
 		<integer>2</integer>
 	</array>
+	<key>binderWidth</key>
+	<real>191</real>
 	<key>collectionsHeight</key>
 	<real>101</real>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
@@ -61,7 +65,7 @@
 		<key>showsLineNumbers</key>
 		<false/>
 		<key>textScale</key>
-		<integer>150</integer>
+		<integer>175</integer>
 		<key>usesFacingPages</key>
 		<false/>
 		<key>usesTypewriterScrolling</key>
@@ -70,7 +74,7 @@
 	<key>iconsShowLabels</key>
 	<true/>
 	<key>inspectorIsCollapsed</key>
-	<false/>
+	<true/>
 	<key>inspectorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {751, 684}}</string>
@@ -80,7 +84,7 @@
 	<real>289</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>33</integer>
+		<integer>35</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -89,7 +93,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>267</integer>
+		<integer>273</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -2260,12 +2264,60 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>34</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>28</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>15</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>14</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>34</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>35</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2680.8}, {588.8, 510.4}}</string>
+	<string>{{0, 5376.8}, {495.2, 510.4}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{11958, 0}</string>
+	<string>{20437, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -2278,7 +2330,7 @@
 		<true/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>47 46 1233 732 0 0 1280 778 </string>
+	<string>477 46 634 732 0 0 1280 778 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>countDraftFootnotes</key>
